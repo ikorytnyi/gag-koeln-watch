@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
-"""Check gag-koeln.de for new rental listings, diff against stored state, email on changes.
+"""Fetch current rental listings from gag-koeln.de and print them as JSON.
 
-State file: seen.json — {"ids": {object_id: {title, address, rent, area, rooms, facilities, url}}}
+State/diffing is NOT done here — the calling agent compares this output
+against a previously stored state (e.g. a file in Google Drive) and decides
+whether to notify and how to update the stored state. This keeps the script
+free of any write access requirements (GitHub push, etc).
+
+Output: JSON object {object_id: {title, address, rent, area, rooms, facilities, url}}
 """
 import json
 import re
-import sys
 import urllib.request
-from pathlib import Path
 
 URL = "https://www.gag-koeln.de/immobiliensuche/wohnung-mieten"
-STATE_FILE = Path(__file__).parent / "seen.json"
 
 
 def fetch_html(url: str) -> str:
@@ -58,59 +60,10 @@ def parse_listings(html: str) -> dict:
     return listings
 
 
-def load_state() -> dict:
-    if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text())
-    return {"ids": {}}
-
-
-def save_state(current: dict) -> None:
-    STATE_FILE.write_text(json.dumps({"ids": current}, ensure_ascii=False, indent=2))
-
-
-def format_report(new_ids: list, current: dict) -> str:
-    by_rooms: dict[str, int] = {}
-    for oid in new_ids:
-        rooms = current[oid]["rooms"] or "?"
-        by_rooms[rooms] = by_rooms.get(rooms, 0) + 1
-
-    lines = [f"Нові оголошення на gag-koeln.de: {len(new_ids)}", ""]
-    lines.append("За кількістю кімнат:")
-    for rooms in sorted(by_rooms, key=lambda r: (r == "?", r)):
-        lines.append(f"  {rooms} кімн.: {by_rooms[rooms]}")
-
-    five_room = [oid for oid in new_ids if current[oid]["rooms"] == "5"]
-    if five_room:
-        lines.append("")
-        lines.append("Деталі 5-кімнатних квартир:")
-        for oid in five_room:
-            item = current[oid]
-            lines.append(f"- {item['title']}")
-            lines.append(f"  {item['address']}")
-            lines.append(f"  {item['rent']}, {item['area']}")
-            if item["facilities"]:
-                lines.append(f"  {', '.join(item['facilities'])}")
-            lines.append(f"  {item['url']}")
-            lines.append("")
-
-    return "\n".join(lines)
-
-
 def main() -> None:
     html = fetch_html(URL)
     current = parse_listings(html)
-    state = load_state()
-    previous_ids = set(state["ids"].keys())
-    current_ids = set(current.keys())
-    new_ids = sorted(current_ids - previous_ids)
-
-    save_state(current)
-
-    if new_ids:
-        print("CHANGED")
-        print(format_report(new_ids, current))
-    else:
-        print("NO_CHANGE")
+    print(json.dumps(current, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

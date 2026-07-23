@@ -13,42 +13,54 @@ https://www.gag-koeln.de/immobiliensuche/wohnung-mieten
   (`object_id → title/address/rent/area/rooms/facilities/url`). Скрипт **не**
   зберігає стан і нічого нікуди не пише — лише читає сайт. Порівняння з
   попереднім станом виконує сама рутина (агент), а не скрипт.
-- `seen.json` — стан: усі оголошення, побачені на попередньому запуску.
-  Оновлюється напряму через GitHub REST API (не через `git push`, не через
-  Google Drive — див. нижче чому).
+- `seen.json` — застарілий файл стану з часів, коли стан тримали в цьому
+  репозиторії через GitHub REST API. Більше не оновлюється (див. нижче чому),
+  залишений лише як історичний артефакт.
 
 ## Архітектура
 
 Керується хмарною рутиною Claude (Routines, `/schedule`):
 
 - **Repository**: цей репозиторій підключено до рутини в режимі read-only —
-  клонується, `check.py` запускається. GitHub-конектор Claude (той, що
-  підключається через claude.ai/customize/connectors) підтримує лише
-  читання — `git push` і виклик `push_files` через MCP повертають 403
-  "Resource not accessible by integration" (поточне обмеження
-  research-preview фічі).
-- **Стан** ("вже побачені" оголошення): файл `seen.json` у **цьому ж
-  репозиторії**, але оновлюється не через git-клон, а прямими HTTP-запитами
-  до **GitHub REST API** (`GET`/`PUT /repos/{owner}/{repo}/contents/{path}`)
-  за допомогою окремого **Personal Access Token** (fine-grained, права лише
-  "Contents: Read and write", обмежений тільки цим репозиторієм). Цей
-  токен — не той самий, що в GitHub-конектора Claude, тому обмеження вище
-  на нього не діють. `PUT` з правильним `sha` поточної версії файлу оновлює
-  файл на місці (справжній git-комміт, без дублікатів, з історією версій).
+  клонується, `check.py` запускається.
+- **Стан** ("вже побачені" оголошення): файли `gag-koeln-seen-<ISO-timestamp>.json`
+  у Google Drive акаунта, до якого підключено рутину. Кожен запуск шукає всі
+  файли за префіксом `gag-koeln-seen-`, бере **лексикографічно останній**
+  (timestamp у форматі `YYYY-MM-DDTHH-MM`, без двокрапок — сортується як
+  рядок так само, як і за часом) як попередній стан, і при потребі **створює
+  новий** файл з поточним timestamp (Drive-конектор не підтримує
+  update/overwrite/delete — тому апдейт неможливий, лишається "найновіший
+  виграє"). Часові мітки в іменах дають змогу візуально відсортувати файли в
+  Drive і час від часу вручну видаляти старі копії (автоматично це зробити
+  не можна — інструменту delete в конекторі немає).
 
-  Раніше для стану використовувався Google Drive — довелось відмовитись,
-  бо тамтешній конектор Claude має лише 8 інструментів (Download file
-  content, Get file metadata, Get file permissions, List recent files,
-  Read file content, Search files, Copy file, Create file) — без
-  update/overwrite/delete, тому кожен запуск створював новий файл замість
-  оновлення, і вони накопичувались дублікатами.
+  **Чому не GitHub, і не пряме оновлення в Drive:** пробували два інші
+  варіанти, обидва заблоковані на рівні платформи:
+  1. GitHub-конектор Claude (через claude.ai/customize/connectors) має лише
+     читання — `git push` і MCP `push_files` повертають 403 "Resource not
+     accessible by integration".
+  2. Прямий виклик GitHub REST API (`PUT .../contents/seen.json`) з окремим
+     Personal Access Token (в обхід GitHub-конектора Claude) теж не
+     спрацював — цього разу заблокував сам egress-проксі хмарного
+     середовища рутини: "Write access to this GitHub API path is not
+     permitted through this proxy". Це, схоже, навмисне обмеження безпеки
+     на рівні платформи для будь-яких write-запитів до api.github.com з
+     хмарних рутин, незалежно від токена.
+  3. Google Drive-конектор має лише 8 інструментів (Download file content,
+     Get file metadata, Get file permissions, List recent files, Read file
+     content, Search files, Copy file, Create file) — без
+     update/overwrite/delete. Це не платформне обмеження безпеки, а просто
+     неповний набір інструментів конектора — тому єдиний робочий підхід:
+     створювати новий файл щоразу (з timestamp у назві для керованості).
 - **Сповіщення**: Telegram-бот, повідомлення надсилаються напряму через
   Telegram Bot API (`curl` всередині сесії рутини), а не через Gmail —
   Gmail-конектор Claude вміє лише створювати чернетки (`create_draft`), не
   надсилати листи автономно (свідоме обмеження безпеки). Надсилається тільки
-  якщо є нові оголошення.
+  якщо є нові оголошення. Telegram API, на відміну від GitHub, не блокується
+  проксі для запису.
 - **Мережевий доступ середовища**: Custom allowlist, домени
-  `www.gag-koeln.de`, `api.telegram.org`, `api.github.com`.
+  `www.gag-koeln.de` і `api.telegram.org` (`api.github.com` більше не
+  потрібен для запису стану).
 - **Розклад**: будні дні (пн–пт), о 8:00, 10:00, 12:00, 15:00 (Europe/Berlin).
   Поле "Cron expression" у налаштуваннях рутини інтерпретується **в UTC**,
   хоча підпис "Repeats" у інтерфейсі оманливо показує ці самі цифри так, ніби
@@ -69,11 +81,10 @@ https://www.gag-koeln.de/immobiliensuche/wohnung-mieten
 
 - ID рутини: `trig_01R2F9hf5CE3GrMG33gvAcgQ`
 - ID середовища: `env_01V6DDcKskE5E2o2kRoVpCcn`
-- Текст промпту (Instructions) — див. нижче. Значення `<TELEGRAM_BOT_TOKEN>`,
-  `<TELEGRAM_CHAT_ID>` і `<GITHUB_PAT>` — **секрети, ніколи не комітяться в
-  цей репозиторій** (зберігаються лише в полі Instructions самої рутини на
-  claude.ai). `GITHUB_PAT` — fine-grained personal access token, обмежений
-  тільки цим репозиторієм, з правом лише "Contents: Read and write".
+- Текст промпту (Instructions) — див. нижче. Значення `<TELEGRAM_BOT_TOKEN>`
+  і `<TELEGRAM_CHAT_ID>` — **секрети, ніколи не комітяться в цей
+  репозиторій** (зберігаються лише в полі Instructions самої рутини на
+  claude.ai).
 
 ```
 Repository: ikorytnyi/gag-koeln-watch (read-only clone, already available for check.py).
@@ -81,13 +92,12 @@ Repository: ikorytnyi/gag-koeln-watch (read-only clone, already available for ch
 1. Run: python3 check.py
    This prints JSON: {object_id: {title, address, rent, area, rooms, facilities, url}} — the currently listed apartments.
 
-2. Fetch the previous state via the GitHub REST API using Bash + curl:
-     curl -s -H "Authorization: Bearer <GITHUB_PAT>" -H "Accept: application/vnd.github+json" \
-       "https://api.github.com/repos/ikorytnyi/gag-koeln-watch/contents/seen.json"
-   - If it returns 200: base64-decode the "content" field to get the previous state JSON,
-     and remember the "sha" field (needed for the update in step 6).
-   - If it returns 404: treat the previous state as an empty object {} and remember that
-     there is no existing sha (this will be a file creation, not an update).
+2. Using the Google Drive connector, search "My Drive" for files whose name starts
+   with "gag-koeln-seen-" and ends with ".json".
+   - If one or more found: sort by filename (lexicographic sort — the timestamp
+     format makes this equivalent to chronological order) and read the content
+     of the LAST one (most recent) as the previous state.
+   - If none found: treat the previous state as an empty object {}.
 
 3. Compute new_ids = object_ids present in step 1 but absent from the previous state.
 
@@ -112,20 +122,19 @@ Repository: ikorytnyi/gag-koeln-watch (read-only clone, already available for ch
 
 5. If new_ids is empty: do not send any Telegram message.
 
-6. Regardless of steps 4/5: update "seen.json" in the GitHub repo with the full
-   current listings JSON from step 1, via a PUT request to the GitHub REST API:
-     curl -s -X PUT -H "Authorization: Bearer <GITHUB_PAT>" -H "Accept: application/vnd.github+json" \
-       -d '{"message": "update seen state", "content": "<base64 of the JSON from step 1>", "sha": "<sha from step 2, omit this field entirely if step 2 returned 404>"}' \
-       "https://api.github.com/repos/ikorytnyi/gag-koeln-watch/contents/seen.json"
-   Only do this if step 1 succeeded and step 2 completed without error — don't
-   overwrite state if something failed, to avoid silently losing track of listings.
-
-Do not use git clone/push for seen.json — use the GitHub REST API calls above only.
+6. Regardless of steps 4/5: using the Google Drive connector, create a NEW file
+   named "gag-koeln-seen-<UTC timestamp of this run, format YYYY-MM-DDTHH-MM,
+   colons replaced with hyphens>.json" containing the full current listings JSON
+   from step 1. Only do this if step 1 succeeded and step 2 completed without
+   error — don't create a new state file if something failed, to avoid silently
+   losing track of listings. Do NOT attempt to update or delete the older
+   gag-koeln-seen-*.json files — the Drive connector doesn't support that;
+   just leave them (a human cleans them up periodically).
 ```
 
 ### Конектори рутини
 
 - `Claude_Code_Remote` — стандартний, додається автоматично
+- `Google-Drive` — читання/створення файлів стану
 
-Google Drive і Gmail не потрібні — стан і сповіщення йдуть напряму через
-GitHub REST API та Telegram Bot API (curl), без MCP-конекторів.
+Gmail не потрібен — сповіщення йдуть через Telegram Bot API (curl).

@@ -1,0 +1,46 @@
+{
+  "1900-04249-008-079": {
+    "title": "2 Zimmer Wohnung Hochparterre, 59,84 qm   in der Naumannsiedlung in 50735 Köln",
+    "address": "Goldfußstr. 5, 50735 Köln Riehl",
+    "rent": "902,90 €",
+    "area": "59,84 m²",
+    "rooms": "2",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-008-079"
+  },
+  "1900-08061-004-006": {
+    "title": "Tolle Maisonette-Wohnung mit Dachterrasse",
+    "address": "Kalker Hauptstraße 116, 51103 Köln Kalk",
+    "rent": "1.656,40 €",
+    "area": "110,13 m²",
+    "rooms": "3",
+    "facilities": [
+      "Bad mit Dusche",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-004-006"
+  },
+  "8110-00272-002-013": {
+    "title": "Gemütliche 3-ZKB Wohnung mit Loggia in beliebter Lage von Köln-Poll",
+    "address": "Zum Gremberger Wäldchen 32, 51105 Köln Poll",
+    "rent": "1.273,90 €",
+    "area": "79,23 m²",
+    "rooms": "3",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00272-002-013"
+  }
+}

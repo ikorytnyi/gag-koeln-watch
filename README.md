@@ -62,20 +62,21 @@ https://www.gag-koeln.de/immobiliensuche/wohnung-mieten
 - **Мережевий доступ середовища**: Custom allowlist, домени
   `www.gag-koeln.de` і `api.telegram.org` (`api.github.com` більше не
   потрібен для запису стану).
-- **Розклад**: будні дні (пн–пт), о 8:00, 10:00, 12:00, 15:00 (Europe/Berlin).
-  Поле "Cron expression" у налаштуваннях рутини інтерпретується **в UTC**,
-  хоча підпис "Repeats" у інтерфейсі оманливо показує ці самі цифри так, ніби
-  вони вже локальні (візуальний баг інтерфейсу — орієнтуватись на нього не
-  можна, тільки на фактичні спрацювання в "Runs"). Поточне значення поля:
+- **Розклад**: щодня (без винятків для вихідних), о 8:00, 10:00, 12:00, 15:00
+  (Europe/Berlin). Поле "Cron expression" у налаштуваннях рутини
+  інтерпретується **в UTC**, хоча підпис "Repeats" у інтерфейсі оманливо
+  показує ці самі цифри так, ніби вони вже локальні (візуальний баг
+  інтерфейсу — орієнтуватись на нього не можна, тільки на фактичні
+  спрацювання в "Runs"). Поточне значення поля:
 
   ```
-  0 6,8,10,13 * * 1-5
+  0 6,8,10,13 * * *
   ```
 
   Це відповідає 8:00/10:00/12:00/15:00 за Berlin **у літній час (CEST,
   UTC+2)**. Коли Німеччина перейде на зимовий час (кінець жовтня, UTC+1),
   цей вираз почне давати 9:00/11:00/13:00/16:00 замість потрібних годин —
-  тоді значення треба вручну поміняти на `0 7,9,11,14 * * 1-5` (і навпаки
+  тоді значення треба вручну поміняти на `0 7,9,11,14 * * *` (і навпаки
   наприкінці березня, коли повертається літній час).
 
 ## Відновлення рутини (якщо доведеться створювати заново)
@@ -124,10 +125,12 @@ Repository: ikorytnyi/gag-koeln-watch (read-only clone, already available for ch
 
 5. If new_ids is empty: do not send any Telegram message.
 
-6. Regardless of steps 4/5: using the Google Drive connector, create a NEW file
-   inside the folder with ID "1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF" (the "GAG"
-   folder), named "gag-koeln-seen-<UTC timestamp of this run, format
-   YYYY-MM-DDTHH-MM, colons replaced with hyphens>.json", containing the full
+6. Regardless of steps 4/5: get the current UTC timestamp by running
+   `date -u +%Y-%m-%dT%H-%M` via Bash — do NOT guess or compute this
+   timestamp yourself, always run the command and use its exact output.
+   Using the Google Drive connector, create a NEW file inside the folder with
+   ID "1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF" (the "GAG" folder), named
+   "gag-koeln-seen-<output of the date command>.json", containing the full
    current listings JSON from step 1. Only do this if step 1 succeeded and step
    2 completed without error — don't create a new state file if something
    failed, to avoid silently losing track of listings. Do NOT attempt to update

@@ -1,4 +1,19 @@
 {
+  "1900-04810-008-077": {
+    "address": "Margarete-Humbach-Str. 7, 50737 Köln Weidenpesch",
+    "area": "57,34 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "rent": "708,06 €",
+    "rooms": "2",
+    "title": "Neubau Simonskaul: Moderne 2- Zimmer Wohnung NUR mit WBS !",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04810-008-077"
+  },
   "1900-08061-004-006": {
     "address": "Kalker Hauptstraße 116, 51103 Köln Kalk",
     "area": "110,13 m²",
@@ -13,6 +28,20 @@
     "rooms": "3",
     "title": "Tolle Maisonette-Wohnung mit Dachterrasse",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-004-006"
+  },
+  "8110-00054-005-041": {
+    "address": "Tacitusstr. 25, 50968 Köln Bayenthal",
+    "area": "48,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "739,60 €",
+    "rooms": "1",
+    "title": "Gemütliche 1,5-Zimmer-Wohnung mit Loggia in beliebter Lage von Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00054-005-041"
   },
   "8110-00272-002-013": {
     "address": "Zum Gremberger Wäldchen 32, 51105 Köln Poll",

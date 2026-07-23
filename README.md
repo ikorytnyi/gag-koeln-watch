@@ -24,8 +24,9 @@ https://www.gag-koeln.de/immobiliensuche/wohnung-mieten
 - **Repository**: цей репозиторій підключено до рутини в режимі read-only —
   клонується, `check.py` запускається.
 - **Стан** ("вже побачені" оголошення): файли `gag-koeln-seen-<ISO-timestamp>.json`
-  у Google Drive акаунта, до якого підключено рутину. Кожен запуск шукає всі
-  файли за префіксом `gag-koeln-seen-`, бере **лексикографічно останній**
+  у папці **"GAG"** на Google Drive (`folderId: 1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF`).
+  Кожен запуск шукає всі файли за префіксом `gag-koeln-seen-` **саме в цій
+  папці** (не по всьому диску), бере **лексикографічно останній**
   (timestamp у форматі `YYYY-MM-DDTHH-MM`, без двокрапок — сортується як
   рядок так само, як і за часом) як попередній стан, і при потребі **створює
   новий** файл з поточним timestamp (Drive-конектор не підтримує
@@ -92,7 +93,8 @@ Repository: ikorytnyi/gag-koeln-watch (read-only clone, already available for ch
 1. Run: python3 check.py
    This prints JSON: {object_id: {title, address, rent, area, rooms, facilities, url}} — the currently listed apartments.
 
-2. Using the Google Drive connector, search "My Drive" for files whose name starts
+2. Using the Google Drive connector, search for files inside the folder with
+   ID "1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF" (the "GAG" folder) whose name starts
    with "gag-koeln-seen-" and ends with ".json".
    - If one or more found: sort by filename (lexicographic sort — the timestamp
      format makes this equivalent to chronological order) and read the content
@@ -123,13 +125,14 @@ Repository: ikorytnyi/gag-koeln-watch (read-only clone, already available for ch
 5. If new_ids is empty: do not send any Telegram message.
 
 6. Regardless of steps 4/5: using the Google Drive connector, create a NEW file
-   named "gag-koeln-seen-<UTC timestamp of this run, format YYYY-MM-DDTHH-MM,
-   colons replaced with hyphens>.json" containing the full current listings JSON
-   from step 1. Only do this if step 1 succeeded and step 2 completed without
-   error — don't create a new state file if something failed, to avoid silently
-   losing track of listings. Do NOT attempt to update or delete the older
-   gag-koeln-seen-*.json files — the Drive connector doesn't support that;
-   just leave them (a human cleans them up periodically).
+   inside the folder with ID "1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF" (the "GAG"
+   folder), named "gag-koeln-seen-<UTC timestamp of this run, format
+   YYYY-MM-DDTHH-MM, colons replaced with hyphens>.json", containing the full
+   current listings JSON from step 1. Only do this if step 1 succeeded and step
+   2 completed without error — don't create a new state file if something
+   failed, to avoid silently losing track of listings. Do NOT attempt to update
+   or delete the older gag-koeln-seen-*.json files — the Drive connector
+   doesn't support that; just leave them (a human cleans them up periodically).
 ```
 
 ### Конектори рутини

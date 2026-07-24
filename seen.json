@@ -1,19 +1,4 @@
 {
-  "1900-06540-003-022": {
-    "address": "Borsigstraße 8, 50825 Köln",
-    "area": "77,01 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug"
-    ],
-    "rent": "962,32 €",
-    "rooms": "3",
-    "title": "Modernes Wohnen in Köln-Ehrenfeld – Neubau, nur mit WBS A",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06540-003-022"
-  },
   "1900-08061-004-006": {
     "address": "Kalker Hauptstraße 116, 51103 Köln Kalk",
     "area": "110,13 m²",
@@ -28,6 +13,22 @@
     "rooms": "3",
     "title": "Tolle Maisonette-Wohnung mit Dachterrasse",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-004-006"
+  },
+  "8110-00022-003-121": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "42,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "434,50 €",
+    "rooms": "1",
+    "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-121"
   },
   "8110-00054-005-041": {
     "address": "Tacitusstr. 25, 50968 Köln Bayenthal",

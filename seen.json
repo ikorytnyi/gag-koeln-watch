@@ -1,4 +1,37 @@
 {
+  "1900-01782-001-009": {
+    "address": "Bertha-Sander-Str. 6, 50829 Köln Ossendorf",
+    "area": "66,93 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "rent": "606,40 €",
+    "rooms": "2",
+    "title": "WBS A bis 65qm erforderlich! - Schöne zwei-Zimmerwohnung am Butzweilerhof zu vermieten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01782-001-009"
+  },
+  "1900-08065-007-077": {
+    "address": "Loestr. 8, 51103 Köln Kalk",
+    "area": "82,22 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "1.369,60 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Wohnung mit Terrasse in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08065-007-077"
+  },
   "1900-08441-001-011": {
     "address": "Hauptstraße 340, 51143 Köln Porz",
     "area": "77,83 m²",

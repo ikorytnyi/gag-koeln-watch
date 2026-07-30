@@ -13,6 +13,20 @@
     "title": "Drei-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-009-065"
   },
+  "1900-02780-015-120": {
+    "address": "Wezelostr. 32, 50765 Köln Volkhoven/Weiler",
+    "area": "44,55 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "639,00 €",
+    "rooms": "1",
+    "title": "Zwei-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-015-120"
+  },
   "8110-00272-002-013": {
     "address": "Zum Gremberger Wäldchen 32, 51105 Köln Poll",
     "area": "79,23 m²",
@@ -27,5 +41,39 @@
     "rooms": "3",
     "title": "Gemütliche 3-ZKB Wohnung mit Loggia in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00272-002-013"
+  },
+  "8110-00478-005-048": {
+    "address": "Danziger Str. 22, 51145 Köln Urbach",
+    "area": "46,49 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "561,90 €",
+    "rooms": "1",
+    "title": "WBS A - 50 m² erforderlich! Schickes Apartment in Porz-Urbach!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-005-048"
+  },
+  "8110-00480-002-026": {
+    "address": "Danziger Straße 5, 51145 Köln Urbach",
+    "area": "61,72 m²",
+    "facilities": [
+      "Haustiere erlaubt",
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "647,60 €",
+    "rooms": "2",
+    "title": "WBS A - 65 m²! Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00480-002-026"
   }
 }

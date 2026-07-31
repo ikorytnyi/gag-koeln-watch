@@ -1,4 +1,19 @@
 {
+  "1900-06540-004-043": {
+    "address": "Borsigstraße 10, 50825 Köln",
+    "area": "47,86 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "rent": "597,71 €",
+    "rooms": "2",
+    "title": "Modernes Wohnen in Köln-Ehrenfeld – Neubau, nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06540-004-043"
+  },
   "8110-00272-002-013": {
     "address": "Zum Gremberger Wäldchen 32, 51105 Köln Poll",
     "area": "79,23 m²",
@@ -13,52 +28,5 @@
     "rooms": "3",
     "title": "Gemütliche 3-ZKB Wohnung mit Loggia in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00272-002-013"
-  },
-  "8110-00372-002-010": {
-    "address": "Aeltgen-Dünwald-Str. 53, 51069 Köln Dünnwald",
-    "area": "52,88 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Garten/ -mitbenutzung"
-    ],
-    "rent": "776,90 €",
-    "rooms": "2",
-    "title": "BARRIEREFREIE 2 Zimmer Wohnung mit WBS 50qm",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00372-002-010"
-  },
-  "8110-00478-005-048": {
-    "address": "Danziger Str. 22, 51145 Köln Urbach",
-    "area": "46,49 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Barrierefrei",
-      "Garten/ -mitbenutzung",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "561,90 €",
-    "rooms": "1",
-    "title": "WBS A - 50 m² erforderlich! Schickes Apartment in Porz-Urbach!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-005-048"
-  },
-  "8110-00480-002-026": {
-    "address": "Danziger Straße 5, 51145 Köln Urbach",
-    "area": "61,72 m²",
-    "facilities": [
-      "Haustiere erlaubt",
-      "Keller",
-      "Bad mit Dusche",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "647,60 €",
-    "rooms": "2",
-    "title": "WBS A - 65 m²! Schöne 2-Zimmer-Wohnung in Porz!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00480-002-026"
   }
 }

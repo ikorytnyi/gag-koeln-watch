@@ -1,4 +1,20 @@
 {
+  "1900-02118-001-015": {
+    "address": "Heidelberger Str. 61/63, 51065 Köln Buchforst",
+    "area": "61,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "812,40 €",
+    "rooms": "2",
+    "title": "Moderne 2 Zi. Whg. mit offenem Wohnbereich und Balkon!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02118-001-015"
+  },
   "8110-00022-003-163": {
     "address": "Pohlmanstr. 13, 50735 Köln Niehl",
     "area": "55,00 m²",
@@ -29,5 +45,22 @@
     "rooms": "3",
     "title": "Gemütliche 3-ZKB Wohnung mit Loggia in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00272-002-013"
+  },
+  "8110-00846-001-014": {
+    "address": "Heinrich-Hoerle-Str. 17a, 50737 Köln Longerich",
+    "area": "56,98 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "618,70 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung mit WOHNBERECHTIGUNGSSCHEIN A , 56,98 qm in Longerich",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00846-001-014"
   }
 }

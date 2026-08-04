@@ -1,17 +1,33 @@
 {
-  "1900-04250-011-107": {
-    "address": "Goldfußstr. 8, 50735 Köln Riehl",
-    "area": "49,17 m²",
+  "1900-05422-001-002": {
+    "address": "An der Pletschbachhecke 2, 50769 Köln",
+    "area": "55,47 m²",
     "facilities": [
       "Keller",
-      "Bad mit Dusche, Fenster",
-      "Balkon",
-      "Zentralheizung"
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Rollstuhlgerecht"
     ],
-    "rent": "768,60 €",
-    "rooms": "2",
-    "title": "2 Zimmer Wohnung  49,17 qm in der Naumannsiedlung",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-011-107"
+    "rent": "747,04 €",
+    "rooms": "1",
+    "title": "Erdgeschoss: Rollstuhlgerechte Wohnung mit WBS A im Neubau",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-002"
+  },
+  "1900-06540-003-026": {
+    "address": "Borsigstraße 8, 50825 Köln",
+    "area": "92,32 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "rent": "1.153,00 €",
+    "rooms": "4",
+    "title": "Modernes Wohnen in Köln-Ehrenfeld – Neubau, nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06540-003-026"
   },
   "8110-00022-003-163": {
     "address": "Pohlmanstr. 13, 50735 Köln Niehl",
@@ -28,21 +44,6 @@
     "rooms": "2",
     "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-163"
-  },
-  "8110-00272-002-013": {
-    "address": "Zum Gremberger Wäldchen 32, 51105 Köln Poll",
-    "area": "79,23 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Garten/ -mitbenutzung",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "1.273,90 €",
-    "rooms": "3",
-    "title": "Gemütliche 3-ZKB Wohnung mit Loggia in beliebter Lage von Köln-Poll",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00272-002-013"
   },
   "8110-00846-001-014": {
     "address": "Heinrich-Hoerle-Str. 17a, 50737 Köln Longerich",

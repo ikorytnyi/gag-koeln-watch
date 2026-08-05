@@ -1,20 +1,4 @@
 {
-  "1900-01778-001-010": {
-    "address": "Bertha-Sander-Str. 21, 50829 Köln Ossendorf",
-    "area": "81,70 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Wanne",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "743,20 €",
-    "rooms": "3",
-    "title": "Nur mit WBS-A ab 80qm! Schöne drei-Zimmerwohnung am Butzweilerhof zu vermieten",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01778-001-010"
-  },
   "1900-05422-001-002": {
     "address": "An der Pletschbachhecke 2, 50769 Köln",
     "area": "55,47 m²",
@@ -29,22 +13,6 @@
     "rooms": "1",
     "title": "Erdgeschoss: Rollstuhlgerechte Wohnung mit WBS A im Neubau",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-002"
-  },
-  "8110-00022-003-163": {
-    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
-    "area": "55,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche",
-      "Seniorengerecht",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "575,70 €",
-    "rooms": "2",
-    "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-163"
   },
   "8110-00846-001-014": {
     "address": "Heinrich-Hoerle-Str. 17a, 50737 Köln Longerich",

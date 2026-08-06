@@ -15,19 +15,6 @@
     "title": "Schöne 3 Zimmer Wohnung am Stammheimer Ufer",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-004-034"
   },
-  "1900-02109-003-022": {
-    "address": "Guerickestr. 6, 51065 Köln Buchforst",
-    "area": "61,76 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Zentralheizung"
-    ],
-    "rent": "754,80 €",
-    "rooms": "2",
-    "title": "2 Zi. Whg. mit Balkon in der 2. Etage zu vermieten!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02109-003-022"
-  },
   "1900-05422-001-002": {
     "address": "An der Pletschbachhecke 2, 50769 Köln",
     "area": "55,47 m²",
@@ -59,5 +46,20 @@
     "rooms": "2",
     "title": "Exklusive, moderne 2-Zimmer-Wohnung mit Loggia und spektakulärem Blick über Köln (Neubau SechtM)",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-001-068"
+  },
+  "8280-06692-001-078": {
+    "address": "Osloer Str. 3, 50765 Köln Chorweiler",
+    "area": "83,72 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "915,50 €",
+    "rooms": "3",
+    "title": "Modernisierte 3-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06692-001-078"
   }
 }

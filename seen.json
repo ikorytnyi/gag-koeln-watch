@@ -15,6 +15,19 @@
     "title": "Schöne 3 Zimmer Wohnung am Stammheimer Ufer",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-004-034"
   },
+  "1900-02109-003-022": {
+    "address": "Guerickestr. 6, 51065 Köln Buchforst",
+    "area": "61,76 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "rent": "754,80 €",
+    "rooms": "2",
+    "title": "2 Zi. Whg. mit Balkon in der 2. Etage zu vermieten!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02109-003-022"
+  },
   "1900-05422-001-002": {
     "address": "An der Pletschbachhecke 2, 50769 Köln",
     "area": "55,47 m²",
@@ -30,35 +43,21 @@
     "title": "Erdgeschoss: Rollstuhlgerechte Wohnung mit WBS A im Neubau",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-002"
   },
-  "8110-00110-001-079": {
-    "address": "Görlinger-Zentrum 9, 50829 Köln Bocklemünd/Mengenich",
-    "area": "85,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "1.037,00 €",
-    "rooms": "4",
-    "title": "4-Zimmer Wohnung in Bocklemünd - Görlinger-Zentrum",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00110-001-079"
-  },
-  "8110-00846-001-014": {
-    "address": "Heinrich-Hoerle-Str. 17a, 50737 Köln Longerich",
-    "area": "56,98 m²",
+  "1900-07571-001-068": {
+    "address": "Bonner Str. 168, 50968 Köln Raderberg",
+    "area": "58,60 m²",
     "facilities": [
       "Keller",
       "Bad mit Dusche",
       "Barrierefrei",
-      "Seniorengerecht",
+      "Gäste-WC",
       "Balkon",
       "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "618,70 €",
+    "rent": "1.611,50 €",
     "rooms": "2",
-    "title": "2 Zimmer Wohnung mit WOHNBERECHTIGUNGSSCHEIN A , 56,98 qm in Longerich",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00846-001-014"
+    "title": "Exklusive, moderne 2-Zimmer-Wohnung mit Loggia und spektakulärem Blick über Köln (Neubau SechtM)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-001-068"
   }
 }

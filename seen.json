@@ -1,4 +1,20 @@
 {
+  "1900-01030-004-034": {
+    "address": "Nathan-Kahn-Straße 13d, 51061 Köln Stammheim",
+    "area": "83,13 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Fußbodenheizung"
+    ],
+    "rent": "1.535,00 €",
+    "rooms": "3",
+    "title": "Schöne 3 Zimmer Wohnung am Stammheimer Ufer",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-004-034"
+  },
   "1900-05422-001-002": {
     "address": "An der Pletschbachhecke 2, 50769 Köln",
     "area": "55,47 m²",
@@ -13,6 +29,20 @@
     "rooms": "1",
     "title": "Erdgeschoss: Rollstuhlgerechte Wohnung mit WBS A im Neubau",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-002"
+  },
+  "8110-00110-001-079": {
+    "address": "Görlinger-Zentrum 9, 50829 Köln Bocklemünd/Mengenich",
+    "area": "85,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "1.037,00 €",
+    "rooms": "4",
+    "title": "4-Zimmer Wohnung in Bocklemünd - Görlinger-Zentrum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00110-001-079"
   },
   "8110-00846-001-014": {
     "address": "Heinrich-Hoerle-Str. 17a, 50737 Köln Longerich",

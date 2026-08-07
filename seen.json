@@ -46,5 +46,17 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "1900-08851-004-032": {
+    "address": "Johann-Classen-Str. 101, 51103 Köln Kalk",
+    "area": "70,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "rent": "869,00 €",
+    "rooms": "3",
+    "title": "3-Zimmer-Wohnung mit Balkon in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08851-004-032"
   }
 }

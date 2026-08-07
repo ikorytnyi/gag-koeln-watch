@@ -59,19 +59,5 @@
     "rooms": "1",
     "title": "Schönes Apartment in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
-  },
-  "8110-00329-024-170": {
-    "address": "Sandglöckchenweg 27, 50765 Köln Volkhoven/Weiler",
-    "area": "44,83 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "457,10 €",
-    "rooms": "1",
-    "title": "Ein-Zimmer-Wohnung mit WBS",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00329-024-170"
   }
 }

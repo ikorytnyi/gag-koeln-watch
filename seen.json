@@ -46,5 +46,92 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "8110-00235-006-038": {
+    "address": "Steinstr. 6, 51143 Köln Porz",
+    "area": "41,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Zentralheizung"
+    ],
+    "rent": "647,00 €",
+    "rooms": "1",
+    "title": "Schönes Apartment in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
+  },
+  "8110-00329-024-170": {
+    "address": "Sandglöckchenweg 27, 50765 Köln Volkhoven/Weiler",
+    "area": "44,83 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "457,10 €",
+    "rooms": "1",
+    "title": "Ein-Zimmer-Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00329-024-170"
+  },
+  "8280-06690-004-305": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "62,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "738,00 €",
+    "rooms": "2",
+    "title": "Modernisierte 2-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-305"
+  },
+  "8280-06690-004-308": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "62,48 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "743,00 €",
+    "rooms": "2",
+    "title": "Modernisierte 2-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-308"
+  },
+  "8280-06690-004-327": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "79,35 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "944,00 €",
+    "rooms": "3",
+    "title": "Modernisierte 3-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-327"
+  },
+  "8280-06690-004-334": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "41,39 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "493,00 €",
+    "rooms": "1",
+    "title": "Modernisierte 1-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-334"
   }
 }

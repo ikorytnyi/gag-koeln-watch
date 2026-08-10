@@ -73,5 +73,21 @@
     "rooms": "1",
     "title": "Schönes Apartment in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
+  },
+  "8110-00847-002-019": {
+    "address": "Remscheider Str. 84, 51103 Köln Kalk",
+    "area": "84,20 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Personenaufzug",
+      "Fußbodenheizung"
+    ],
+    "rent": "1.107,07 €",
+    "rooms": "3",
+    "title": "WBS A min. 80m²: Ruhig gelegene Neubauwohnung in Kalk",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00847-002-019"
   }
 }

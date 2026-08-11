@@ -1,33 +1,4 @@
 {
-  "1900-04249-007-074": {
-    "address": "Goldfußstr. 3, 50735 Köln Riehl",
-    "area": "86,32 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Fenster, Wanne",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "1.292,40 €",
-    "rooms": "2",
-    "title": "2  Zimmer Wohnung, 86,32 qm in der Naumannsiedlung in 50735 Köln",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-007-074"
-  },
-  "1900-05422-001-002": {
-    "address": "An der Pletschbachhecke 2, 50769 Köln",
-    "area": "55,47 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Barrierefrei",
-      "Garten/ -mitbenutzung",
-      "Rollstuhlgerecht"
-    ],
-    "rent": "747,04 €",
-    "rooms": "1",
-    "title": "Erdgeschoss: Rollstuhlgerechte Wohnung mit WBS A im Neubau",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-002"
-  },
   "1900-07571-001-068": {
     "address": "Bonner Str. 168, 50968 Köln Raderberg",
     "area": "58,60 m²",
@@ -60,6 +31,18 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "1900-07605-015-103": {
+    "address": "Sigrid-Undset-Str. 5, 51103 Köln Vingst",
+    "area": "62,02 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "rent": "886,20 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07605-015-103"
   },
   "8110-00235-006-038": {
     "address": "Steinstr. 6, 51143 Köln Porz",

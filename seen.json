@@ -1,18 +1,4 @@
 {
-  "1900-03152-001-005": {
-    "address": "Apoldaer Weg 2, 51103 Köln Höhenberg",
-    "area": "57,95 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "843,70 €",
-    "rooms": "2",
-    "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03152-001-005"
-  },
   "1900-07571-004-184": {
     "address": "Sechtemer Str. 4, 50968 Köln Raderberg",
     "area": "78,02 m²",
@@ -28,18 +14,5 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
-  },
-  "8110-00235-006-038": {
-    "address": "Steinstr. 6, 51143 Köln Porz",
-    "area": "41,01 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Wanne",
-      "Zentralheizung"
-    ],
-    "rent": "647,00 €",
-    "rooms": "1",
-    "title": "Schönes Apartment in Porz!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
   }
 }

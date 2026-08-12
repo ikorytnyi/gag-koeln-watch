@@ -14,5 +14,18 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "8110-00314-009-070": {
+    "address": "Böblinger Str. 18, 50739 Köln Bilderstöckchen",
+    "area": "47,01 m²",
+    "facilities": [
+      "Bad",
+      "Seniorengerecht",
+      "Zentralheizung"
+    ],
+    "rent": "503,90 €",
+    "rooms": "2",
+    "title": "2-Zimmerwohnung mit WBS A 50 m² in der Böblinger Straße- Bilderstöckchen",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00314-009-070"
   }
 }

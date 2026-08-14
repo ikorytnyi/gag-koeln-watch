@@ -45,5 +45,35 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "8110-00220-011-123": {
+    "address": "Nachtigallenstr. 26, 51147 Köln Wahn",
+    "area": "51,03 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Zentralheizung"
+    ],
+    "rent": "522,90 €",
+    "rooms": "2",
+    "title": "WBS A - 50 m² erforderlich! Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00220-011-123"
+  },
+  "8110-00480-002-026": {
+    "address": "Danziger Straße 5, 51145 Köln Urbach",
+    "area": "61,72 m²",
+    "facilities": [
+      "Haustiere erlaubt",
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "647,60 €",
+    "rooms": "2",
+    "title": "WBS A - 65 m²! Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00480-002-026"
   }
 }

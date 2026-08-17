@@ -1,49 +1,4 @@
 {
-  "1900-02013-001-006": {
-    "address": "Barcelona-Allee 6, 51103 Köln Kalk",
-    "area": "44,06 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche",
-      "Balkon",
-      "Personenaufzug",
-      "Fußbodenheizung"
-    ],
-    "rent": "772,40 €",
-    "rooms": "1",
-    "title": "Schöne 1-Zimmer-Wohnung in Köln-Kalk!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02013-001-006"
-  },
-  "1900-02039-001-002": {
-    "address": "Bertha-Benz-Karree 24, 51107 Köln Ostheim",
-    "area": "55,58 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Garten/ -mitbenutzung",
-      "Zentralheizung"
-    ],
-    "rent": "835,30 €",
-    "rooms": "2",
-    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Terrasse und Garten",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02039-001-002"
-  },
-  "1900-02040-001-004": {
-    "address": "Bertha-Benz-Karree 1, 51107 Köln Ostheim",
-    "area": "55,08 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "715,90 €",
-    "rooms": "2",
-    "title": "Waldbadviertel: !WBS (A) 65,00 m²! notwendig! - Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02040-001-004"
-  },
   "1900-05425-002-024": {
     "address": "An der Pletschbachhecke 18, 50769 Köln",
     "area": "58,13 m²",

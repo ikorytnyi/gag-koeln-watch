@@ -1,20 +1,4 @@
 {
-  "1900-05425-001-009": {
-    "address": "An der Pletschbachhecke 16, 50769 Köln",
-    "area": "80,62 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Wanne",
-      "Barrierefrei",
-      "Seniorengerecht",
-      "Balkon",
-      "Personenaufzug"
-    ],
-    "rent": "1.086,40 €",
-    "rooms": "3",
-    "title": "WBS A - 3-Zimmer, separate Küche, Balkon im Neubau",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-001-009"
-  },
   "1900-05425-002-024": {
     "address": "An der Pletschbachhecke 18, 50769 Köln",
     "area": "58,13 m²",
@@ -45,19 +29,6 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
-  },
-  "8110-00220-011-123": {
-    "address": "Nachtigallenstr. 26, 51147 Köln Wahn",
-    "area": "51,03 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Wanne",
-      "Zentralheizung"
-    ],
-    "rent": "522,90 €",
-    "rooms": "2",
-    "title": "WBS A - 50 m² erforderlich! Schöne 2-Zimmer-Wohnung in Porz!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00220-011-123"
   },
   "8110-00480-002-026": {
     "address": "Danziger Straße 5, 51145 Köln Urbach",

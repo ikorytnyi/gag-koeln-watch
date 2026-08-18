@@ -1,19 +1,4 @@
 {
-  "1900-05425-002-024": {
-    "address": "An der Pletschbachhecke 18, 50769 Köln",
-    "area": "58,13 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug"
-    ],
-    "rent": "782,80 €",
-    "rooms": "2",
-    "title": "WBS A - Neubaucharme in Roggendorf",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-002-024"
-  },
   "1900-07571-004-184": {
     "address": "Sechtemer Str. 4, 50968 Köln Raderberg",
     "area": "78,02 m²",
@@ -29,36 +14,6 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
-  },
-  "1900-09235-001-147": {
-    "address": "Neue Kempener Str. 236, 50739 Köln Mauenheim",
-    "area": "65,19 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Fenster, Wanne",
-      "Balkon",
-      "Ofenheizung"
-    ],
-    "rent": "665,00 €",
-    "rooms": "3",
-    "title": "3-Zimmerwohnung in Mauenheim",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-09235-001-147"
-  },
-  "8110-00021-001-113": {
-    "address": "Schiefersburger Weg 54, 50739 Köln Bilderstöckchen",
-    "area": "53,00 m²",
-    "facilities": [
-      "Haustiere erlaubt",
-      "Bad mit Dusche",
-      "Rollstuhlgerecht",
-      "Seniorengerecht",
-      "Balkon",
-      "Personenaufzug"
-    ],
-    "rent": "750,20 €",
-    "rooms": "2",
-    "title": "Seniorenwohnung mit WBS A!!! ab 60 Jahre",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00021-001-113"
   },
   "8110-00480-002-026": {
     "address": "Danziger Straße 5, 51145 Köln Urbach",

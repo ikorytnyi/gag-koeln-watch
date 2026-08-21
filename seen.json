@@ -1,33 +1,4 @@
 {
-  "1900-01639-042-331": {
-    "address": "Ricarda-Huch-Str. 7, 51061 Köln Stammheim",
-    "area": "55,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Fenster",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "712,50 €",
-    "rooms": "2",
-    "title": "Schöne 2-Zimmer-Wohnung in Rheinnähe",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01639-042-331"
-  },
-  "1900-02013-001-020": {
-    "address": "Barcelona-Allee 6, 51103 Köln Kalk",
-    "area": "64,75 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Wanne",
-      "Balkon",
-      "Personenaufzug",
-      "Fernwärme"
-    ],
-    "rent": "1.178,10 €",
-    "rooms": "2",
-    "title": "Helle 2-Zimmer-Wohnung in Köln-Kalk!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02013-001-020"
-  },
   "1900-07571-004-184": {
     "address": "Sechtemer Str. 4, 50968 Köln Raderberg",
     "area": "78,02 m²",
@@ -59,19 +30,6 @@
     "rooms": "2",
     "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-229"
-  },
-  "8110-00431-003-029": {
-    "address": "Ollenhauerring 80, 50829 Köln Bocklemünd/Mengenich",
-    "area": "56,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Fernwärme"
-    ],
-    "rent": "726,20 €",
-    "rooms": "3",
-    "title": "3-Zimmer Wohnung in Bocklemünd",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00431-003-029"
   },
   "8110-00480-002-026": {
     "address": "Danziger Straße 5, 51145 Köln Urbach",

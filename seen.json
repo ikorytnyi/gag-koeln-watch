@@ -44,32 +44,5 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
-  },
-  "8110-00063-006-094": {
-    "address": "Leimbachweg 28, 51069 Köln Dünnwald",
-    "area": "70,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "926,00 €",
-    "rooms": "3",
-    "title": "Helle 3-Zimmer Wohnung mit Balkon und Aufzug in naturnaher Lage von Köln-Dünnwald",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-006-094"
-  },
-  "8110-00283-001-002": {
-    "address": "Leimbachweg 48, 51069 Köln Dünnwald",
-    "area": "69,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad"
-    ],
-    "rent": "914,20 €",
-    "rooms": "3",
-    "title": "Helle 3-Zimmer-Erdgeschosswohnung mit schönem Balkon und viel Gestaltungsspielraum",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00283-001-002"
   }
 }

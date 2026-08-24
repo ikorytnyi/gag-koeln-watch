@@ -1,18 +1,4 @@
 {
-  "1900-02034-001-013": {
-    "address": "Bertha-Benz-Karree 14, 51107 Köln Ostheim",
-    "area": "63,70 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "952,30 €",
-    "rooms": "2",
-    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02034-001-013"
-  },
   "1900-02780-011-083": {
     "address": "Wezelostr. 36, 50765 Köln Volkhoven/Weiler",
     "area": "48,98 m²",
@@ -59,16 +45,31 @@
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
   },
-  "1900-07599-038-261": {
-    "address": "Sibeliusstr. 19, 51107 Köln Vingst",
-    "area": "61,28 m²",
+  "8110-00063-006-094": {
+    "address": "Leimbachweg 28, 51069 Köln Dünnwald",
+    "area": "70,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "926,00 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer Wohnung mit Balkon und Aufzug in naturnaher Lage von Köln-Dünnwald",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-006-094"
+  },
+  "8110-00283-001-002": {
+    "address": "Leimbachweg 48, 51069 Köln Dünnwald",
+    "area": "69,00 m²",
     "facilities": [
       "Keller",
       "Bad"
     ],
-    "rent": "869,10 €",
-    "rooms": "2",
-    "title": "Charmante 2-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07599-038-261"
+    "rent": "914,20 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Erdgeschosswohnung mit schönem Balkon und viel Gestaltungsspielraum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00283-001-002"
   }
 }

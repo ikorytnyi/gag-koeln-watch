@@ -1,17 +1,17 @@
 {
-  "1900-06023-007-040": {
-    "address": "Mainstr. 49, 50996 Köln Rodenkirchen",
-    "area": "53,81 m²",
+  "1900-01708-002-015": {
+    "address": "Mülheimer Freiheit 152, 51063 Köln Mülheim",
+    "area": "42,26 m²",
     "facilities": [
       "Keller",
-      "Bad mit Wanne",
+      "Bad mit Dusche",
       "Balkon",
       "Zentralheizung"
     ],
-    "rent": "854,20 €",
-    "rooms": "2",
-    "title": "Schöne 2-Zimmer-Wohnung in Rodenkirchen Ruhiglage",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06023-007-040"
+    "rent": "397,60 €",
+    "rooms": "1",
+    "title": "NUR mit 50m²-WBS!!!! 1-Raum-Erdgeschosswohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01708-002-015"
   },
   "1900-07571-004-184": {
     "address": "Sechtemer Str. 4, 50968 Köln Raderberg",
@@ -28,5 +28,19 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "1900-07909-002-012": {
+    "address": "Ibsenstr. 4, 51107 Köln Vingst",
+    "area": "75,61 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "977,10 €",
+    "rooms": "3",
+    "title": "Charmante 3-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07909-002-012"
   }
 }

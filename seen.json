@@ -1,17 +1,19 @@
 {
-  "1900-01708-002-015": {
-    "address": "Mülheimer Freiheit 152, 51063 Köln Mülheim",
-    "area": "42,26 m²",
+  "1900-02791-003-027": {
+    "address": "Am Georgshof 6, 50765 Köln Volkhoven/Weiler",
+    "area": "45,73 m²",
     "facilities": [
       "Keller",
       "Bad mit Dusche",
+      "Barrierefrei",
       "Balkon",
+      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "397,60 €",
+    "rent": "563,00 €",
     "rooms": "1",
-    "title": "NUR mit 50m²-WBS!!!! 1-Raum-Erdgeschosswohnung",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01708-002-015"
+    "title": "Ein-Zimmer-Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02791-003-027"
   },
   "1900-07571-004-184": {
     "address": "Sechtemer Str. 4, 50968 Köln Raderberg",

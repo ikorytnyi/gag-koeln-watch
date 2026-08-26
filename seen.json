@@ -27,5 +27,18 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "8110-00386-003-029": {
+    "address": "Clevischer Ring 132, 51063 Köln Mülheim",
+    "area": "73,09 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "rent": "803,40 €",
+    "rooms": "3",
+    "title": "OHNE Aufzug! Dachgeschosswohnung in Mülheim NUR MIT 80m²-WBS!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00386-003-029"
   }
 }

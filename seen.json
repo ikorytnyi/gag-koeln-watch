@@ -12,20 +12,6 @@
     "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
   },
-  "1900-04249-004-041": {
-    "address": "Naumannstr. 7, 50735 Köln Riehl",
-    "area": "48,27 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Fenster",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "706,00 €",
-    "rooms": "2",
-    "title": "Gemütliche 2 Zimmer Wohnung, 48,27 qm in der Naumannsiedlung in 50735 Köln-Riehl",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-004-041"
-  },
   "1900-07571-004-184": {
     "address": "Sechtemer Str. 4, 50968 Köln Raderberg",
     "area": "78,02 m²",
@@ -41,5 +27,31 @@
     "rooms": "3",
     "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "1900-07606-010-076": {
+    "address": "Thorwaldsenstr. 3, 51103 Köln Vingst",
+    "area": "68,80 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "984,00 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-010-076"
+  },
+  "8110-00841-004-039": {
+    "address": "Kalk-Mülheimer Str. 270, 51065 Köln Buchforst",
+    "area": "76,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "rent": "849,50 €",
+    "rooms": "3",
+    "title": "Schöne DG Wohnung in Buchforst *MIT WBS*",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00841-004-039"
   }
 }

@@ -11,5 +11,35 @@
     "rooms": "3",
     "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
+  },
+  "8110-00063-005-040": {
+    "address": "Leimbachweg 10, 51069 Köln Dünnwald",
+    "area": "57,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "rent": "738,60 €",
+    "rooms": "2",
+    "title": "Helle 2-Zimmer-Wohnung mit schönem Balkon und viel Gestaltungsspielraum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-005-040"
+  },
+  "8110-00063-005-054": {
+    "address": "Leimbachweg 10, 51069 Köln Dünnwald",
+    "area": "70,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "995,00 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Erdgeschosswohnung mit schönem Balkon und viel Gestaltungsspielraum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-005-054"
   }
 }

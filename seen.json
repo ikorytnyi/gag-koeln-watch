@@ -1,4 +1,20 @@
 {
+  "1900-03302-001-004": {
+    "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
+    "area": "66,07 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "1.206,30 €",
+    "rooms": "2",
+    "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-004"
+  },
   "1900-03573-001-006": {
     "address": "Im Mittelfeld 23, 51105 Köln Poll",
     "area": "61,43 m²",

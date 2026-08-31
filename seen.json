@@ -1,20 +1,4 @@
 {
-  "1900-03302-001-004": {
-    "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
-    "area": "66,07 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Wanne",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "1.206,30 €",
-    "rooms": "2",
-    "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-004"
-  },
   "1900-03573-001-006": {
     "address": "Im Mittelfeld 23, 51105 Köln Poll",
     "area": "61,43 m²",
@@ -41,5 +25,19 @@
     "rooms": "3",
     "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
+  },
+  "V700-00714-001-005": {
+    "address": "Holweider Str. 108/112, 51065 Koeln Mülheim",
+    "area": "82,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "1.029,10 €",
+    "rooms": "3",
+    "title": "gemütliche 3-Raumwohung in Mülheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/V700-00714-001-005"
   }
 }

@@ -1,4 +1,20 @@
 {
+  "1900-02260-005-073": {
+    "address": "Robertstr. 19, 51105 Köln Kalk",
+    "area": "38,63 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "686,94 €",
+    "rooms": "1",
+    "title": "Ausschließlich für STUDENTEN",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-005-073"
+  },
   "1900-03573-001-006": {
     "address": "Im Mittelfeld 23, 51105 Köln Poll",
     "area": "61,43 m²",
@@ -25,5 +41,17 @@
     "rooms": "3",
     "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
+  },
+  "8110-00370-006-041": {
+    "address": "Aeltgen-Dünwald-Str. 11, 51069 Köln Dünnwald",
+    "area": "62,92 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "rent": "690,10 €",
+    "rooms": "2",
+    "title": "Schöne 2-Zimmer Wohnung im Grünen *MIT WBS 65qm*",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00370-006-041"
   }
 }

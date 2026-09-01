@@ -1,29 +1,33 @@
 {
-  "1900-03573-001-006": {
-    "address": "Im Mittelfeld 23, 51105 Köln Poll",
-    "area": "61,43 m²",
+  "1900-02260-002-030": {
+    "address": "Dillenburger Str. 15, 51105 Köln Kalk",
+    "area": "45,42 m²",
     "facilities": [
       "Keller",
-      "Bad mit Wanne",
+      "Bad mit Dusche",
+      "Barrierefrei",
       "Balkon",
-      "Etagenheizung"
+      "Personenaufzug",
+      "Zentralheizung"
     ],
-    "rent": "927,70 €",
-    "rooms": "2",
-    "title": "Gemütliche 2,5-Zimmer-Wohnung mit Loggia in beliebter Lage von Köln-Poll",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03573-001-006"
+    "rent": "849,50 €",
+    "rooms": "1",
+    "title": "Moderne 2-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-002-030"
   },
-  "1900-03621-001-004": {
-    "address": "Im Mittelfeld 27, 51105 Köln Poll",
-    "area": "67,68 m²",
+  "8110-00017-001-051": {
+    "address": "Georg-Zapf-Str. 16, 51061 Köln Flittard",
+    "area": "41,42 m²",
     "facilities": [
       "Keller",
       "Bad",
-      "Etagenheizung"
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Zentralheizung"
     ],
-    "rent": "1.016,20 €",
-    "rooms": "3",
-    "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
+    "rent": "559,19 €",
+    "rooms": "1",
+    "title": "NUR FÜR SENIOREN MIT WBS!!!!!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00017-001-051"
   }
 }

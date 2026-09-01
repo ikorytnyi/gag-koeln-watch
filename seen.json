@@ -25,5 +25,19 @@
     "rooms": "3",
     "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
+  },
+  "8110-00141-002-015": {
+    "address": "Heidelberger Str. 12, 51065 Köln Buchforst",
+    "area": "69,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Zentralheizung"
+    ],
+    "rent": "945,20 €",
+    "rooms": "2",
+    "title": "Schöne 2 Zimmerwohnung in Köln-Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00141-002-015"
   }
 }

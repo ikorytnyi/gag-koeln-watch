@@ -1,16 +1,18 @@
 {
-  "8110-00343-006-054": {
-    "address": "Kirchgasse 10, 51065 Köln Buchheim",
-    "area": "90,23 m²",
+  "1900-04307-003-074": {
+    "address": "Rambouxstr. 2, 50737 Köln Longerich",
+    "area": "77,46 m²",
     "facilities": [
       "Keller",
-      "Bad mit Wanne",
+      "Bad mit Fenster, Wanne",
       "Gäste-WC",
-      "Balkon"
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
     ],
-    "rent": "918,40 €",
-    "rooms": "4",
-    "title": "Maisonette-Wohnung, 2 Etagen in zentraler Lage - WBS A für 4 Zimmer dringend erforderlich!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00343-006-054"
+    "rent": "1.097,60 €",
+    "rooms": "3",
+    "title": "Großzügig geschnittene helle 3 Zimmer Wohnung , 77,46 qm in der 7. Etage in 50737 Köln-Longerich",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04307-003-074"
   }
 }

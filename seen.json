@@ -1,4 +1,17 @@
 {
+  "1900-01641-018-107": {
+    "address": "Niersstr. 12, 51061 Köln Stammheim",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "rent": "690,50 €",
+    "rooms": "2",
+    "title": "Gemütliche 2-Zimmer-Wohnung in Rheinnähe",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01641-018-107"
+  },
   "1900-04307-003-074": {
     "address": "Rambouxstr. 2, 50737 Köln Longerich",
     "area": "77,46 m²",
@@ -14,5 +27,20 @@
     "rooms": "3",
     "title": "Großzügig geschnittene helle 3 Zimmer Wohnung , 77,46 qm in der 7. Etage in 50737 Köln-Longerich",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04307-003-074"
+  },
+  "8280-06692-002-170": {
+    "address": "Osloer Str. 5, 50765 Köln Chorweiler",
+    "area": "53,78 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "650,80 €",
+    "rooms": "2",
+    "title": "Modernisierte 2-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06692-002-170"
   }
 }

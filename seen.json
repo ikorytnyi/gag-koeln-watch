@@ -1,1 +1,43 @@
-{}
+{
+  "1900-05425-001-007": {
+    "address": "An der Pletschbachhecke 16, 50769 Köln",
+    "area": "82,25 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "rent": "1.107,70 €",
+    "rooms": "3",
+    "title": "Neubau in Roggendorf, nur mit WBS A !",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-001-007"
+  },
+  "8502-02094-022-217": {
+    "address": "Galileistr. 6, 51065 Köln Buchforst",
+    "area": "56,31 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "rent": "745,70 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-022-217"
+  },
+  "8502-02094-023-226": {
+    "address": "Galileistr. 8, 51065 Köln Buchforst",
+    "area": "65,76 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "rent": "802,20 €",
+    "rooms": "4",
+    "title": "4 Zimmer Wohnung in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-023-226"
+  }
+}

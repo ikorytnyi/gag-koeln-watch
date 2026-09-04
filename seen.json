@@ -13,5 +13,18 @@
     "rooms": "3",
     "title": "Neubau in Roggendorf, nur mit WBS A !",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-001-007"
+  },
+  "1900-07540-102-498": {
+    "address": "Quedlinburger Weg 5, 51061 Köln Höhenhaus",
+    "area": "57,87 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Fernwärme"
+    ],
+    "rent": "714,60 €",
+    "rooms": "3",
+    "title": "Gemütliche 3-Zimmer Dachgeschosswohnung in Köln Höhenhaus",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07540-102-498"
   }
 }

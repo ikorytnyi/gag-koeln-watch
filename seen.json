@@ -13,5 +13,20 @@
     "rooms": "3",
     "title": "Neubau in Roggendorf, nur mit WBS A !",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-001-007"
+  },
+  "8110-00073-004-109": {
+    "address": "Boltensternstr. 124, 50735 Köln Niehl",
+    "area": "56,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "832,60 €",
+    "rooms": "2",
+    "title": "Gut geschnittene Zweizimmerwohnung in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00073-004-109"
   }
 }

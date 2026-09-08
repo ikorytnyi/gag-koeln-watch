@@ -26,19 +26,20 @@
     "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
   },
-  "1900-04252-008-096": {
-    "address": "Naumannstr. 16, 50735 Köln Riehl",
-    "area": "48,53 m²",
+  "1900-05837-001-010": {
+    "address": "Mühlenweg 218, 50827 Köln",
+    "area": "65,31 m²",
     "facilities": [
       "Keller",
-      "Bad mit Dusche, Fenster",
+      "Bad",
+      "Barrierefrei",
       "Balkon",
-      "Zentralheizung"
+      "Personenaufzug"
     ],
-    "rent": "708,30 €",
+    "rent": "1.162,40 €",
     "rooms": "2",
-    "title": "Erdgeschoßwohnung  48,53 qm in der Naumansiedlung in 50735 Köln",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04252-008-096"
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-001-010"
   },
   "1900-05838-004-044": {
     "address": "Mühlenweg 210, 50827 Köln",
@@ -129,5 +130,20 @@
     "rooms": "1",
     "title": "Schönes Apartment in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
+  },
+  "8110-00335-002-014": {
+    "address": "Burgstr. 191, 51103 Köln Höhenberg",
+    "area": "46,20 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "471,10 €",
+    "rooms": "1",
+    "title": "Gemütliche 1-Zimmer Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00335-002-014"
   }
 }

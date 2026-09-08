@@ -130,20 +130,5 @@
     "rooms": "1",
     "title": "Schönes Apartment in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
-  },
-  "8110-00335-002-014": {
-    "address": "Burgstr. 191, 51103 Köln Höhenberg",
-    "area": "46,20 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Seniorengerecht",
-      "Balkon",
-      "Zentralheizung"
-    ],
-    "rent": "471,10 €",
-    "rooms": "1",
-    "title": "Gemütliche 1-Zimmer Wohnung mit WBS",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00335-002-014"
   }
 }

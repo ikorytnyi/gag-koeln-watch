@@ -26,6 +26,21 @@
     "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
   },
+  "8110-00020-003-162": {
+    "address": "Tollerstr. 1, 50829 Köln Bocklemünd/Mengenich",
+    "area": "37,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "rent": "483,62 €",
+    "rooms": "1",
+    "title": "Senioren aufgepasst! Mit WBS A über 60 Jahre",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-003-162"
+  },
   "8110-00235-006-038": {
     "address": "Steinstr. 6, 51143 Köln Porz",
     "area": "41,01 m²",
@@ -38,6 +53,19 @@
     "rooms": "1",
     "title": "Schönes Apartment in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
+  },
+  "8110-00377-003-030": {
+    "address": "Heinz-Kühn-Str. 5, 51067 Köln Holweide",
+    "area": "63,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "rent": "517,10 €",
+    "rooms": "2",
+    "title": "2 Zimmer WBS Wohnung in Holweide",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00377-003-030"
   },
   "8110-00500-001-005": {
     "address": "Gummersbacher Str. 23, 50679 Köln",

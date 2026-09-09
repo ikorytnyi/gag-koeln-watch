@@ -41,6 +41,19 @@
     "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-001-010"
   },
+  "8110-00164-009-070": {
+    "address": "Unstrutweg 35, 50765 Köln Chorweiler",
+    "area": "80,59 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "rent": "1.104,60 €",
+    "rooms": "3",
+    "title": "3-Zimmerwohnung in Chorweiler- Nord ohne WBS!!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00164-009-070"
+  },
   "8110-00165-006-043": {
     "address": "Saalestr. 50, 50765 Köln Chorweiler",
     "area": "47,28 m²",
@@ -54,6 +67,21 @@
     "rooms": "2",
     "title": "2-Zimmerwohnung in Chorweiler Nord",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00165-006-043"
+  },
+  "8110-00167-002-011": {
+    "address": "Moldaustr. 27, 50765 Köln Chorweiler",
+    "area": "76,22 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "999,50 €",
+    "rooms": "3",
+    "title": "3-ZimmerWohnung in Chorweiler Nord, ohne WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00167-002-011"
   },
   "8110-00235-006-038": {
     "address": "Steinstr. 6, 51143 Köln Porz",

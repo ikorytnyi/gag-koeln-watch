@@ -40,5 +40,19 @@
     "rooms": "4",
     "title": "Neubaucharme in Roggendorf, nur mit WBS A!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-006"
+  },
+  "8110-00333-006-043": {
+    "address": "Sieversstr. 11, 51103 Köln Kalk",
+    "area": "57,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "757,50 €",
+    "rooms": "2",
+    "title": "Gut geschnittene 2-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00333-006-043"
   }
 }

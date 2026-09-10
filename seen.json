@@ -53,20 +53,5 @@
     "rooms": "1",
     "title": "Schönes Apartment in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
-  },
-  "8110-00500-001-005": {
-    "address": "Gummersbacher Str. 23, 50679 Köln",
-    "area": "53,54 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug"
-    ],
-    "rent": "780,26 €",
-    "rooms": "2",
-    "title": "Barrierefreie Neubauwohnung in zentraler Lage-mit Wohnberechtigungsschein!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00500-001-005"
   }
 }

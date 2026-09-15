@@ -1,18 +1,17 @@
 {
-  "1900-01778-002-018": {
-    "address": "Bertha-Sander-Str. 23, 50829 Köln Ossendorf",
-    "area": "75,30 m²",
+  "1900-04249-007-075": {
+    "address": "Goldfußstr. 3, 50735 Köln Riehl",
+    "area": "70,65 m²",
     "facilities": [
       "Keller",
-      "Bad mit Dusche, Wanne",
-      "Barrierefrei",
+      "Bad mit Fenster, Wanne",
       "Balkon",
       "Zentralheizung"
     ],
-    "rent": "665,40 €",
-    "rooms": "3",
-    "title": "Nur mit WBS-A bis 80qm! Schöne Dreizimmerwohnung am Butzweilerhof zu vermieten.",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01778-002-018"
+    "rent": "1.078,60 €",
+    "rooms": "2",
+    "title": "2 Zimmer Dachgeschöß-Wohnung, 70,65 qm in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-007-075"
   },
   "8110-00073-001-003": {
     "address": "Boltensternstr. 118, 50735 Köln Niehl",
@@ -28,18 +27,5 @@
     "rooms": "2",
     "title": "Gemütliche Zweizimmerwohnung  in Köln Niehl",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00073-001-003"
-  },
-  "8110-00084-003-029": {
-    "address": "Hacketäuerstr. 35, 51063 Köln Mülheim",
-    "area": "65,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Zentralheizung"
-    ],
-    "rent": "945,00 €",
-    "rooms": "3",
-    "title": "3- Zimmer Wohnung in Köln Mülheim",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00084-003-029"
   }
 }

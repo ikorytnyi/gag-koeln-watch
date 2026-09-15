@@ -1,16 +1,17 @@
 {
-  "1900-03162-005-033": {
-    "address": "Fuldaer Str. 69, 51103 Köln Höhenberg",
-    "area": "64,51 m²",
+  "8110-00073-001-003": {
+    "address": "Boltensternstr. 118, 50735 Köln Niehl",
+    "area": "52,00 m²",
     "facilities": [
       "Keller",
-      "Bad mit Wanne",
+      "Bad",
       "Balkon",
+      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "879,90 €",
+    "rent": "809,60 €",
     "rooms": "2",
-    "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03162-005-033"
+    "title": "Gemütliche Zweizimmerwohnung  in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00073-001-003"
   }
 }

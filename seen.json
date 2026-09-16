@@ -13,19 +13,22 @@
     "title": "2 Zimmer Dachgeschoß-Wohnung, 70,65 qm in der Naumannsiedlung in 50735 Köln",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-007-075"
   },
-  "8110-00073-001-003": {
-    "address": "Boltensternstr. 118, 50735 Köln Niehl",
-    "area": "52,00 m²",
+  "8110-00022-003-086": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "43,00 m²",
     "facilities": [
       "Keller",
-      "Bad",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Rollstuhlgerecht",
+      "Seniorengerecht",
       "Balkon",
       "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "809,60 €",
-    "rooms": "2",
-    "title": "Gemütliche Zweizimmerwohnung  in Köln Niehl",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00073-001-003"
+    "rent": "466,30 €",
+    "rooms": "1",
+    "title": "Barrierefreie Seniorenwohnung im Kölner Norden",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-086"
   }
 }

@@ -28,5 +28,18 @@
     "rooms": "1",
     "title": "Barrierefreie Seniorenwohnung im Kölner Norden",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-086"
+  },
+  "8110-00049-002-013": {
+    "address": "Hochwinkel 3, 51069 Köln Dellbrück",
+    "area": "59,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "rent": "733,00 €",
+    "rooms": "2",
+    "title": "Wohnen am Waldrand in ruhiger Gegend",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00049-002-013"
   }
 }

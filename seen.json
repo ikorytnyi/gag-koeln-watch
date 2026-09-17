@@ -32,5 +32,18 @@
     "rooms": "1",
     "title": "Barrierefreie Seniorenwohnung im Kölner Norden",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-086"
+  },
+  "8110-00103-001-008": {
+    "address": "Topsstr. 4, 51063 Köln Mülheim",
+    "area": "65,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon"
+    ],
+    "rent": "914,00 €",
+    "rooms": "3",
+    "title": "3- Zimmer Wohnung in Köln Mülheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00103-001-008"
   }
 }

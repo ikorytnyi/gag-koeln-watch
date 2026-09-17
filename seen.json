@@ -1,20 +1,4 @@
 {
-  "1900-01030-002-014": {
-    "address": "Nathan-Kahn-Straße 13b, 51061 Köln Stammheim",
-    "area": "53,33 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Wanne",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "1.011,30 €",
-    "rooms": "2",
-    "title": "Schöne 2 Zimmer Wohnung in Köln Stammheim - direkt am Rhein",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-002-014"
-  },
   "8110-00022-003-086": {
     "address": "Pohlmanstr. 13, 50735 Köln Niehl",
     "area": "43,00 m²",
@@ -32,18 +16,5 @@
     "rooms": "1",
     "title": "Barrierefreie Seniorenwohnung im Kölner Norden",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-086"
-  },
-  "8110-00103-001-008": {
-    "address": "Topsstr. 4, 51063 Köln Mülheim",
-    "area": "65,00 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Balkon"
-    ],
-    "rent": "914,00 €",
-    "rooms": "3",
-    "title": "3- Zimmer Wohnung in Köln Mülheim",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00103-001-008"
   }
 }

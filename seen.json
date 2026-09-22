@@ -1,15 +1,29 @@
 {
-  "1900-02113-015-120": {
-    "address": "Wildunger Str. 29, 51065 Köln Buchforst",
-    "area": "62,69 m²",
+  "1900-08003-003-028": {
+    "address": "Odenwaldstr. 53, 51105 Köln Humboldt/Gremberg",
+    "area": "63,75 m²",
     "facilities": [
       "Keller",
-      "Bad mit Fenster, Wanne",
+      "Bad"
+    ],
+    "rent": "834,40 €",
+    "rooms": "2",
+    "title": "2-Zimmer Wohnung in Köln -Humboldt/Gremberg",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08003-003-028"
+  },
+  "8110-00820-004-038": {
+    "address": "Kapellenstr. 46, 51103 Köln Kalk",
+    "area": "75,82 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "844,10 €",
+    "rent": "1.010,00 €",
     "rooms": "3",
-    "title": "Schöne 3 Zimmerwohnung in Köln-Buchforst",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02113-015-120"
+    "title": "3-Zimmer Wohnung in Köln-Kalk -Wohnberechtigungsschein B-",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00820-004-038"
   }
 }

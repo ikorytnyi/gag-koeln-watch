@@ -1,27 +1,54 @@
 {
-  "8110-00270-002-015": {
-    "address": "Singhofener Str. 1, 51105 Köln Humboldt/Gremberg",
-    "area": "75,18 m²",
-    "facilities": [
-      "Keller",
-      "Bad"
-    ],
-    "rent": "974,80 €",
-    "rooms": "3",
-    "title": "3-Zimmer Wohnung in Köln Humboldt/Gremberg",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00270-002-015"
-  },
-  "8280-06691-003-059": {
-    "address": "Stockholmer Allee 7, 50765 Köln Chorweiler",
-    "area": "73,55 m²",
+  "8280-06691-002-030": {
+    "address": "Stockholmer Allee 5, 50765 Köln Chorweiler",
+    "area": "45,95 m²",
     "facilities": [
       "Bad",
       "Personenaufzug",
-      "Zentralheizung"
+      "Fernwärme"
     ],
-    "rent": "827,10 €",
+    "rent": "524,50 €",
+    "rooms": "2",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-002-030"
+  },
+  "8280-06691-004-084": {
+    "address": "Stockholmer Allee 9, 50765 Köln Chorweiler",
+    "area": "80,35 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "rent": "908,70 €",
     "rooms": "3",
-    "title": "Charmant kürzlich modernisierte öffentlich geförderte 3-Zimmer-Wohnung",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-003-059"
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 3-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-004-084"
+  },
+  "8280-06691-005-102": {
+    "address": "Stockholmer Allee 11, 50765 Köln Chorweiler",
+    "area": "45,95 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "rent": "585,60 €",
+    "rooms": "1",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-005-102"
+  },
+  "8280-06691-005-124": {
+    "address": "Stockholmer Allee 11, 50765 Köln Chorweiler",
+    "area": "43,83 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "rent": "507,60 €",
+    "rooms": "1",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-005-124"
   }
 }

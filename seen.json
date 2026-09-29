@@ -12,5 +12,19 @@
     "rooms": "2",
     "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03162-005-033"
+  },
+  "8110-00395-002-017": {
+    "address": "Ossendorfer Weg 46, 50827 Köln Bickendorf",
+    "area": "77,64 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "1.198,70 €",
+    "rooms": "3",
+    "title": "Gutgeschnittene 3 Zimmer Wohnung in Ossendorf",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00395-002-017"
   }
 }

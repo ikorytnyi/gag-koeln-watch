@@ -1,41 +1,42 @@
 {
-  "8280-06691-002-030": {
-    "address": "Stockholmer Allee 5, 50765 Köln Chorweiler",
-    "area": "45,95 m²",
+  "1900-03162-005-033": {
+    "address": "Fuldaer Str. 69, 51103 Köln Höhenberg",
+    "area": "64,51 m²",
     "facilities": [
-      "Bad",
-      "Personenaufzug",
-      "Fernwärme"
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
     ],
-    "rent": "524,50 €",
+    "rent": "879,90 €",
     "rooms": "2",
-    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-002-030"
+    "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03162-005-033"
   },
-  "8280-06691-004-084": {
-    "address": "Stockholmer Allee 9, 50765 Köln Chorweiler",
-    "area": "80,35 m²",
+  "8502-02094-011-108": {
+    "address": "Eulerstr. 14, 51065 Köln Buchforst",
+    "area": "58,44 m²",
     "facilities": [
+      "Keller",
       "Bad",
-      "Personenaufzug",
       "Fernwärme"
     ],
-    "rent": "908,70 €",
-    "rooms": "3",
-    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 3-Zimmer-Wohnung",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-004-084"
+    "rent": "754,20 €",
+    "rooms": "2",
+    "title": "Wohnen in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-011-108"
   },
-  "8280-06691-005-102": {
-    "address": "Stockholmer Allee 11, 50765 Köln Chorweiler",
-    "area": "45,95 m²",
+  "8502-02094-018-173": {
+    "address": "Galileistr. 13, 51065 Köln Buchforst",
+    "area": "59,09 m²",
     "facilities": [
+      "Keller",
       "Bad",
-      "Personenaufzug",
-      "Fernwärme"
+      "Zentralheizung"
     ],
-    "rent": "585,60 €",
-    "rooms": "1",
-    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-005-102"
+    "rent": "753,20 €",
+    "rooms": "2",
+    "title": "Wohnen in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-018-173"
   }
 }

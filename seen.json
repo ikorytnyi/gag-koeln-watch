@@ -1,4 +1,17 @@
 {
+  "1900-02067-001-007": {
+    "address": "Waldecker Str. 45, 51065 Köln Buchforst",
+    "area": "67,64 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "rent": "928,20 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02067-001-007"
+  },
   "1900-03162-005-033": {
     "address": "Fuldaer Str. 69, 51103 Köln Höhenberg",
     "area": "64,51 m²",
@@ -12,31 +25,5 @@
     "rooms": "2",
     "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03162-005-033"
-  },
-  "8502-02094-011-108": {
-    "address": "Eulerstr. 14, 51065 Köln Buchforst",
-    "area": "58,44 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Fernwärme"
-    ],
-    "rent": "754,20 €",
-    "rooms": "2",
-    "title": "Wohnen in Buchforst",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-011-108"
-  },
-  "8502-02094-018-173": {
-    "address": "Galileistr. 13, 51065 Köln Buchforst",
-    "area": "59,09 m²",
-    "facilities": [
-      "Keller",
-      "Bad",
-      "Zentralheizung"
-    ],
-    "rent": "753,20 €",
-    "rooms": "2",
-    "title": "Wohnen in Buchforst",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-018-173"
   }
 }

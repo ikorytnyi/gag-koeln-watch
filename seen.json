@@ -1,15 +1,34 @@
 {
-  "8502-04256-002-015": {
-    "address": "Merheimer Str. 458, 50735 Köln Weidenpesch",
-    "area": "52,06 m²",
+  "1900-08472-003-031": {
+    "address": "Friedensstr. 127, 51145 Köln Elsdorf",
+    "area": "75,55 m²",
     "facilities": [
       "Keller",
-      "Bad mit Dusche, Fenster",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "693,50 €",
+    "rent": "1.389,60 €",
+    "rooms": "3",
+    "title": "Schicke 3-Zimmer-Wohnung in Porz-Urbach!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08472-003-031"
+  },
+  "8110-00478-003-033": {
+    "address": "Danziger Str. 18, 51145 Köln Urbach",
+    "area": "61,95 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "806,90 €",
     "rooms": "2",
-    "title": "2-Zimmerwohnung in Weidenpesch",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8502-04256-002-015"
+    "title": "WBS A - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-003-033"
   }
 }

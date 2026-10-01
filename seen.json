@@ -1,17 +1,19 @@
 {
-  "1900-01638-005-049": {
-    "address": "Ricarda-Huch-Str. 6, 51061 Köln Stammheim",
-    "area": "66,00 m²",
+  "1900-08060-004-057": {
+    "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
+    "area": "28,08 m²",
     "facilities": [
       "Keller",
-      "Bad mit Fenster",
+      "Bad mit Dusche",
+      "Barrierefrei",
       "Balkon",
-      "Fernwärme"
+      "Personenaufzug",
+      "Zentralheizung"
     ],
-    "rent": "862,60 €",
-    "rooms": "3",
-    "title": "3-Zimmer-Wohnung in Rheinnähe",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01638-005-049"
+    "rent": "536,00 €",
+    "rooms": "1",
+    "title": "Ausschließlich für Studenten: Modernes Appartement",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-057"
   },
   "1900-08472-003-031": {
     "address": "Friedensstr. 127, 51145 Köln Elsdorf",

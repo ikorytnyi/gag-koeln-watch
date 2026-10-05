@@ -1,4 +1,18 @@
 {
+  "1900-02093-001-006": {
+    "address": "Heidelberger Str. 39, 51065 Köln Buchforst",
+    "area": "65,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "802,60 €",
+    "rooms": "2",
+    "title": "Helle 2 Zimmer Whg. mit Balkon!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02093-001-006"
+  },
   "1900-02260-001-002": {
     "address": "Dillenburger Str. 13, 51105 Köln Kalk",
     "area": "90,39 m²",
@@ -31,6 +45,22 @@
     "rooms": "3",
     "title": "Wohnung ausschließlich für studentische 3er WG",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-006-131"
+  },
+  "1900-03302-001-004": {
+    "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
+    "area": "66,07 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "1.206,30 €",
+    "rooms": "2",
+    "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-004"
   },
   "8110-00022-003-237": {
     "address": "Pohlmanstr. 13, 50735 Köln Niehl",

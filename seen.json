@@ -1,19 +1,36 @@
 {
-  "1900-03302-001-004": {
-    "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
-    "area": "66,07 m²",
+  "1900-02260-003-051": {
+    "address": "Dillenburger Str. 17, 51105 Köln Kalk",
+    "area": "97,29 m²",
     "facilities": [
       "Keller",
       "Bad mit Dusche, Wanne",
-      "Barrierefrei",
+      "Gäste-WC",
       "Balkon",
       "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "1.206,30 €",
-    "rooms": "2",
-    "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-004"
+    "rent": "1.551,90 €",
+    "rooms": "4",
+    "title": "Moderne 4-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-003-051"
+  },
+  "1900-02260-006-131": {
+    "address": "Robertstr. 21, 51105 Köln Kalk",
+    "area": "93,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "1.606,59 €",
+    "rooms": "3",
+    "title": "Wohnung ausschließlich für studentische 3er WG",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-006-131"
   },
   "8110-00022-003-237": {
     "address": "Pohlmanstr. 13, 50735 Köln Niehl",

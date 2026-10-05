@@ -32,22 +32,6 @@
     "title": "Wohnung ausschließlich für studentische 3er WG",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-006-131"
   },
-  "1900-03302-001-004": {
-    "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
-    "area": "66,07 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche, Wanne",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "1.206,30 €",
-    "rooms": "2",
-    "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-004"
-  },
   "8110-00478-003-033": {
     "address": "Danziger Str. 18, 51145 Köln Urbach",
     "area": "61,95 m²",
@@ -63,21 +47,5 @@
     "rooms": "2",
     "title": "WBS A - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-003-033"
-  },
-  "8280-06692-005-252": {
-    "address": "Osloer Str. 9, 50765 Köln Chorweiler",
-    "area": "51,97 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Dusche",
-      "Barrierefrei",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "608,00 €",
-    "rooms": "2",
-    "title": "2-Zimmerwohnung mit WBS A",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06692-005-252"
   }
 }

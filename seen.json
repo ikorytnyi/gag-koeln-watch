@@ -1,4 +1,17 @@
 {
+  "1900-02093-001-007": {
+    "address": "Heidelberger Str. 39, 51065 Köln Buchforst",
+    "area": "81,34 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "rent": "983,50 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Wohnung im 3. Obergeschoss",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02093-001-007"
+  },
   "1900-02260-006-131": {
     "address": "Robertstr. 21, 51105 Köln Kalk",
     "area": "93,43 m²",
@@ -15,6 +28,22 @@
     "rooms": "3",
     "title": "Wohnung ausschließlich für studentische 3er WG",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-006-131"
+  },
+  "1900-02794-004-041": {
+    "address": "Damiansweg 72, 50765 Köln Volkhoven/Weiler",
+    "area": "78,84 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "1.450,10 €",
+    "rooms": "3",
+    "title": "Drei-Zimmer-Wohnung mit Loggia",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02794-004-041"
   },
   "8110-00478-003-033": {
     "address": "Danziger Str. 18, 51145 Köln Urbach",

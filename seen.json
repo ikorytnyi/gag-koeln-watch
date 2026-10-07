@@ -1,20 +1,15 @@
 {
-  "1900-02260-006-131": {
-    "address": "Robertstr. 21, 51105 Köln Kalk",
-    "area": "93,43 m²",
+  "1900-06706-002-018": {
+    "address": "Saalestr. 12, 50765 Köln Chorweiler",
+    "area": "63,43 m²",
     "facilities": [
       "Keller",
-      "Bad mit Dusche",
-      "Barrierefrei",
-      "Gäste-WC",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
+      "Bad mit Wanne"
     ],
-    "rent": "1.606,59 €",
-    "rooms": "3",
-    "title": "Wohnung ausschließlich für studentische 3er WG",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-006-131"
+    "rent": "900,30 €",
+    "rooms": "2",
+    "title": "2-Zimmer Wohnung in Chorweiler Nord Optional mit Küchenzeile",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06706-002-018"
   },
   "8110-00290-004-004": {
     "address": "Christrosenweg 22, 51143 Köln Zündorf",

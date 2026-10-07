@@ -1,16 +1,4 @@
 {
-  "1900-06706-002-018": {
-    "address": "Saalestr. 12, 50765 Köln Chorweiler",
-    "area": "63,43 m²",
-    "facilities": [
-      "Keller",
-      "Bad mit Wanne"
-    ],
-    "rent": "900,30 €",
-    "rooms": "2",
-    "title": "2-Zimmer Wohnung in Chorweiler Nord Optional mit Küchenzeile",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06706-002-018"
-  },
   "8110-00290-004-004": {
     "address": "Christrosenweg 22, 51143 Köln Zündorf",
     "area": "109,77 m²",
@@ -32,7 +20,6 @@
     "facilities": [
       "Keller",
       "Bad",
-      "Gäste-WC",
       "Barrierefrei",
       "Balkon",
       "Personenaufzug",

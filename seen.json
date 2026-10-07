@@ -1,4 +1,34 @@
 {
+  "1900-04251-001-004": {
+    "address": "Ehrenbergstr. 2, 50735 Köln Riehl",
+    "area": "64,45 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "997,20 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung, 64,45 qm, Hochparterre in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-001-004"
+  },
+  "8110-00119-001-046": {
+    "address": "Görlinger-Zentrum 26, 50829 Köln Bocklemünd/Mengenich",
+    "area": "90,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "1.104,00 €",
+    "rooms": "4",
+    "title": "4-Zimmer-Wohnung in Bocklemünd",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00119-001-046"
+  },
   "8110-00290-004-004": {
     "address": "Christrosenweg 22, 51143 Köln Zündorf",
     "area": "109,77 m²",

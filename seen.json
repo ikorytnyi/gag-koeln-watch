@@ -1,33 +1,17 @@
 {
-  "1900-08061-005-058": {
-    "address": "Sieversstraße 22, 51103 Köln Kalk",
-    "area": "113,27 m²",
-    "facilities": [
-      "Bad mit Dusche, Wanne",
-      "Gäste-WC",
-      "Balkon",
-      "Personenaufzug",
-      "Zentralheizung"
-    ],
-    "rent": "1.737,60 €",
-    "rooms": "4",
-    "title": "Großzügige 4-Zimmer-Wohnung mit Balkon",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-005-058"
-  },
-  "8110-00478-003-033": {
-    "address": "Danziger Str. 18, 51145 Köln Urbach",
-    "area": "61,95 m²",
+  "1900-04250-005-041": {
+    "address": "Ehrenbergstr. 9, 50735 Köln Riehl",
+    "area": "48,70 m²",
     "facilities": [
       "Keller",
-      "Bad",
-      "Barrierefrei",
+      "Bad mit Dusche",
+      "Garten/ -mitbenutzung",
       "Balkon",
-      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "806,90 €",
-    "rooms": "2",
-    "title": "WBS A - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Porz!",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-003-033"
+    "rent": "758,20 €",
+    "rooms": "1",
+    "title": "1 Zimmer Gartenwohnung 48,70 qm in der Naumannsiedlung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-005-041"
   }
 }

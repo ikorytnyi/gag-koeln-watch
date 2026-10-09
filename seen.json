@@ -1,17 +1,33 @@
 {
-  "1900-04250-005-041": {
-    "address": "Ehrenbergstr. 9, 50735 Köln Riehl",
-    "area": "48,70 m²",
+  "1900-02260-002-027": {
+    "address": "Dillenburger Str. 15, 51105 Köln Kalk",
+    "area": "88,63 m²",
     "facilities": [
       "Keller",
-      "Bad mit Dusche",
-      "Garten/ -mitbenutzung",
+      "Bad",
+      "Seniorengerecht",
       "Balkon",
+      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "758,20 €",
+    "rent": "1.391,50 €",
+    "rooms": "3",
+    "title": "Moderne 3-Zimmer-Wohnung mit 2 Balkonen",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-002-027"
+  },
+  "1900-07009-001-023": {
+    "address": "Kierkegaardstr. 25, 51107 Köln Vingst",
+    "area": "42,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "635,80 €",
     "rooms": "1",
-    "title": "1 Zimmer Gartenwohnung 48,70 qm in der Naumannsiedlung",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-005-041"
+    "title": "1 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07009-001-023"
   }
 }

@@ -14,5 +14,20 @@
     "rooms": "3",
     "title": "Moderne 3-Zimmer-Wohnung mit 2 Balkonen",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-002-027"
+  },
+  "1900-07009-001-023": {
+    "address": "Kierkegaardstr. 25, 51107 Köln Vingst",
+    "area": "42,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "rent": "635,80 €",
+    "rooms": "1",
+    "title": "1 Zimmer-Seniorenwohnung (ab 60 Jahren) in Vingst Veedel",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07009-001-023"
   }
 }

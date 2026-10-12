@@ -1,17 +1,15 @@
 {
-  "1900-07009-001-023": {
-    "address": "Kierkegaardstr. 25, 51107 Köln Vingst",
-    "area": "42,00 m²",
+  "1900-03669-005-033": {
+    "address": "Höhrer Weg 4, 51105 Köln Humboldt/Gremberg",
+    "area": "88,00 m²",
     "facilities": [
       "Keller",
       "Bad",
-      "Seniorengerecht",
-      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "635,80 €",
-    "rooms": "1",
-    "title": "1 Zimmer-Seniorenwohnung (ab 60 Jahren) in Vingst Veedel",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07009-001-023"
+    "rent": "1.388,00 €",
+    "rooms": "4",
+    "title": "zentrumsnahe, schöne 4 Zimmerwohnung mit kleinem Garten, freifinanziert ohne WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03669-005-033"
   }
 }

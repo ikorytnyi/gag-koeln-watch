@@ -1,16 +1,15 @@
 {
-  "8110-00379-008-099": {
-    "address": "Heinz-Kühn-Str. 31, 51067 Köln Holweide",
-    "area": "76,86 m²",
+  "1900-08027-002-020": {
+    "address": "Höfestr. 24, 51103 Köln Kalk",
+    "area": "46,85 m²",
     "facilities": [
       "Keller",
-      "Bad",
-      "Fernwärme"
+      "Bad"
     ],
-    "rent": "1.050,20 €",
-    "rooms": "3",
-    "title": "Großzügige 3-Zimmer-Wohnung in schöner Lage",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00379-008-099"
+    "rent": "844,90 €",
+    "rooms": "2",
+    "title": "2-Zimmer-Wohnung in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08027-002-020"
   },
   "8110-00843-001-004": {
     "address": "Poststr. 30, 51143 Köln Porz",

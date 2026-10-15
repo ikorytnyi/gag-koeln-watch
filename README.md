@@ -76,7 +76,7 @@ https://www.gag-koeln.de/immobiliensuche/wohnung-mieten
 ## Відновлення рутини (якщо доведеться створювати заново)
 
 - ID рутини: `trig_01R2F9hf5CE3GrMG33gvAcgQ`
-- ID середовища: `env_01V6DDcKskE5E2o2kRoVpCcn`
+- ID середовища: `env_01CmXu3XU4hDJnKewn3D5j5v`
 - Репозиторій: `ikorytnyi/gag-koeln-watch`, **з правом запису** (Claude
   GitHub App з доступом Contents: write).
 - Текст промпту (Instructions) — див. нижче. Значення `<TELEGRAM_BOT_TOKEN>`

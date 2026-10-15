@@ -11,7 +11,7 @@ The script never commits or pushes anything — run.sh owns the git side
 (state lives in the `claude/state` branch, see README).
 
 State format: every listing ever seen, {object_id: {...listing, first_seen,
-last_seen, gone_since}}. gone_since is null while the listing is on the site;
+gone_since}}. gone_since is null while the listing is on the site;
 a listing that reappears after gone_since was set is reported as "повторно".
 If the site returns 0 listings while some are active, the script exits
 non-zero without touching the state (a parsing failure, not a real wipe).
@@ -173,13 +173,18 @@ def build_report(new: dict, returned: dict, previous: dict, now: str) -> str:
 
 
 def update_state(previous: dict, current: dict, now: str) -> dict:
-    """Merge current listings into state; listings that vanished are kept with gone_since set."""
+    """Merge current listings into state; listings that vanished are kept with gone_since set.
+
+    Nothing here changes from run to run unless the listings do, so run.sh
+    only commits real changes (no per-run "last seen" timestamp on purpose).
+    """
     state = {}
     for obj_id, item in current.items():
         first_seen = previous.get(obj_id, {}).get("first_seen") or now
-        state[obj_id] = {**item, "first_seen": first_seen, "last_seen": now, "gone_since": None}
+        state[obj_id] = {**item, "first_seen": first_seen, "gone_since": None}
     for obj_id, entry in previous.items():
         if obj_id not in current:
+            entry = {k: v for k, v in entry.items() if k != "last_seen"}
             state[obj_id] = {**entry, "gone_since": entry.get("gone_since") or now}
     return state
 

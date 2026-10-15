@@ -9,59 +9,53 @@ https://www.gag-koeln.de/immobiliensuche/wohnung-mieten
 
 ## Файли
 
-- `check.py` — завантажує сторінку і повертає JSON з поточними оголошеннями
-  (`object_id → title/address/rent/area/rooms/facilities/url`). Скрипт **не**
-  зберігає стан і нічого нікуди не пише — лише читає сайт. Порівняння з
-  попереднім станом виконує сама рутина (агент), а не скрипт.
-- `seen.json` — застарілий файл стану з часів, коли стан тримали в цьому
-  репозиторії через GitHub REST API. Більше не оновлюється (див. нижче чому),
-  залишений лише як історичний артефакт.
+- `check.py` — завантажує сторінку з оголошеннями.
+  - `python3 check.py` — друкує JSON поточних оголошень
+    (`object_id → title/address/rent/area/rooms/facilities/url`).
+  - `python3 check.py --state seen.json` — порівнює з `seen.json`, перезаписує
+    його поточними оголошеннями і друкує готовий український текст звіту для
+    Telegram (порожній вивід — нових оголошень немає). Нічого не комітить.
+- `run.sh` — повний цикл одного запуску (саме його викликає рутина):
+  підтягує гілку `claude/state` в тимчасовий worktree → `check.py --state` →
+  якщо є нові, надсилає звіт у Telegram → комітить і пушить `seen.json` у
+  `claude/state` (тільки якщо стан змінився). Токен і chat id приходять через
+  змінні оточення `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID`.
 
 ## Архітектура
 
 Керується хмарною рутиною Claude (Routines, `/schedule`):
 
-- **Repository**: цей репозиторій підключено до рутини в режимі read-only —
-  клонується, `check.py` запускається.
-- **Стан** ("вже побачені" оголошення): файли `gag-koeln-seen-<ISO-timestamp>.json`
-  у папці **"GAG"** на Google Drive (`folderId: 1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF`).
-  Кожен запуск шукає всі файли за префіксом `gag-koeln-seen-` **саме в цій
-  папці** (не по всьому диску), бере **лексикографічно останній**
-  (timestamp у форматі `YYYY-MM-DDTHH-MM`, без двокрапок — сортується як
-  рядок так само, як і за часом) як попередній стан, і при потребі **створює
-  новий** файл з поточним timestamp (Drive-конектор не підтримує
-  update/overwrite/delete — тому апдейт неможливий, лишається "найновіший
-  виграє"). Часові мітки в іменах дають змогу візуально відсортувати файли в
-  Drive і час від часу вручну видаляти старі копії (автоматично це зробити
-  не можна — інструменту delete в конекторі немає).
+- **Repository**: цей репозиторій підключено до рутини **з правом запису**
+  (не read-only). Агент лише запускає `./run.sh` — вся логіка (порівняння,
+  текст звіту, timestamp) детермінована і живе в коді, а не в промпті.
+- **Стан** ("вже побачені" оголошення): файл `seen.json` в окремій гілці
+  **`claude/state`** (orphan-гілка, не має спільної історії з `main`, тож
+  автоматичні коміти не засмічують `main`). Кожна зміна стану — окремий коміт,
+  тож історія доступна через `git log -p origin/claude/state`. Коміт робиться
+  тільки коли список оголошень змінився.
 
-  **Чому не GitHub, і не пряме оновлення в Drive:** пробували два інші
-  варіанти, обидва заблоковані на рівні платформи:
-  1. GitHub-конектор Claude (через claude.ai/customize/connectors) має лише
-     читання — `git push` і MCP `push_files` повертають 403 "Resource not
-     accessible by integration".
-  2. Прямий виклик GitHub REST API (`PUT .../contents/seen.json`) з окремим
-     Personal Access Token (в обхід GitHub-конектора Claude) теж не
-     спрацював — цього разу заблокував сам egress-проксі хмарного
-     середовища рутини: "Write access to this GitHub API path is not
-     permitted through this proxy". Це, схоже, навмисне обмеження безпеки
-     на рівні платформи для будь-яких write-запитів до api.github.com з
-     хмарних рутин, незалежно від токена.
-  3. Google Drive-конектор має лише 8 інструментів (Download file content,
-     Get file metadata, Get file permissions, List recent files, Read file
-     content, Search files, Copy file, Create file) — без
-     update/overwrite/delete. Це не платформне обмеження безпеки, а просто
-     неповний набір інструментів конектора — тому єдиний робочий підхід:
-     створювати новий файл щоразу (з timestamp у назві для керованості).
+  Гілка має саме префікс `claude/`, бо git-проксі хмарного середовища
+  рутини за замовчуванням дозволяє пушити лише в гілки з цим префіксом.
+  Це ж пояснює старі невдачі: пуш у `main` і запис через GitHub REST API
+  (`PUT .../contents/...`) проксі відхиляє, а звичайний `git push` у
+  `claude/*` — ні.
+
+  **Порядок важливий:** стан пушиться тільки після успішного надсилання в
+  Telegram. Якщо Telegram або сайт недоступні, `run.sh` завершується з
+  помилкою до пушу, і наступний запуск повторить спробу — оголошення не
+  загубляться.
+
+  Історія: з 2026-07-23 по 2026-10-15 стан зберігався як окремі файли
+  `gag-koeln-seen-<timestamp>.json` у папці "GAG" на Google Drive
+  (`folderId: 1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF`). Усі 876 файлів перенесено в
+  `claude/state` як коміти з оригінальними датами (324 коміти — лише ті
+  знімки, де стан змінювався). Drive-конектор рутині більше не потрібен.
 - **Сповіщення**: Telegram-бот, повідомлення надсилаються напряму через
-  Telegram Bot API (`curl` всередині сесії рутини), а не через Gmail —
-  Gmail-конектор Claude вміє лише створювати чернетки (`create_draft`), не
-  надсилати листи автономно (свідоме обмеження безпеки). Надсилається тільки
-  якщо є нові оголошення. Telegram API, на відміну від GitHub, не блокується
-  проксі для запису.
+  Telegram Bot API (`curl` у `run.sh`). Надсилається тільки якщо є нові
+  оголошення.
 - **Мережевий доступ середовища**: Custom allowlist, домени
-  `www.gag-koeln.de` і `api.telegram.org` (`api.github.com` більше не
-  потрібен для запису стану).
+  `www.gag-koeln.de` і `api.telegram.org` (`github.com` для git працює через
+  вбудований проксі).
 - **Розклад**: щодня (без винятків для вихідних), о 8:00, 10:00, 12:00, 15:00
   (Europe/Berlin). Поле "Cron expression" у налаштуваннях рутини
   інтерпретується **в UTC**, хоча підпис "Repeats" у інтерфейсі оманливо
@@ -83,64 +77,30 @@ https://www.gag-koeln.de/immobiliensuche/wohnung-mieten
 
 - ID рутини: `trig_01R2F9hf5CE3GrMG33gvAcgQ`
 - ID середовища: `env_01V6DDcKskE5E2o2kRoVpCcn`
+- Репозиторій: `ikorytnyi/gag-koeln-watch`, **з правом запису** (Claude
+  GitHub App з доступом Contents: write).
 - Текст промпту (Instructions) — див. нижче. Значення `<TELEGRAM_BOT_TOKEN>`
   і `<TELEGRAM_CHAT_ID>` — **секрети, ніколи не комітяться в цей
   репозиторій** (зберігаються лише в полі Instructions самої рутини на
   claude.ai).
 
 ```
-Repository: ikorytnyi/gag-koeln-watch (read-only clone, already available for check.py).
+Repository: ikorytnyi/gag-koeln-watch (cloned with write access).
 
-1. Run: python3 check.py
-   This prints JSON: {object_id: {title, address, rent, area, rooms, facilities, url}} — the currently listed apartments.
+Run exactly this one command from the repository root via Bash and do nothing else:
 
-2. Using the Google Drive connector, search for files inside the folder with
-   ID "1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF" (the "GAG" folder) whose name starts
-   with "gag-koeln-seen-" and ends with ".json".
-   - If one or more found: sort by filename (lexicographic sort — the timestamp
-     format makes this equivalent to chronological order) and read the content
-     of the LAST one (most recent) as the previous state.
-   - If none found: treat the previous state as an empty object {}.
+TELEGRAM_BOT_TOKEN='<TELEGRAM_BOT_TOKEN>' TELEGRAM_CHAT_ID='<TELEGRAM_CHAT_ID>' ./run.sh
 
-3. Compute new_ids = object_ids present in step 1 but absent from the previous state.
-
-4. If new_ids is non-empty:
-   - Group new_ids by "rooms", counting how many new listings per room count.
-   - For any new listing where rooms == "5", collect full details.
-   - Compose a plain-text Ukrainian report:
-     "Нові оголошення на gag-koeln.de: <N>"
-     ""
-     "За кількістю кімнат:"
-     "  <rooms> кімн.: <count>"   (one line per room count, sorted)
-     (if any 5-room listings, blank line then:)
-     "Деталі 5-кімнатних квартир:"
-     (for each: title / address / "rent, area" / facilities joined by ", " / url, blank line between)
-   - Send this report via Telegram using Bash + curl:
-     curl -s "https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/sendMessage" \
-       --data-urlencode "chat_id=<TELEGRAM_CHAT_ID>" \
-       --data-urlencode "text=<the report text>"
-   - IMPORTANT: the message text must be written ONLY in Ukrainian. Use the
-     report text above verbatim. Do NOT add any extra greeting, commentary,
-     sign-off, or explanation in English or any other language.
-
-5. If new_ids is empty: do not send any Telegram message.
-
-6. Regardless of steps 4/5: get the current UTC timestamp by running
-   `date -u +%Y-%m-%dT%H-%M` via Bash — do NOT guess or compute this
-   timestamp yourself, always run the command and use its exact output.
-   Using the Google Drive connector, create a NEW file inside the folder with
-   ID "1kQTxGvP5H8A9hjm-F-ZRkEallTa1roCF" (the "GAG" folder), named
-   "gag-koeln-seen-<output of the date command>.json", containing the full
-   current listings JSON from step 1. Only do this if step 1 succeeded and step
-   2 completed without error — don't create a new state file if something
-   failed, to avoid silently losing track of listings. Do NOT attempt to update
-   or delete the older gag-koeln-seen-*.json files — the Drive connector
-   doesn't support that; just leave them (a human cleans them up periodically).
+The script fetches listings, sends the Ukrainian Telegram report if there are
+new ones, and pushes the updated state to the claude/state branch.
+- Do NOT send any Telegram messages yourself, do NOT edit any files, do NOT
+  commit or push anything yourself — run.sh does all of that.
+- If the command exits non-zero, do NOT retry and do NOT try to fix anything;
+  just report the full output. The next scheduled run will retry.
 ```
 
 ### Конектори рутини
 
 - `Claude_Code_Remote` — стандартний, додається автоматично
-- `Google-Drive` — читання/створення файлів стану
 
-Gmail не потрібен — сповіщення йдуть через Telegram Bot API (curl).
+Google Drive і Gmail не потрібні.

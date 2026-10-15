@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
-"""Fetch current rental listings from gag-koeln.de and print them as JSON.
+"""Fetch current rental listings from gag-koeln.de and diff them against stored state.
 
-State/diffing is NOT done here — the calling agent compares this output
-against a previously stored state (e.g. a file in Google Drive) and decides
-whether to notify and how to update the stored state. This keeps the script
-free of any write access requirements (GitHub push, etc).
+Usage:
+  python3 check.py                     # print current listings as JSON
+  python3 check.py --state seen.json   # diff against seen.json, overwrite it with
+                                       # the current listings and print the
+                                       # Ukrainian Telegram report (empty = nothing new)
+
+The script never commits or pushes anything — run.sh owns the git side
+(state lives in the `claude/state` branch, see README).
 
 The listing page no longer renders apartments into the initial HTML — they
 are loaded client-side via a TYPO3 Extbase AJAX action once the page's JS
@@ -13,10 +17,12 @@ filter form's hidden fields (which carry TYPO3's Extbase referrer/trusted-
 properties tokens) out of the page HTML and POSTs them back to the form's
 action URL to get the same JSON payload the browser would receive.
 
-Output: JSON object {object_id: {title, address, rent, area, rooms, facilities, url}}
+Listing format: {object_id: {title, address, rent, area, rooms, facilities, url}}
 """
+import argparse
 import html
 import json
+import os
 import re
 import urllib.parse
 import urllib.request
@@ -97,11 +103,63 @@ def parse_listings(html_fragment: str) -> dict:
     return listings
 
 
+def rooms_key(rooms: str):
+    try:
+        return (0, float(rooms.replace(",", ".")), rooms)
+    except ValueError:
+        return (1, 0.0, rooms)
+
+
+def build_report(new: dict) -> str:
+    counts = {}
+    for item in new.values():
+        counts[item["rooms"]] = counts.get(item["rooms"], 0) + 1
+
+    lines = [f"Нові оголошення на gag-koeln.de: {len(new)}", "", "За кількістю кімнат:"]
+    for rooms in sorted(counts, key=rooms_key):
+        lines.append(f"  {rooms} кімн.: {counts[rooms]}")
+
+    five = [item for item in new.values() if item["rooms"] == "5"]
+    if five:
+        lines += ["", "Деталі 5-кімнатних квартир:"]
+        for i, item in enumerate(five):
+            if i:
+                lines.append("")
+            lines += [
+                item["title"],
+                item["address"],
+                f"{item['rent']}, {item['area']}",
+                ", ".join(item["facilities"]),
+                item["url"],
+            ]
+    return "\n".join(lines)
+
+
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--state", help="seen.json to diff against and overwrite with current listings")
+    args = parser.parse_args()
+
     page_html = fetch_html(URL)
     listings_html = fetch_listings_html(page_html)
     current = parse_listings(listings_html)
-    print(json.dumps(current, ensure_ascii=False, indent=2))
+
+    if not args.state:
+        print(json.dumps(current, ensure_ascii=False, indent=2))
+        return
+
+    previous = {}
+    if os.path.exists(args.state):
+        with open(args.state, encoding="utf-8") as f:
+            previous = json.load(f)
+
+    new = {obj_id: item for obj_id, item in current.items() if obj_id not in previous}
+
+    with open(args.state, "w", encoding="utf-8") as f:
+        f.write(json.dumps(current, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
+
+    if new:
+        print(build_report(new))
 
 
 if __name__ == "__main__":

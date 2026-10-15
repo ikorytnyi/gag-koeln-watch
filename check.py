@@ -10,6 +10,12 @@ Usage:
 The script never commits or pushes anything — run.sh owns the git side
 (state lives in the `claude/state` branch, see README).
 
+State format: every listing ever seen, {object_id: {...listing, first_seen,
+last_seen, gone_since}}. gone_since is null while the listing is on the site;
+a listing that reappears after gone_since was set is reported as "повторно".
+If the site returns 0 listings while some are active, the script exits
+non-zero without touching the state (a parsing failure, not a real wipe).
+
 The listing page no longer renders apartments into the initial HTML — they
 are loaded client-side via a TYPO3 Extbase AJAX action once the page's JS
 runs. This script instead replays that AJAX call directly: it scrapes the
@@ -24,10 +30,13 @@ import html
 import json
 import os
 import re
+import sys
 import urllib.parse
 import urllib.request
+from datetime import datetime, timezone
 
 URL = "https://www.gag-koeln.de/immobiliensuche/wohnung-mieten"
+STAMP_FORMAT = "%Y-%m-%dT%H:%MZ"
 
 
 def fetch_html(url: str) -> str:
@@ -110,29 +119,69 @@ def rooms_key(rooms: str):
         return (1, 0.0, rooms)
 
 
-def build_report(new: dict) -> str:
-    counts = {}
-    for item in new.values():
+def now_stamp() -> str:
+    return datetime.now(timezone.utc).strftime(STAMP_FORMAT)
+
+
+def days_since(stamp: str, now: str) -> int:
+    then = datetime.strptime(stamp, STAMP_FORMAT)
+    return (datetime.strptime(now, STAMP_FORMAT) - then).days
+
+
+def build_report(new: dict, returned: dict, previous: dict, now: str) -> str:
+    """new/returned: {object_id: listing}; previous supplies gone_since for returned ones."""
+    appeared = {**new, **returned}
+    counts, returned_counts = {}, {}
+    for obj_id, item in appeared.items():
         counts[item["rooms"]] = counts.get(item["rooms"], 0) + 1
+        if obj_id in returned:
+            returned_counts[item["rooms"]] = returned_counts.get(item["rooms"], 0) + 1
 
-    lines = [f"Нові оголошення на gag-koeln.de: {len(new)}", "", "За кількістю кімнат:"]
+    header = f"Нові оголошення на gag-koeln.de: {len(appeared)}"
+    if returned:
+        header += f" (з них повторно: {len(returned)})"
+    lines = [header, "", "За кількістю кімнат:"]
     for rooms in sorted(counts, key=rooms_key):
-        lines.append(f"  {rooms} кімн.: {counts[rooms]}")
+        line = f"  {rooms} кімн.: {counts[rooms]}"
+        if rooms in returned_counts:
+            line += f" ({returned_counts[rooms]} повторно)"
+        lines.append(line)
 
-    five = [item for item in new.values() if item["rooms"] == "5"]
+    if returned:
+        lines += ["", "Повернулись на сайт:"]
+        for obj_id, item in returned.items():
+            gone_since = previous[obj_id]["gone_since"]
+            days = days_since(gone_since, now)
+            ago = f"{days} дн." if days else "менше доби"
+            lines += [f"  {item['title']} — не було з {gone_since[:10]} ({ago})", f"  {item['url']}"]
+
+    five = [(obj_id, item) for obj_id, item in appeared.items() if item["rooms"] == "5"]
     if five:
         lines += ["", "Деталі 5-кімнатних квартир:"]
-        for i, item in enumerate(five):
+        for i, (obj_id, item) in enumerate(five):
             if i:
                 lines.append("")
+            title = item["title"] + (" (повторно)" if obj_id in returned else "")
             lines += [
-                item["title"],
+                title,
                 item["address"],
                 f"{item['rent']}, {item['area']}",
                 ", ".join(item["facilities"]),
                 item["url"],
             ]
     return "\n".join(lines)
+
+
+def update_state(previous: dict, current: dict, now: str) -> dict:
+    """Merge current listings into state; listings that vanished are kept with gone_since set."""
+    state = {}
+    for obj_id, item in current.items():
+        first_seen = previous.get(obj_id, {}).get("first_seen") or now
+        state[obj_id] = {**item, "first_seen": first_seen, "last_seen": now, "gone_since": None}
+    for obj_id, entry in previous.items():
+        if obj_id not in current:
+            state[obj_id] = {**entry, "gone_since": entry.get("gone_since") or now}
+    return state
 
 
 def main() -> None:
@@ -153,13 +202,26 @@ def main() -> None:
         with open(args.state, encoding="utf-8") as f:
             previous = json.load(f)
 
+    active = [obj_id for obj_id, entry in previous.items() if not entry.get("gone_since")]
+    if not current and active:
+        # Almost certainly a parsing/site failure, not every listing vanishing at once.
+        # Keep the state untouched so the next run doesn't report everything as new.
+        sys.exit(f"Site returned 0 listings but {len(active)} were active; refusing to update state")
+
+    now = now_stamp()
     new = {obj_id: item for obj_id, item in current.items() if obj_id not in previous}
+    returned = {
+        obj_id: item
+        for obj_id, item in current.items()
+        if obj_id in previous and previous[obj_id].get("gone_since")
+    }
 
+    state = update_state(previous, current, now)
     with open(args.state, "w", encoding="utf-8") as f:
-        f.write(json.dumps(current, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
+        f.write(json.dumps(state, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
 
-    if new:
-        print(build_report(new))
+    if new or returned:
+        print(build_report(new, returned, previous, now))
 
 
 if __name__ == "__main__":

@@ -53,7 +53,7 @@ fi
 git config user.name >/dev/null || git config user.name "gag-koeln-watch"
 git config user.email >/dev/null || git config user.email "gag-koeln-watch@users.noreply.github.com"
 
-count=$(python3 -c 'import json; print(len(json.load(open("seen.json"))))')
-git commit --quiet -m "State $(date -u +%Y-%m-%dT%H-%M): ${count} listings"
+count=$(python3 -c 'import json; print(sum(not v.get("gone_since") for v in json.load(open("seen.json")).values()))')
+git commit --quiet -m "State $(date -u +%Y-%m-%dT%H-%M): ${count} active listings"
 git push --quiet origin "HEAD:${BRANCH}"
-echo "State: pushed to ${BRANCH} (${count} listings)"
+echo "State: pushed to ${BRANCH} (${count} active listings)"

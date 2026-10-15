@@ -1,17 +1,31 @@
 {
-  "8110-00152-001-001": {
-    "address": "Untere Dorfstr. 93, 50829 Köln Bocklemünd/Mengenich",
-    "area": "41,00 m²",
+  "1900-03665-001-003": {
+    "address": "Bendorfer Weg 10, 51105 Köln Humboldt/Gremberg",
+    "area": "76,00 m²",
     "facilities": [
       "Keller",
       "Bad",
-      "Seniorengerecht",
-      "Personenaufzug"
+      "Personenaufzug",
+      "Zentralheizung"
     ],
-    "rent": "397,10 €",
-    "rooms": "1",
-    "title": "1-Zimmer Seniorenwohnung ab 60 Jahren - nur WBS A -",
-    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00152-001-001"
+    "rent": "1.167,80 €",
+    "rooms": "3",
+    "title": "gemütliche, zentrumsnahe, familiengerechte 3 Zimmerwohnung, freifinanziert ohne WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03665-001-003"
+  },
+  "1900-07605-022-158": {
+    "address": "Thorwaldsenstr. 18, 51103 Köln Vingst",
+    "area": "54,54 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "rent": "879,40 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07605-022-158"
   },
   "8110-00843-001-004": {
     "address": "Poststr. 30, 51143 Köln Porz",

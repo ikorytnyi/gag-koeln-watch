@@ -11,6 +11,17 @@ set -euo pipefail
 : "${TELEGRAM_BOT_TOKEN:?TELEGRAM_BOT_TOKEN is not set}"
 : "${TELEGRAM_CHAT_ID:?TELEGRAM_CHAT_ID is not set}"
 
+# The routine's cron is in UTC and covers both CEST and CET (06-17 UTC);
+# only run inside the 08:xx-18:xx Europe/Berlin window, so DST needs no
+# manual cron changes. Without tzdata TZ silently falls back to UTC, so
+# the check is skipped (run anyway) unless the zone resolves to CET/CEST.
+hour=$(TZ=Europe/Berlin date +%-H)
+zone=$(TZ=Europe/Berlin date +%Z)
+if [[ "$zone" == CET || "$zone" == CEST ]] && { [ "$hour" -lt 8 ] || [ "$hour" -gt 18 ]; }; then
+  echo "Outside Berlin 08-18 window (now ${hour}:xx Europe/Berlin), skipping"
+  exit 0
+fi
+
 BRANCH=claude/state
 cd "$(dirname "$0")"
 

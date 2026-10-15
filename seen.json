@@ -1,4 +1,923 @@
 {
+  "1900-01023-001-017": {
+    "address": "Ricarda-Huch-Str. 33, 51061 Köln Stammheim",
+    "area": "88,22 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-12T08:03Z",
+    "gone_since": "2026-10-12T09:02Z",
+    "last_seen": "2026-10-12T08:03Z",
+    "rent": "1.200,40 €",
+    "rooms": "3",
+    "title": "Helle, moderne 3-Zimmer-Wohnung mit großzügiger Dachterrasse",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01023-001-017"
+  },
+  "1900-01030-002-014": {
+    "address": "Nathan-Kahn-Straße 13b, 51061 Köln Stammheim",
+    "area": "53,33 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-17T09:02Z",
+    "gone_since": "2026-09-17T13:02Z",
+    "last_seen": "2026-09-17T12:02Z",
+    "rent": "1.011,30 €",
+    "rooms": "2",
+    "title": "Schöne 2 Zimmer Wohnung in Köln Stammheim - direkt am Rhein",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-002-014"
+  },
+  "1900-01030-004-034": {
+    "address": "Nathan-Kahn-Straße 13d, 51061 Köln Stammheim",
+    "area": "83,13 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Fußbodenheizung"
+    ],
+    "first_seen": "2026-08-06T08:08Z",
+    "gone_since": "2026-08-06T13:11Z",
+    "last_seen": "2026-08-06T11:16Z",
+    "rent": "1.535,00 €",
+    "rooms": "3",
+    "title": "Schöne 3 Zimmer Wohnung am Stammheimer Ufer",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-004-034"
+  },
+  "1900-01199-001-012": {
+    "address": "Eulenbergstr. 41, 51065 Köln Mülheim",
+    "area": "81,68 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-10-02T09:02Z",
+    "gone_since": "2026-10-02T10:02Z",
+    "last_seen": "2026-10-02T09:02Z",
+    "rent": "1.040,60 €",
+    "rooms": "3",
+    "title": "Zentrale Wohnlage - Nähe Wiener Platz",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01199-001-012"
+  },
+  "1900-01638-005-049": {
+    "address": "Ricarda-Huch-Str. 6, 51061 Köln Stammheim",
+    "area": "66,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster",
+      "Balkon",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-10-01T09:01Z",
+    "gone_since": "2026-10-01T10:02Z",
+    "last_seen": "2026-10-01T09:01Z",
+    "rent": "862,60 €",
+    "rooms": "3",
+    "title": "3-Zimmer-Wohnung in Rheinnähe",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01638-005-049"
+  },
+  "1900-01639-003-018": {
+    "address": "Moses-Heß-Str. 15, 51061 Köln Stammheim",
+    "area": "66,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-24T07:02Z",
+    "gone_since": "2026-09-24T08:02Z",
+    "last_seen": "2026-09-24T07:02Z",
+    "rent": "860,60 €",
+    "rooms": "3",
+    "title": "Schöne 3-Zimmer-Wohnung in Rheinnähe",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01639-003-018"
+  },
+  "1900-01639-042-331": {
+    "address": "Ricarda-Huch-Str. 7, 51061 Köln Stammheim",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-21T09:02Z",
+    "gone_since": "2026-08-21T11:05Z",
+    "last_seen": "2026-08-21T09:02Z",
+    "rent": "712,50 €",
+    "rooms": "2",
+    "title": "Schöne 2-Zimmer-Wohnung in Rheinnähe",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01639-042-331"
+  },
+  "1900-01641-018-107": {
+    "address": "Niersstr. 12, 51061 Köln Stammheim",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-02T10:03Z",
+    "gone_since": "2026-09-02T11:04Z",
+    "last_seen": "2026-09-02T10:03Z",
+    "rent": "690,50 €",
+    "rooms": "2",
+    "title": "Gemütliche 2-Zimmer-Wohnung in Rheinnähe",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01641-018-107"
+  },
+  "1900-01708-002-015": {
+    "address": "Mülheimer Freiheit 152, 51063 Köln Mülheim",
+    "area": "42,26 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-25T11:07Z",
+    "gone_since": "2026-08-25T13:07Z",
+    "last_seen": "2026-08-25T11:07Z",
+    "rent": "397,60 €",
+    "rooms": "1",
+    "title": "NUR mit 50m²-WBS!!!! 1-Raum-Erdgeschosswohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01708-002-015"
+  },
+  "1900-01778-001-010": {
+    "address": "Bertha-Sander-Str. 21, 50829 Köln Ossendorf",
+    "area": "81,70 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-05T09:07Z",
+    "gone_since": "2026-08-05T10:07Z",
+    "last_seen": "2026-08-05T09:07Z",
+    "rent": "743,20 €",
+    "rooms": "3",
+    "title": "Nur mit WBS-A ab 80qm! Schöne drei-Zimmerwohnung am Butzweilerhof zu vermieten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01778-001-010"
+  },
+  "1900-01778-002-018": {
+    "address": "Bertha-Sander-Str. 23, 50829 Köln Ossendorf",
+    "area": "75,30 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-15T12:02Z",
+    "gone_since": "2026-09-15T15:02Z",
+    "last_seen": "2026-09-15T14:03Z",
+    "rent": "665,40 €",
+    "rooms": "3",
+    "title": "Nur mit WBS-A bis 80qm! Schöne Dreizimmerwohnung am Butzweilerhof zu vermieten.",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01778-002-018"
+  },
+  "1900-01782-001-009": {
+    "address": "Bertha-Sander-Str. 6, 50829 Köln Ossendorf",
+    "area": "66,93 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-07-29T13:06Z",
+    "gone_since": "2026-08-13T14:14Z",
+    "last_seen": "2026-08-13T13:09Z",
+    "rent": "606,40 €",
+    "rooms": "2",
+    "title": "WBS A bis 65qm erforderlich! - Schöne zwei-Zimmerwohnung am Butzweilerhof zu vermieten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01782-001-009"
+  },
+  "1900-01782-002-031": {
+    "address": "Bertha-Sander-Str. 8, 50829 Köln Ossendorf",
+    "area": "65,90 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-18T09:02Z",
+    "gone_since": "2026-08-18T11:04Z",
+    "last_seen": "2026-08-18T09:02Z",
+    "rent": "608,50 €",
+    "rooms": "2",
+    "title": "Nur bis WBS-A bis 65qm! Schöne  Zweizimmerwohnung am Butzweilerhof",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01782-002-031"
+  },
+  "1900-02013-001-006": {
+    "address": "Barcelona-Allee 6, 51103 Köln Kalk",
+    "area": "44,06 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Personenaufzug",
+      "Fußbodenheizung"
+    ],
+    "first_seen": "2026-08-17T11:09Z",
+    "gone_since": "2026-08-17T12:08Z",
+    "last_seen": "2026-08-17T11:09Z",
+    "rent": "772,40 €",
+    "rooms": "1",
+    "title": "Schöne 1-Zimmer-Wohnung in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02013-001-006"
+  },
+  "1900-02013-001-020": {
+    "address": "Barcelona-Allee 6, 51103 Köln Kalk",
+    "area": "64,75 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-08-21T09:02Z",
+    "gone_since": "2026-08-21T16:05Z",
+    "last_seen": "2026-08-21T15:24Z",
+    "rent": "1.178,10 €",
+    "rooms": "2",
+    "title": "Helle 2-Zimmer-Wohnung in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02013-001-020"
+  },
+  "1900-02034-001-013": {
+    "address": "Bertha-Benz-Karree 14, 51107 Köln Ostheim",
+    "area": "63,70 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-24T11:03Z",
+    "gone_since": "2026-08-24T13:04Z",
+    "last_seen": "2026-08-24T12:04Z",
+    "rent": "952,30 €",
+    "rooms": "2",
+    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02034-001-013"
+  },
+  "1900-02039-001-002": {
+    "address": "Bertha-Benz-Karree 24, 51107 Köln Ostheim",
+    "area": "55,58 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Garten/ -mitbenutzung",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-17T11:09Z",
+    "gone_since": "2026-08-17T12:08Z",
+    "last_seen": "2026-08-17T11:09Z",
+    "rent": "835,30 €",
+    "rooms": "2",
+    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Terrasse und Garten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02039-001-002"
+  },
+  "1900-02040-001-004": {
+    "address": "Bertha-Benz-Karree 1, 51107 Köln Ostheim",
+    "area": "55,08 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-17T11:09Z",
+    "gone_since": "2026-08-17T12:08Z",
+    "last_seen": "2026-08-17T11:09Z",
+    "rent": "715,90 €",
+    "rooms": "2",
+    "title": "Waldbadviertel: !WBS (A) 65,00 m²! notwendig! - Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02040-001-004"
+  },
+  "1900-02063-001-001": {
+    "address": "Hertzstr. 12, 51065 Köln Buchforst",
+    "area": "56,45 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-05T16:13Z",
+    "gone_since": "2026-08-05T17:06Z",
+    "last_seen": "2026-08-05T16:13Z",
+    "rent": "762,10 €",
+    "rooms": "3",
+    "title": "Wohnen in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02063-001-001"
+  },
+  "1900-02063-001-009": {
+    "address": "Hertzstr. 12, 51065 Köln Buchforst",
+    "area": "60,58 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-24T18:05Z",
+    "gone_since": "2026-07-24T19:05Z",
+    "last_seen": "2026-07-24T18:05Z",
+    "rent": "790,90 €",
+    "rooms": "3",
+    "title": "Wohnen in Köln-Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02063-001-009"
+  },
+  "1900-02067-001-007": {
+    "address": "Waldecker Str. 45, 51065 Köln Buchforst",
+    "area": "67,64 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-29T09:01Z",
+    "gone_since": "2026-09-29T10:02Z",
+    "last_seen": "2026-09-29T09:01Z",
+    "rent": "928,20 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02067-001-007"
+  },
+  "1900-02093-001-006": {
+    "address": "Heidelberger Str. 39, 51065 Köln Buchforst",
+    "area": "65,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-14T07:03Z",
+    "gone_since": "2026-10-05T14:03Z",
+    "last_seen": "2026-10-05T12:02Z",
+    "rent": "802,60 €",
+    "rooms": "2",
+    "title": "Helle 2 Zimmer Whg. mit Balkon!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02093-001-006"
+  },
+  "1900-02093-001-007": {
+    "address": "Heidelberger Str. 39, 51065 Köln Buchforst",
+    "area": "81,34 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-10-06T10:02Z",
+    "gone_since": "2026-10-06T12:03Z",
+    "last_seen": "2026-10-06T10:02Z",
+    "rent": "983,50 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Wohnung im 3. Obergeschoss",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02093-001-007"
+  },
+  "1900-02109-003-022": {
+    "address": "Guerickestr. 6, 51065 Köln Buchforst",
+    "area": "61,76 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-06T09:11Z",
+    "gone_since": "2026-09-07T09:02Z",
+    "last_seen": "2026-09-07T08:04Z",
+    "rent": "754,80 €",
+    "rooms": "2",
+    "title": "2 Zi. Whg. mit Balkon in der 2. Etage zu vermieten!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02109-003-022"
+  },
+  "1900-02110-001-014": {
+    "address": "Heidelberger Str. 49, 51065 Köln Buchforst",
+    "area": "89,05 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-10-14T07:02Z",
+    "gone_since": "2026-10-14T10:02Z",
+    "last_seen": "2026-10-14T07:02Z",
+    "rent": "1.210,80 €",
+    "rooms": "3",
+    "title": "Helle Dachgeschosswohnung in Köln-Buchforst!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02110-001-014"
+  },
+  "1900-02113-011-084": {
+    "address": "Wildunger Str. 21, 51065 Köln Buchforst",
+    "area": "50,19 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-10-15T07:02Z",
+    "gone_since": "2026-10-15T08:02Z",
+    "last_seen": "2026-10-15T07:02Z",
+    "rent": "634,90 €",
+    "rooms": "2",
+    "title": "Nette 2 Zimmerwohnung in Köln Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02113-011-084"
+  },
+  "1900-02113-014-112": {
+    "address": "Wildunger Str. 27, 51065 Köln Buchforst",
+    "area": "62,69 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-30T06:06Z",
+    "gone_since": "2026-08-24T09:03Z",
+    "last_seen": "2026-08-24T08:05Z",
+    "rent": "822,20 €",
+    "rooms": "3",
+    "title": "Gemütliche 3-Zimmer-Wohnung in Köln-Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02113-014-112"
+  },
+  "1900-02113-015-120": {
+    "address": "Wildunger Str. 29, 51065 Köln Buchforst",
+    "area": "62,69 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-22T10:03Z",
+    "gone_since": "2026-09-22T11:03Z",
+    "last_seen": "2026-09-22T10:03Z",
+    "rent": "844,10 €",
+    "rooms": "3",
+    "title": "Schöne 3 Zimmerwohnung in Köln-Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02113-015-120"
+  },
+  "1900-02118-001-015": {
+    "address": "Heidelberger Str. 61/63, 51065 Köln Buchforst",
+    "area": "61,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-04T07:09Z",
+    "gone_since": "2026-08-04T08:08Z",
+    "last_seen": "2026-08-04T07:09Z",
+    "rent": "812,40 €",
+    "rooms": "2",
+    "title": "Moderne 2 Zi. Whg. mit offenem Wohnbereich und Balkon!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02118-001-015"
+  },
+  "1900-02260-001-002": {
+    "address": "Dillenburger Str. 13, 51105 Köln Kalk",
+    "area": "90,39 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-05T11:02Z",
+    "gone_since": "2026-10-05T16:02Z",
+    "last_seen": "2026-10-05T15:03Z",
+    "rent": "1.431,90 €",
+    "rooms": "3",
+    "title": "Moderne 3-Zimmer-Wohnung mit kleinem Garten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-001-002"
+  },
+  "1900-02260-002-027": {
+    "address": "Dillenburger Str. 15, 51105 Köln Kalk",
+    "area": "88,63 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-09T07:03Z",
+    "gone_since": "2026-10-09T10:02Z",
+    "last_seen": "2026-10-09T09:02Z",
+    "rent": "1.391,50 €",
+    "rooms": "3",
+    "title": "Moderne 3-Zimmer-Wohnung mit 2 Balkonen",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-002-027"
+  },
+  "1900-02260-002-030": {
+    "address": "Dillenburger Str. 15, 51105 Köln Kalk",
+    "area": "45,42 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-01T09:02Z",
+    "gone_since": "2026-09-01T14:05Z",
+    "last_seen": "2026-09-01T11:06Z",
+    "rent": "849,50 €",
+    "rooms": "1",
+    "title": "Moderne 2-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-002-030"
+  },
+  "1900-02260-003-051": {
+    "address": "Dillenburger Str. 17, 51105 Köln Kalk",
+    "area": "97,29 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-05T10:02Z",
+    "gone_since": "2026-10-05T11:02Z",
+    "last_seen": "2026-10-05T10:02Z",
+    "rent": "1.551,90 €",
+    "rooms": "4",
+    "title": "Moderne 4-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-003-051"
+  },
+  "1900-02260-005-073": {
+    "address": "Robertstr. 19, 51105 Köln Kalk",
+    "area": "38,63 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-31T08:02Z",
+    "gone_since": "2026-08-31T10:03Z",
+    "last_seen": "2026-08-31T09:03Z",
+    "rent": "686,94 €",
+    "rooms": "1",
+    "title": "Ausschließlich für STUDENTEN",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-005-073"
+  },
+  "1900-02260-006-129": {
+    "address": "Robertstr. 21, 51105 Köln Kalk",
+    "area": "35,56 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-24T11:02Z",
+    "gone_since": "2026-09-24T14:02Z",
+    "last_seen": "2026-09-24T11:02Z",
+    "rent": "631,96 €",
+    "rooms": "1",
+    "title": "Auschließlich für Studenten - modernes Appartement",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-006-129"
+  },
+  "1900-02260-006-131": {
+    "address": "Robertstr. 21, 51105 Köln Kalk",
+    "area": "93,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-05T10:02Z",
+    "gone_since": "2026-10-07T07:02Z",
+    "last_seen": "2026-10-07T06:02Z",
+    "rent": "1.606,59 €",
+    "rooms": "3",
+    "title": "Wohnung ausschließlich für studentische 3er WG",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-006-131"
+  },
+  "1900-02780-006-040": {
+    "address": "Kreuzblumenweg 25, 50765 Köln Volkhoven/Weiler",
+    "area": "73,08 m²",
+    "facilities": [
+      "Bad"
+    ],
+    "first_seen": "2026-08-14T11:10Z",
+    "gone_since": "2026-08-17T06:05Z",
+    "last_seen": "2026-08-14T13:32Z",
+    "rent": "1.015,30 €",
+    "rooms": "3",
+    "title": "Drei-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-006-040"
+  },
+  "1900-02780-009-065": {
+    "address": "Kreuzblumenweg 19, 50765 Köln Volkhoven/Weiler",
+    "area": "76,38 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-30T13:06Z",
+    "gone_since": "2026-07-31T05:05Z",
+    "last_seen": "2026-07-30T18:05Z",
+    "rent": "1.042,90 €",
+    "rooms": "3",
+    "title": "Drei-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-009-065"
+  },
+  "1900-02780-011-083": {
+    "address": "Wezelostr. 36, 50765 Köln Volkhoven/Weiler",
+    "area": "48,98 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-24T12:04Z",
+    "gone_since": "2026-08-24T16:03Z",
+    "last_seen": "2026-08-24T15:06Z",
+    "rent": "679,60 €",
+    "rooms": "1",
+    "title": "Ein-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-011-083"
+  },
+  "1900-02780-011-085": {
+    "address": "Wezelostr. 36, 50765 Köln Volkhoven/Weiler",
+    "area": "65,44 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-20T13:06Z",
+    "gone_since": "2026-09-29T06:02Z",
+    "last_seen": "2026-09-28T13:03Z",
+    "rent": "937,80 €",
+    "rooms": "2",
+    "title": "Zwei-Zimmer-Wohnung im Dachgeschoss mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-011-085"
+  },
+  "1900-02780-015-120": {
+    "address": "Wezelostr. 32, 50765 Köln Volkhoven/Weiler",
+    "area": "44,55 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-30T13:06Z",
+    "gone_since": "2026-07-31T05:05Z",
+    "last_seen": "2026-07-30T18:05Z",
+    "rent": "639,00 €",
+    "rooms": "1",
+    "title": "Zwei-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-015-120"
+  },
+  "1900-02791-003-027": {
+    "address": "Am Georgshof 6, 50765 Köln Volkhoven/Weiler",
+    "area": "45,73 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-25T13:07Z",
+    "gone_since": "2026-08-25T16:02Z",
+    "last_seen": "2026-08-25T15:07Z",
+    "rent": "563,00 €",
+    "rooms": "1",
+    "title": "Ein-Zimmer-Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02791-003-027"
+  },
+  "1900-02792-002-025": {
+    "address": "Merianstr. 75, 50765 Köln Volkhoven/Weiler",
+    "area": "79,07 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-23T16:56Z",
+    "gone_since": "2026-07-24T05:00Z",
+    "last_seen": "2026-07-23T16:56Z",
+    "rent": "925,80 €",
+    "rooms": "3",
+    "title": "Drei-Zimmer-Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02792-002-025"
+  },
+  "1900-02794-004-041": {
+    "address": "Damiansweg 72, 50765 Köln Volkhoven/Weiler",
+    "area": "78,84 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-06T10:02Z",
+    "gone_since": "2026-10-06T14:02Z",
+    "last_seen": "2026-10-06T13:02Z",
+    "rent": "1.450,10 €",
+    "rooms": "3",
+    "title": "Drei-Zimmer-Wohnung mit Loggia",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02794-004-041"
+  },
+  "1900-03152-001-005": {
+    "address": "Apoldaer Weg 2, 51103 Köln Höhenberg",
+    "area": "57,95 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-12T11:05Z",
+    "gone_since": "2026-08-12T13:07Z",
+    "last_seen": "2026-08-12T11:05Z",
+    "rent": "843,70 €",
+    "rooms": "2",
+    "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03152-001-005"
+  },
+  "1900-03162-005-033": {
+    "address": "Fuldaer Str. 69, 51103 Köln Höhenberg",
+    "area": "64,51 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-05T12:17Z",
+    "gone_since": "2026-09-30T10:02Z",
+    "last_seen": "2026-09-29T16:02Z",
+    "rent": "879,90 €",
+    "rooms": "2",
+    "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03162-005-033"
+  },
+  "1900-03162-011-069": {
+    "address": "Fuldaer Str. 89, 51103 Köln Höhenberg",
+    "area": "54,59 m²",
+    "facilities": [
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-15T11:03Z",
+    "gone_since": "2026-09-15T12:02Z",
+    "last_seen": "2026-09-15T11:03Z",
+    "rent": "758,50 €",
+    "rooms": "2",
+    "title": "Höhenberg: 2-Zimmer-Wohnung im EG!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03162-011-069"
+  },
+  "1900-03171-004-023": {
+    "address": "Weimarer Str. 1, 51103 Köln Höhenberg",
+    "area": "60,07 m²",
+    "facilities": [
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-10T11:03Z",
+    "gone_since": "2026-09-10T13:04Z",
+    "last_seen": "2026-09-10T11:03Z",
+    "rent": "827,70 €",
+    "rooms": "2",
+    "title": "Wohnen in der Germaniasiedlung.",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03171-004-023"
+  },
+  "1900-03171-005-026": {
+    "address": "Weimarer Str. 3, 51103 Köln Höhenberg",
+    "area": "54,66 m²",
+    "facilities": [
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-05T12:17Z",
+    "gone_since": "2026-08-05T13:14Z",
+    "last_seen": "2026-08-05T12:17Z",
+    "rent": "768,20 €",
+    "rooms": "2",
+    "title": "Wohnen in der Germaniasiedlung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03171-005-026"
+  },
+  "1900-03226-001-003": {
+    "address": "Fuldaer Str. 95, 51103 Köln Höhenberg",
+    "area": "71,13 m²",
+    "facilities": [
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-30T10:02Z",
+    "gone_since": "2026-10-01T07:03Z",
+    "last_seen": "2026-09-30T10:02Z",
+    "rent": "946,70 €",
+    "rooms": "3",
+    "title": "Charmante 3- Zimmerwohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03226-001-003"
+  },
+  "1900-03302-001-004": {
+    "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
+    "area": "66,07 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-28T12:05Z",
+    "gone_since": "2026-10-05T15:03Z",
+    "last_seen": "2026-10-05T14:03Z",
+    "rent": "1.206,30 €",
+    "rooms": "2",
+    "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-004"
+  },
+  "1900-03573-001-006": {
+    "address": "Im Mittelfeld 23, 51105 Köln Poll",
+    "area": "61,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Etagenheizung"
+    ],
+    "first_seen": "2026-08-28T10:06Z",
+    "gone_since": "2026-09-11T09:02Z",
+    "last_seen": "2026-09-10T14:03Z",
+    "rent": "927,70 €",
+    "rooms": "2",
+    "title": "Gemütliche 2,5-Zimmer-Wohnung mit Loggia in beliebter Lage von Köln-Poll",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03573-001-006"
+  },
+  "1900-03621-001-004": {
+    "address": "Im Mittelfeld 27, 51105 Köln Poll",
+    "area": "67,68 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Etagenheizung"
+    ],
+    "first_seen": "2026-08-26T09:03Z",
+    "gone_since": "2026-09-11T09:02Z",
+    "last_seen": "2026-09-10T14:03Z",
+    "rent": "1.016,20 €",
+    "rooms": "3",
+    "title": "Großzügige 3,5-Zimmer-Wohnung in beliebter Lage von Köln-Poll",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03621-001-004"
+  },
   "1900-03665-001-003": {
     "address": "Bendorfer Weg 10, 51105 Köln Humboldt/Gremberg",
     "area": "76,00 m²",
@@ -8,10 +927,250 @@
       "Personenaufzug",
       "Zentralheizung"
     ],
+    "first_seen": "2026-07-29T10:06Z",
+    "gone_since": null,
+    "last_seen": "2026-10-15T13:03Z",
     "rent": "1.167,80 €",
     "rooms": "3",
     "title": "gemütliche, zentrumsnahe, familiengerechte 3 Zimmerwohnung, freifinanziert ohne WBS",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03665-001-003"
+  },
+  "1900-03669-005-033": {
+    "address": "Höhrer Weg 4, 51105 Köln Humboldt/Gremberg",
+    "area": "88,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-12T06:02Z",
+    "gone_since": "2026-10-12T07:03Z",
+    "last_seen": "2026-10-12T06:02Z",
+    "rent": "1.388,00 €",
+    "rooms": "4",
+    "title": "zentrumsnahe, schöne 4 Zimmerwohnung mit kleinem Garten, freifinanziert ohne WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03669-005-033"
+  },
+  "1900-03669-018-178": {
+    "address": "Kannebäckerstr. 22, 51105 Köln Humboldt/Gremberg",
+    "area": "52,22 m²",
+    "facilities": [
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-05T12:17Z",
+    "gone_since": "2026-08-05T20:07Z",
+    "last_seen": "2026-08-05T17:06Z",
+    "rent": "1.008,30 €",
+    "rooms": "2",
+    "title": "AUSSCHLIEßLICH FÜR STUDENTEN mit Immatrikulationsbescheinigung!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03669-018-178"
+  },
+  "1900-03900-008-028": {
+    "address": "Gothaer Platz 4, 51103 Köln Höhenberg",
+    "area": "63,87 m²",
+    "facilities": [
+      "Bad"
+    ],
+    "first_seen": "2026-10-13T13:03Z",
+    "gone_since": "2026-10-14T07:02Z",
+    "last_seen": "2026-10-13T13:03Z",
+    "rent": "859,50 €",
+    "rooms": "3",
+    "title": "Gemütliche Wohnung in Köln Höhenberg.",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03900-008-028"
+  },
+  "1900-03998-005-053": {
+    "address": "Im Leimfeld 4, 51065 Köln Buchheim",
+    "area": "41,75 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-24T14:02Z",
+    "gone_since": "2026-09-25T06:03Z",
+    "last_seen": "2026-09-24T14:02Z",
+    "rent": "753,00 €",
+    "rooms": "1",
+    "title": "Wohnen in Köln Buchheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03998-005-053"
+  },
+  "1900-04018-003-020": {
+    "address": "Frankenthaler Str. 18, 50739 Köln Bilderstöckchen",
+    "area": "68,10 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon"
+    ],
+    "first_seen": "2026-08-19T12:06Z",
+    "gone_since": "2026-08-19T13:03Z",
+    "last_seen": "2026-08-19T12:06Z",
+    "rent": "942,70 €",
+    "rooms": "3",
+    "title": "3-Zimmerwohnung in der Frankenthaler Straße",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04018-003-020"
+  },
+  "1900-04248-008-071": {
+    "address": "Barbarastr. 76, 50735 Köln Riehl",
+    "area": "63,78 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-27T11:06Z",
+    "gone_since": "2026-07-27T13:05Z",
+    "last_seen": "2026-07-27T11:06Z",
+    "rent": "960,30 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung , 63,78 qm , Barbarastraße in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04248-008-071"
+  },
+  "1900-04249-004-041": {
+    "address": "Naumannstr. 7, 50735 Köln Riehl",
+    "area": "48,27 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-27T09:03Z",
+    "gone_since": "2026-08-27T10:02Z",
+    "last_seen": "2026-08-27T09:03Z",
+    "rent": "706,00 €",
+    "rooms": "2",
+    "title": "Gemütliche 2 Zimmer Wohnung, 48,27 qm in der Naumannsiedlung in 50735 Köln-Riehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-004-041"
+  },
+  "1900-04249-004-049": {
+    "address": "Naumannstr. 7, 50735 Köln Riehl",
+    "area": "63,53 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-20T11:04Z",
+    "gone_since": "2026-08-20T13:06Z",
+    "last_seen": "2026-08-20T11:04Z",
+    "rent": "963,90 €",
+    "rooms": "2",
+    "title": "2 Zimmer Dachgeschoßwohnung 63,53 qm  in der Naumansiedlung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-004-049"
+  },
+  "1900-04249-007-074": {
+    "address": "Goldfußstr. 3, 50735 Köln Riehl",
+    "area": "86,32 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-10T10:06Z",
+    "gone_since": "2026-08-11T06:07Z",
+    "last_seen": "2026-08-10T16:04Z",
+    "rent": "1.292,40 €",
+    "rooms": "2",
+    "title": "2  Zimmer Wohnung, 86,32 qm in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-007-074"
+  },
+  "1900-04249-007-075": {
+    "address": "Goldfußstr. 3, 50735 Köln Riehl",
+    "area": "70,65 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-15T15:02Z",
+    "gone_since": "2026-09-16T10:02Z",
+    "last_seen": "2026-09-16T09:02Z",
+    "rent": "1.078,60 €",
+    "rooms": "2",
+    "title": "2 Zimmer Dachgeschoß-Wohnung, 70,65 qm in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04249-007-075"
+  },
+  "1900-04250-005-041": {
+    "address": "Ehrenbergstr. 9, 50735 Köln Riehl",
+    "area": "48,70 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-08T13:02Z",
+    "gone_since": "2026-10-09T07:03Z",
+    "last_seen": "2026-10-08T13:02Z",
+    "rent": "758,20 €",
+    "rooms": "1",
+    "title": "1 Zimmer Gartenwohnung 48,70 qm in der Naumannsiedlung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-005-041"
+  },
+  "1900-04250-009-093": {
+    "address": "Goldfußstr. 4, 50735 Köln Riehl",
+    "area": "73,90 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-29T15:05Z",
+    "gone_since": "2026-07-30T07:06Z",
+    "last_seen": "2026-07-30T06:06Z",
+    "rent": "1.105,50 €",
+    "rooms": "2",
+    "title": "Dachgeschoßwohnung , 73,90 qm in der Naumannsiedlung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-009-093"
+  },
+  "1900-04250-011-107": {
+    "address": "Goldfußstr. 8, 50735 Köln Riehl",
+    "area": "49,17 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-04T08:08Z",
+    "gone_since": "2026-08-04T10:08Z",
+    "last_seen": "2026-08-04T08:08Z",
+    "rent": "768,60 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung  49,17 qm in der Naumannsiedlung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-011-107"
+  },
+  "1900-04251-001-004": {
+    "address": "Ehrenbergstr. 2, 50735 Köln Riehl",
+    "area": "64,45 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-07T10:02Z",
+    "gone_since": "2026-10-07T13:03Z",
+    "last_seen": "2026-10-07T12:03Z",
+    "rent": "997,20 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung, 64,45 qm, Hochparterre in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-001-004"
   },
   "1900-04251-005-058": {
     "address": "Ehrenbergstr. 10, 50735 Köln Riehl",
@@ -22,10 +1181,1047 @@
       "Balkon",
       "Fernwärme"
     ],
+    "first_seen": "2026-10-15T10:02Z",
+    "gone_since": null,
+    "last_seen": "2026-10-15T13:03Z",
     "rent": "1.128,40 €",
     "rooms": "2",
     "title": "Helle Dachgeschoßwohnung 73,56 qm  in der Naumannsiedlung in 50735 Köln",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-005-058"
+  },
+  "1900-04252-001-014": {
+    "address": "Naumannstr. 2, 50735 Köln Riehl",
+    "area": "56,30 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-12T12:02Z",
+    "gone_since": "2026-10-12T14:03Z",
+    "last_seen": "2026-10-12T12:02Z",
+    "rent": "799,10 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung, 56,30 qm ohne Balkon in der Naumansiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04252-001-014"
+  },
+  "1900-04252-008-096": {
+    "address": "Naumannstr. 16, 50735 Köln Riehl",
+    "area": "48,53 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-08T08:04Z",
+    "gone_since": "2026-09-08T09:02Z",
+    "last_seen": "2026-09-08T08:04Z",
+    "rent": "708,30 €",
+    "rooms": "2",
+    "title": "Erdgeschoßwohnung  48,53 qm in der Naumansiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04252-008-096"
+  },
+  "1900-04307-001-017": {
+    "address": "Altonaer Str. 1, 50737 Köln Longerich",
+    "area": "77,04 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-12T07:03Z",
+    "gone_since": "2026-10-13T13:03Z",
+    "last_seen": "2026-10-12T14:03Z",
+    "rent": "1.149,80 €",
+    "rooms": "3",
+    "title": "Gut geschnittene helle Drei Zimmer Wohnung, 77,04 qm  in Longerich",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04307-001-017"
+  },
+  "1900-04307-003-074": {
+    "address": "Rambouxstr. 2, 50737 Köln Longerich",
+    "area": "77,46 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-01T15:02Z",
+    "gone_since": "2026-09-02T11:04Z",
+    "last_seen": "2026-09-02T10:03Z",
+    "rent": "1.097,60 €",
+    "rooms": "3",
+    "title": "Großzügig geschnittene helle 3 Zimmer Wohnung , 77,46 qm in der 7. Etage in 50737 Köln-Longerich",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04307-003-074"
+  },
+  "1900-04810-008-077": {
+    "address": "Margarete-Humbach-Str. 7, 50737 Köln Weidenpesch",
+    "area": "57,34 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-07-23T13:29Z",
+    "gone_since": "2026-07-24T09:05Z",
+    "last_seen": "2026-07-24T05:00Z",
+    "rent": "708,06 €",
+    "rooms": "2",
+    "title": "Neubau Simonskaul: Moderne 2- Zimmer Wohnung NUR mit WBS !",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04810-008-077"
+  },
+  "1900-04810-009-090": {
+    "address": "Neusser Str. 743, 50737 Köln Weidenpesch",
+    "area": "62,38 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-20T14:05Z",
+    "gone_since": "2026-08-21T08:04Z",
+    "last_seen": "2026-08-21T06:04Z",
+    "rent": "769,10 €",
+    "rooms": "2",
+    "title": "Ankommen und Wohlfühlen- Ihr neues Zuhause in Weidenpesch erwartet Sie! Nur mit WBS!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04810-009-090"
+  },
+  "1900-05422-001-002": {
+    "address": "An der Pletschbachhecke 2, 50769 Köln",
+    "area": "55,47 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Rollstuhlgerecht"
+    ],
+    "first_seen": "2026-08-04T10:08Z",
+    "gone_since": "2026-08-11T06:07Z",
+    "last_seen": "2026-08-10T16:04Z",
+    "rent": "747,04 €",
+    "rooms": "1",
+    "title": "Erdgeschoss: Rollstuhlgerechte Wohnung mit WBS A im Neubau",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-002"
+  },
+  "1900-05422-001-006": {
+    "address": "An der Pletschbachhecke 2, 50769 Köln",
+    "area": "96,86 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-09T13:05Z",
+    "gone_since": "2026-09-10T14:03Z",
+    "last_seen": "2026-09-10T13:04Z",
+    "rent": "1.304,00 €",
+    "rooms": "4",
+    "title": "Neubaucharme in Roggendorf, nur mit WBS A!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-001-006"
+  },
+  "1900-05422-002-018": {
+    "address": "An der Pletschbachhecke 4, 50769 Köln",
+    "area": "97,07 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-14T08:17Z",
+    "gone_since": "2026-08-14T10:06Z",
+    "last_seen": "2026-08-14T09:12Z",
+    "rent": "1.307,80 €",
+    "rooms": "4",
+    "title": "WBS A - Alle Wünsche erfüllt: 2 Bäder, Loggia, DG-Charme im Neubau",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05422-002-018"
+  },
+  "1900-05425-001-007": {
+    "address": "An der Pletschbachhecke 16, 50769 Köln",
+    "area": "82,25 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-03T15:03Z",
+    "gone_since": "2026-09-07T06:11Z",
+    "last_seen": "2026-09-04T13:04Z",
+    "rent": "1.107,70 €",
+    "rooms": "3",
+    "title": "Neubau in Roggendorf, nur mit WBS A !",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-001-007"
+  },
+  "1900-05425-001-009": {
+    "address": "An der Pletschbachhecke 16, 50769 Köln",
+    "area": "80,62 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-14T13:32Z",
+    "gone_since": "2026-08-17T08:03Z",
+    "last_seen": "2026-08-17T06:05Z",
+    "rent": "1.086,40 €",
+    "rooms": "3",
+    "title": "WBS A - 3-Zimmer, separate Küche, Balkon im Neubau",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-001-009"
+  },
+  "1900-05425-002-024": {
+    "address": "An der Pletschbachhecke 18, 50769 Köln",
+    "area": "58,13 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-14T07:17Z",
+    "gone_since": "2026-08-18T15:05Z",
+    "last_seen": "2026-08-18T14:05Z",
+    "rent": "782,80 €",
+    "rooms": "2",
+    "title": "WBS A - Neubaucharme in Roggendorf",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05425-002-024"
+  },
+  "1900-05837-001-003": {
+    "address": "Mühlenweg 218, 50827 Köln",
+    "area": "127,46 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-24T07:06Z",
+    "gone_since": "2026-08-25T06:08Z",
+    "last_seen": "2026-08-24T16:03Z",
+    "rent": "2.269,30 €",
+    "rooms": "5",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-001-003"
+  },
+  "1900-05837-001-010": {
+    "address": "Mühlenweg 218, 50827 Köln",
+    "area": "65,31 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-08T09:02Z",
+    "gone_since": "2026-09-09T09:02Z",
+    "last_seen": "2026-09-09T08:04Z",
+    "rent": "1.162,40 €",
+    "rooms": "2",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-001-010"
+  },
+  "1900-05837-002-018": {
+    "address": "Mühlenweg 220, 50827 Köln",
+    "area": "105,87 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-11T09:02Z",
+    "gone_since": "2026-09-14T07:03Z",
+    "last_seen": "2026-09-11T09:02Z",
+    "rent": "1.884,40 €",
+    "rooms": "4",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-002-018"
+  },
+  "1900-05837-002-022": {
+    "address": "Mühlenweg 220, 50827 Köln",
+    "area": "105,26 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-11T10:04Z",
+    "gone_since": "2026-08-11T14:11Z",
+    "last_seen": "2026-08-11T13:06Z",
+    "rent": "1.873,80 €",
+    "rooms": "4",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-002-022"
+  },
+  "1900-05837-003-029": {
+    "address": "Mühlenweg 222, 50827 Köln",
+    "area": "63,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-17T09:05Z",
+    "gone_since": "2026-08-18T06:04Z",
+    "last_seen": "2026-08-17T12:08Z",
+    "rent": "1.121,60 €",
+    "rooms": "2",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-003-029"
+  },
+  "1900-05837-003-037": {
+    "address": "Mühlenweg 222, 50827 Köln",
+    "area": "103,71 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-17T09:05Z",
+    "gone_since": "2026-08-18T06:04Z",
+    "last_seen": "2026-08-17T12:08Z",
+    "rent": "1.845,40 €",
+    "rooms": "4",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05837-003-037"
+  },
+  "1900-05838-004-044": {
+    "address": "Mühlenweg 210, 50827 Köln",
+    "area": "38,97 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-08T08:04Z",
+    "gone_since": "2026-09-09T06:03Z",
+    "last_seen": "2026-09-08T12:04Z",
+    "rent": "530,33 €",
+    "rooms": "1",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten-Nur mit WBS!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05838-004-044"
+  },
+  "1900-05838-005-072": {
+    "address": "Mühlenweg 212, 50827 Köln",
+    "area": "79,78 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-08T07:04Z",
+    "gone_since": "2026-09-09T06:03Z",
+    "last_seen": "2026-09-08T12:04Z",
+    "rent": "1.086,04 €",
+    "rooms": "3",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten-Nur mit WBS!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05838-005-072"
+  },
+  "1900-05838-006-088": {
+    "address": "Mühlenweg 214, 50827 Köln",
+    "area": "61,76 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-08T07:04Z",
+    "gone_since": "2026-09-09T06:03Z",
+    "last_seen": "2026-09-08T12:04Z",
+    "rent": "841,03 €",
+    "rooms": "2",
+    "title": "Großzügiger Neubaukomplex in Köln-Ossendorf mit vielfältigen Wohnangeboten-Nur mit WBS!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-05838-006-088"
+  },
+  "1900-06023-007-040": {
+    "address": "Mainstr. 49, 50996 Köln Rodenkirchen",
+    "area": "53,81 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-25T09:04Z",
+    "gone_since": "2026-08-25T11:07Z",
+    "last_seen": "2026-08-25T09:04Z",
+    "rent": "854,20 €",
+    "rooms": "2",
+    "title": "Schöne 2-Zimmer-Wohnung in Rodenkirchen Ruhiglage",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06023-007-040"
+  },
+  "1900-06540-003-022": {
+    "address": "Borsigstraße 8, 50825 Köln",
+    "area": "77,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-07-24T09:05Z",
+    "gone_since": "2026-07-24T10:05Z",
+    "last_seen": "2026-07-24T09:05Z",
+    "rent": "962,32 €",
+    "rooms": "3",
+    "title": "Modernes Wohnen in Köln-Ehrenfeld – Neubau, nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06540-003-022"
+  },
+  "1900-06540-003-026": {
+    "address": "Borsigstraße 8, 50825 Köln",
+    "area": "92,32 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-04T10:08Z",
+    "gone_since": "2026-08-04T11:09Z",
+    "last_seen": "2026-08-04T10:08Z",
+    "rent": "1.153,00 €",
+    "rooms": "4",
+    "title": "Modernes Wohnen in Köln-Ehrenfeld – Neubau, nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06540-003-026"
+  },
+  "1900-06540-004-043": {
+    "address": "Borsigstraße 10, 50825 Köln",
+    "area": "47,86 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-07-31T09:05Z",
+    "gone_since": "2026-07-31T10:05Z",
+    "last_seen": "2026-07-31T09:05Z",
+    "rent": "597,71 €",
+    "rooms": "2",
+    "title": "Modernes Wohnen in Köln-Ehrenfeld – Neubau, nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06540-004-043"
+  },
+  "1900-06699-001-008": {
+    "address": "Saalestr. 1, 50765 Köln Chorweiler",
+    "area": "81,28 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-08T07:04Z",
+    "gone_since": "2026-09-08T11:03Z",
+    "last_seen": "2026-09-08T10:03Z",
+    "rent": "1.110,20 €",
+    "rooms": "3",
+    "title": "3- Zimmerwohnung in Chorweiler Nord",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06699-001-008"
+  },
+  "1900-06706-002-018": {
+    "address": "Saalestr. 12, 50765 Köln Chorweiler",
+    "area": "63,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne"
+    ],
+    "first_seen": "2026-10-07T07:02Z",
+    "gone_since": "2026-10-07T09:02Z",
+    "last_seen": "2026-10-07T08:02Z",
+    "rent": "900,30 €",
+    "rooms": "2",
+    "title": "2-Zimmer Wohnung in Chorweiler Nord Optional mit Küchenzeile",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06706-002-018"
+  },
+  "1900-07009-001-023": {
+    "address": "Kierkegaardstr. 25, 51107 Köln Vingst",
+    "area": "42,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-09T07:03Z",
+    "gone_since": "2026-10-12T06:02Z",
+    "last_seen": "2026-10-09T10:02Z",
+    "rent": "635,80 €",
+    "rooms": "1",
+    "title": "1 Zimmer-Seniorenwohnung (ab 60 Jahren) in Vingst Veedel",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07009-001-023"
+  },
+  "1900-07540-040-185": {
+    "address": "Braunlager Weg 4, 51061 Köln Höhenhaus",
+    "area": "45,94 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-07T08:04Z",
+    "gone_since": "2026-09-07T09:02Z",
+    "last_seen": "2026-09-07T08:04Z",
+    "rent": "553,80 €",
+    "rooms": "2",
+    "title": "Schöne 2 Zimmer Wohnung mit Balkon in Köln Höhenhaus",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07540-040-185"
+  },
+  "1900-07540-102-498": {
+    "address": "Quedlinburger Weg 5, 51061 Köln Höhenhaus",
+    "area": "57,87 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-04T08:04Z",
+    "gone_since": "2026-09-04T09:02Z",
+    "last_seen": "2026-09-04T08:04Z",
+    "rent": "714,60 €",
+    "rooms": "3",
+    "title": "Gemütliche 3-Zimmer Dachgeschosswohnung in Köln Höhenhaus",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07540-102-498"
+  },
+  "1900-07552-001-008": {
+    "address": "Frankenforster Str. 2, 51061 Köln Höhenhaus",
+    "area": "42,11 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-28T10:06Z",
+    "gone_since": "2026-07-28T11:06Z",
+    "last_seen": "2026-07-28T10:06Z",
+    "rent": "436,60 €",
+    "rooms": "1",
+    "title": "NUR MIT 50m²-WBS - gemütliche Wohnung in Höhenhaus",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07552-001-008"
+  },
+  "1900-07571-001-068": {
+    "address": "Bonner Str. 168, 50968 Köln Raderberg",
+    "area": "58,60 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-06T09:11Z",
+    "gone_since": "2026-08-11T13:06Z",
+    "last_seen": "2026-08-11T10:04Z",
+    "rent": "1.611,50 €",
+    "rooms": "2",
+    "title": "Exklusive, moderne 2-Zimmer-Wohnung mit Loggia und spektakulärem Blick über Köln (Neubau SechtM)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-001-068"
+  },
+  "1900-07571-004-184": {
+    "address": "Sechtemer Str. 4, 50968 Köln Raderberg",
+    "area": "78,02 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-07T07:15Z",
+    "gone_since": "2026-08-27T15:05Z",
+    "last_seen": "2026-08-27T13:08Z",
+    "rent": "1.810,40 €",
+    "rooms": "3",
+    "title": "Exklusive 3-Zimmer-Wohnung mit Loggia in modernem Neubau in Sechtem",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07571-004-184"
+  },
+  "1900-07599-038-261": {
+    "address": "Sibeliusstr. 19, 51107 Köln Vingst",
+    "area": "61,28 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-24T11:03Z",
+    "gone_since": "2026-08-24T13:04Z",
+    "last_seen": "2026-08-24T12:04Z",
+    "rent": "869,10 €",
+    "rooms": "2",
+    "title": "Charmante 2-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07599-038-261"
+  },
+  "1900-07599-072-477": {
+    "address": "Sibeliusstr. 24, 51107 Köln Vingst",
+    "area": "62,70 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-09-02T11:04Z",
+    "gone_since": "2026-09-03T06:04Z",
+    "last_seen": "2026-09-02T11:04Z",
+    "rent": "981,40 €",
+    "rooms": "2",
+    "title": "Charmante 2-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07599-072-477"
+  },
+  "1900-07603-040-270": {
+    "address": "Thorwaldsenstr. 23, 51103 Köln Vingst",
+    "area": "56,50 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-17T10:05Z",
+    "gone_since": "2026-08-17T11:09Z",
+    "last_seen": "2026-08-17T10:05Z",
+    "rent": "779,00 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07603-040-270"
+  },
+  "1900-07604-001-003": {
+    "address": "Ostheimer Str. 99, 51103 Köln Vingst",
+    "area": "81,12 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-09-02T07:04Z",
+    "gone_since": "2026-09-09T10:02Z",
+    "last_seen": "2026-09-09T09:02Z",
+    "rent": "1.146,00 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07604-001-003"
+  },
+  "1900-07604-004-024": {
+    "address": "Ostheimer Str. 105, 51103 Köln Vingst",
+    "area": "81,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-09-03T06:04Z",
+    "gone_since": "2026-09-03T08:03Z",
+    "last_seen": "2026-09-03T06:04Z",
+    "rent": "1.115,90 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07604-004-024"
+  },
+  "1900-07605-015-103": {
+    "address": "Sigrid-Undset-Str. 5, 51103 Köln Vingst",
+    "area": "62,02 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-10T13:07Z",
+    "gone_since": "2026-08-11T08:05Z",
+    "last_seen": "2026-08-11T06:07Z",
+    "rent": "886,20 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07605-015-103"
+  },
+  "1900-07605-020-141": {
+    "address": "Thorwaldsenstr. 14, 51103 Köln Vingst",
+    "area": "68,70 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-04T09:02Z",
+    "gone_since": "2026-09-04T10:02Z",
+    "last_seen": "2026-09-04T09:02Z",
+    "rent": "1.126,50 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07605-020-141"
+  },
+  "1900-07605-022-158": {
+    "address": "Thorwaldsenstr. 18, 51103 Köln Vingst",
+    "area": "54,54 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-15T09:02Z",
+    "gone_since": "2026-10-15T10:02Z",
+    "last_seen": "2026-10-15T09:02Z",
+    "rent": "879,40 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07605-022-158"
+  },
+  "1900-07606-010-076": {
+    "address": "Thorwaldsenstr. 3, 51103 Köln Vingst",
+    "area": "68,80 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-03T10:06Z",
+    "gone_since": "2026-08-27T11:07Z",
+    "last_seen": "2026-08-27T10:02Z",
+    "rent": "984,00 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-010-076"
+  },
+  "1900-07606-012-090": {
+    "address": "Thorwaldsenstr. 7, 51103 Köln Vingst",
+    "area": "68,14 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-13T10:04Z",
+    "gone_since": "2026-08-13T11:05Z",
+    "last_seen": "2026-08-13T10:04Z",
+    "rent": "913,40 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-012-090"
+  },
+  "1900-07870-013-061": {
+    "address": "Andreasberger Weg 4, 51061 Köln Höhenhaus",
+    "area": "45,47 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-10-06T06:03Z",
+    "gone_since": "2026-10-06T07:02Z",
+    "last_seen": "2026-10-06T06:03Z",
+    "rent": "384,50 €",
+    "rooms": "1",
+    "title": "Attraktive Dachgeschosswohnung in Köln Höhenhaus- nur mit Wohnberechtigungsschein!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07870-013-061"
+  },
+  "1900-07909-001-005": {
+    "address": "Ibsenstr. 2, 51107 Köln Vingst",
+    "area": "73,07 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-08T11:03Z",
+    "gone_since": "2026-10-08T12:02Z",
+    "last_seen": "2026-10-08T11:03Z",
+    "rent": "963,70 €",
+    "rooms": "3",
+    "title": "Charmante 3-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07909-001-005"
+  },
+  "1900-07909-002-012": {
+    "address": "Ibsenstr. 4, 51107 Köln Vingst",
+    "area": "75,61 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-25T11:07Z",
+    "gone_since": "2026-08-25T14:05Z",
+    "last_seen": "2026-08-25T13:07Z",
+    "rent": "977,10 €",
+    "rooms": "3",
+    "title": "Charmante 3-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07909-002-012"
+  },
+  "1900-07921-003-030": {
+    "address": "Nobelstr. 21, 51107 Köln Vingst",
+    "area": "59,49 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-31T12:05Z",
+    "gone_since": "2026-09-17T10:02Z",
+    "last_seen": "2026-09-17T09:02Z",
+    "rent": "884,90 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07921-003-030"
+  },
+  "1900-07931-001-010": {
+    "address": "Kierkegaardstr. 2, 51107 Köln Vingst",
+    "area": "56,65 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-06T14:02Z",
+    "gone_since": "2026-10-06T15:02Z",
+    "last_seen": "2026-10-06T14:02Z",
+    "rent": "752,50 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07931-001-010"
+  },
+  "1900-08003-003-028": {
+    "address": "Odenwaldstr. 53, 51105 Köln Humboldt/Gremberg",
+    "area": "63,75 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-09-22T11:03Z",
+    "gone_since": "2026-09-23T10:02Z",
+    "last_seen": "2026-09-22T11:03Z",
+    "rent": "834,40 €",
+    "rooms": "2",
+    "title": "2-Zimmer Wohnung in Köln -Humboldt/Gremberg",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08003-003-028"
+  },
+  "1900-08027-002-020": {
+    "address": "Höfestr. 24, 51103 Köln Kalk",
+    "area": "46,85 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-10-14T12:02Z",
+    "gone_since": "2026-10-14T13:02Z",
+    "last_seen": "2026-10-14T12:02Z",
+    "rent": "844,90 €",
+    "rooms": "2",
+    "title": "2-Zimmer-Wohnung in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08027-002-020"
+  },
+  "1900-08040-008-069": {
+    "address": "Steinmetzstr. 65, 51103 Köln Kalk",
+    "area": "33,92 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Ofenheizung"
+    ],
+    "first_seen": "2026-09-16T09:02Z",
+    "gone_since": "2026-09-16T10:02Z",
+    "last_seen": "2026-09-16T09:02Z",
+    "rent": "349,10 €",
+    "rooms": "1",
+    "title": "1-Zimmer-Wohnung in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08040-008-069"
+  },
+  "1900-08060-004-057": {
+    "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
+    "area": "28,08 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-01T10:02Z",
+    "gone_since": "2026-10-01T11:02Z",
+    "last_seen": "2026-10-01T10:02Z",
+    "rent": "536,00 €",
+    "rooms": "1",
+    "title": "Ausschließlich für Studenten: Modernes Appartement",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-057"
+  },
+  "1900-08060-004-067": {
+    "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
+    "area": "28,35 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-28T07:03Z",
+    "gone_since": "2026-09-28T09:02Z",
+    "last_seen": "2026-09-28T08:02Z",
+    "rent": "541,30 €",
+    "rooms": "1",
+    "title": "Ausschließlich für Studenten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-067"
+  },
+  "1900-08060-004-094": {
+    "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
+    "area": "27,49 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-08T11:03Z",
+    "gone_since": "2026-09-08T12:04Z",
+    "last_seen": "2026-09-08T11:03Z",
+    "rent": "524,80 €",
+    "rooms": "1",
+    "title": "Ausschließlich für Studenten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-094"
+  },
+  "1900-08061-004-006": {
+    "address": "Kalker Hauptstraße 116, 51103 Köln Kalk",
+    "area": "110,13 m²",
+    "facilities": [
+      "Bad mit Dusche",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-23T00:00Z",
+    "gone_since": "2026-07-24T13:05Z",
+    "last_seen": "2026-07-24T11:05Z",
+    "rent": "1.656,40 €",
+    "rooms": "3",
+    "title": "Tolle Maisonette-Wohnung mit Dachterrasse",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-004-006"
+  },
+  "1900-08061-005-058": {
+    "address": "Sieversstraße 22, 51103 Köln Kalk",
+    "area": "113,27 m²",
+    "facilities": [
+      "Bad mit Dusche, Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-08T09:01Z",
+    "gone_since": "2026-10-08T13:02Z",
+    "last_seen": "2026-10-08T12:02Z",
+    "rent": "1.737,60 €",
+    "rooms": "4",
+    "title": "Großzügige 4-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-005-058"
+  },
+  "1900-08065-007-077": {
+    "address": "Loestr. 8, 51103 Köln Kalk",
+    "area": "82,22 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-29T13:06Z",
+    "gone_since": "2026-07-29T14:06Z",
+    "last_seen": "2026-07-29T13:06Z",
+    "rent": "1.369,60 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Wohnung mit Terrasse in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08065-007-077"
+  },
+  "1900-08067-005-056": {
+    "address": "Lilienthalstr. 20, 51103 Köln Kalk",
+    "area": "90,67 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-03T09:06Z",
+    "gone_since": "2026-08-03T12:06Z",
+    "last_seen": "2026-08-03T11:06Z",
+    "rent": "1.632,60 €",
+    "rooms": "4",
+    "title": "Helle 4-Zimmer-Wohnung in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08067-005-056"
+  },
+  "1900-08441-001-011": {
+    "address": "Hauptstraße 340, 51143 Köln Porz",
+    "area": "77,83 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-28T11:06Z",
+    "gone_since": "2026-07-30T11:05Z",
+    "last_seen": "2026-07-30T07:06Z",
+    "rent": "942,80 €",
+    "rooms": "3",
+    "title": "WBS A - 80 m² erforderlich! Schöne 3-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08441-001-011"
   },
   "1900-08472-003-031": {
     "address": "Friedensstr. 127, 51145 Köln Elsdorf",
@@ -38,10 +2234,1042 @@
       "Personenaufzug",
       "Zentralheizung"
     ],
+    "first_seen": "2026-10-01T08:02Z",
+    "gone_since": null,
+    "last_seen": "2026-10-15T13:03Z",
     "rent": "1.389,60 €",
     "rooms": "3",
     "title": "Schicke 3-Zimmer-Wohnung in Porz-Urbach!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08472-003-031"
+  },
+  "1900-08851-004-032": {
+    "address": "Johann-Classen-Str. 101, 51103 Köln Kalk",
+    "area": "70,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-07T09:07Z",
+    "gone_since": "2026-08-07T10:07Z",
+    "last_seen": "2026-08-07T09:07Z",
+    "rent": "869,00 €",
+    "rooms": "3",
+    "title": "3-Zimmer-Wohnung mit Balkon in Köln-Kalk!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08851-004-032"
+  },
+  "1900-09235-001-147": {
+    "address": "Neue Kempener Str. 236, 50739 Köln Mauenheim",
+    "area": "65,19 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Ofenheizung"
+    ],
+    "first_seen": "2026-08-18T14:05Z",
+    "gone_since": "2026-08-18T15:05Z",
+    "last_seen": "2026-08-18T14:05Z",
+    "rent": "665,00 €",
+    "rooms": "3",
+    "title": "3-Zimmerwohnung in Mauenheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-09235-001-147"
+  },
+  "8110-00017-001-007": {
+    "address": "Georg-Zapf-Str. 16, 51061 Köln Flittard",
+    "area": "34,47 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-03T08:03Z",
+    "gone_since": "2026-09-03T15:03Z",
+    "last_seen": "2026-09-03T08:03Z",
+    "rent": "411,64 €",
+    "rooms": "1",
+    "title": "NUR FÜR SENIOREN MIT WBS!!!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00017-001-007"
+  },
+  "8110-00017-001-051": {
+    "address": "Georg-Zapf-Str. 16, 51061 Köln Flittard",
+    "area": "41,42 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-01T09:02Z",
+    "gone_since": "2026-09-01T11:06Z",
+    "last_seen": "2026-09-01T09:02Z",
+    "rent": "559,19 €",
+    "rooms": "1",
+    "title": "NUR FÜR SENIOREN MIT WBS!!!!!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00017-001-051"
+  },
+  "8110-00020-001-032": {
+    "address": "Görlinger-Zentrum 30A, 50829 Köln Bocklemünd/Mengenich",
+    "area": "52,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-04T10:02Z",
+    "gone_since": "2026-09-04T12:04Z",
+    "last_seen": "2026-09-04T10:02Z",
+    "rent": "560,00 €",
+    "rooms": "2",
+    "title": "2-Zimmer Seniorenwohnung ab 60 Jahren - nur WBS A -",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-001-032"
+  },
+  "8110-00020-001-058": {
+    "address": "Görlinger-Zentrum 30A, 50829 Köln Bocklemünd/Mengenich",
+    "area": "37,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-06T13:02Z",
+    "gone_since": "2026-10-07T06:02Z",
+    "last_seen": "2026-10-06T15:02Z",
+    "rent": "399,50 €",
+    "rooms": "1",
+    "title": "1-Zimmer-Seniorenwohnung für Personen ab 60 Jahren – Vermietung nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-001-058"
+  },
+  "8110-00020-003-162": {
+    "address": "Tollerstr. 1, 50829 Köln Bocklemünd/Mengenich",
+    "area": "37,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-09T12:10Z",
+    "gone_since": "2026-09-09T15:03Z",
+    "last_seen": "2026-09-09T13:05Z",
+    "rent": "483,62 €",
+    "rooms": "1",
+    "title": "Senioren aufgepasst! Mit WBS A über 60 Jahre",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-003-162"
+  },
+  "8110-00021-001-113": {
+    "address": "Schiefersburger Weg 54, 50739 Köln Bilderstöckchen",
+    "area": "53,00 m²",
+    "facilities": [
+      "Haustiere erlaubt",
+      "Bad mit Dusche",
+      "Rollstuhlgerecht",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-18T14:05Z",
+    "gone_since": "2026-08-18T15:05Z",
+    "last_seen": "2026-08-18T14:05Z",
+    "rent": "750,20 €",
+    "rooms": "2",
+    "title": "Seniorenwohnung mit WBS A!!! ab 60 Jahre",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00021-001-113"
+  },
+  "8110-00022-003-086": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "43,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Rollstuhlgerecht",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-16T07:03Z",
+    "gone_since": "2026-09-22T10:03Z",
+    "last_seen": "2026-09-18T12:03Z",
+    "rent": "466,30 €",
+    "rooms": "1",
+    "title": "Barrierefreie Seniorenwohnung im Kölner Norden",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-086"
+  },
+  "8110-00022-003-121": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "42,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-24T10:05Z",
+    "gone_since": "2026-07-28T07:05Z",
+    "last_seen": "2026-07-27T13:05Z",
+    "rent": "434,50 €",
+    "rooms": "1",
+    "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-121"
+  },
+  "8110-00022-003-163": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-31T12:06Z",
+    "gone_since": "2026-08-05T10:07Z",
+    "last_seen": "2026-08-05T09:07Z",
+    "rent": "575,70 €",
+    "rooms": "2",
+    "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-163"
+  },
+  "8110-00022-003-229": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-20T10:04Z",
+    "gone_since": "2026-08-24T09:03Z",
+    "last_seen": "2026-08-24T08:05Z",
+    "rent": "576,70 €",
+    "rooms": "2",
+    "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-229"
+  },
+  "8110-00022-003-237": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "42,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-01T15:02Z",
+    "gone_since": "2026-10-05T14:03Z",
+    "last_seen": "2026-10-05T12:02Z",
+    "rent": "439,50 €",
+    "rooms": "1",
+    "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-237"
+  },
+  "8110-00049-002-013": {
+    "address": "Hochwinkel 3, 51069 Köln Dellbrück",
+    "area": "59,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-17T08:02Z",
+    "gone_since": "2026-09-17T09:02Z",
+    "last_seen": "2026-09-17T08:02Z",
+    "rent": "733,00 €",
+    "rooms": "2",
+    "title": "Wohnen am Waldrand in ruhiger Gegend",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00049-002-013"
+  },
+  "8110-00054-005-041": {
+    "address": "Tacitusstr. 25, 50968 Köln Bayenthal",
+    "area": "48,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-23T13:29Z",
+    "gone_since": "2026-07-24T11:05Z",
+    "last_seen": "2026-07-24T10:05Z",
+    "rent": "739,60 €",
+    "rooms": "1",
+    "title": "Gemütliche 1,5-Zimmer-Wohnung mit Loggia in beliebter Lage von Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00054-005-041"
+  },
+  "8110-00063-005-040": {
+    "address": "Leimbachweg 10, 51069 Köln Dünnwald",
+    "area": "57,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-08-28T09:04Z",
+    "gone_since": "2026-08-28T11:06Z",
+    "last_seen": "2026-08-28T10:06Z",
+    "rent": "738,60 €",
+    "rooms": "2",
+    "title": "Helle 2-Zimmer-Wohnung mit schönem Balkon und viel Gestaltungsspielraum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-005-040"
+  },
+  "8110-00063-005-054": {
+    "address": "Leimbachweg 10, 51069 Köln Dünnwald",
+    "area": "70,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-28T09:04Z",
+    "gone_since": "2026-08-28T11:06Z",
+    "last_seen": "2026-08-28T10:06Z",
+    "rent": "995,00 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Erdgeschosswohnung mit schönem Balkon und viel Gestaltungsspielraum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-005-054"
+  },
+  "8110-00063-006-094": {
+    "address": "Leimbachweg 28, 51069 Köln Dünnwald",
+    "area": "70,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-24T13:04Z",
+    "gone_since": "2026-08-24T15:06Z",
+    "last_seen": "2026-08-24T13:04Z",
+    "rent": "926,00 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer Wohnung mit Balkon und Aufzug in naturnaher Lage von Köln-Dünnwald",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-006-094"
+  },
+  "8110-00073-001-003": {
+    "address": "Boltensternstr. 118, 50735 Köln Niehl",
+    "area": "52,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-15T10:02Z",
+    "gone_since": "2026-09-16T07:03Z",
+    "last_seen": "2026-09-15T16:02Z",
+    "rent": "809,60 €",
+    "rooms": "2",
+    "title": "Gemütliche Zweizimmerwohnung  in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00073-001-003"
+  },
+  "8110-00073-004-109": {
+    "address": "Boltensternstr. 124, 50735 Köln Niehl",
+    "area": "56,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-04T13:04Z",
+    "gone_since": "2026-09-07T16:02Z",
+    "last_seen": "2026-09-07T14:04Z",
+    "rent": "832,60 €",
+    "rooms": "2",
+    "title": "Gut geschnittene Zweizimmerwohnung in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00073-004-109"
+  },
+  "8110-00078-002-011": {
+    "address": "Duisburger Str. 13, 50735 Köln Niehl",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-12T15:05Z",
+    "gone_since": "2026-08-13T06:06Z",
+    "last_seen": "2026-08-12T15:05Z",
+    "rent": "752,00 €",
+    "rooms": "2",
+    "title": "Gemütliche Zweizimmerwohnung in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00078-002-011"
+  },
+  "8110-00084-003-029": {
+    "address": "Hacketäuerstr. 35, 51063 Köln Mülheim",
+    "area": "65,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-15T14:03Z",
+    "gone_since": "2026-09-15T15:02Z",
+    "last_seen": "2026-09-15T14:03Z",
+    "rent": "945,00 €",
+    "rooms": "3",
+    "title": "3- Zimmer Wohnung in Köln Mülheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00084-003-029"
+  },
+  "8110-00103-001-008": {
+    "address": "Topsstr. 4, 51063 Köln Mülheim",
+    "area": "65,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon"
+    ],
+    "first_seen": "2026-09-17T12:02Z",
+    "gone_since": "2026-09-17T13:02Z",
+    "last_seen": "2026-09-17T12:02Z",
+    "rent": "914,00 €",
+    "rooms": "3",
+    "title": "3- Zimmer Wohnung in Köln Mülheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00103-001-008"
+  },
+  "8110-00110-001-079": {
+    "address": "Görlinger-Zentrum 9, 50829 Köln Bocklemünd/Mengenich",
+    "area": "85,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-06T08:08Z",
+    "gone_since": "2026-08-06T09:11Z",
+    "last_seen": "2026-08-06T08:08Z",
+    "rent": "1.037,00 €",
+    "rooms": "4",
+    "title": "4-Zimmer Wohnung in Bocklemünd - Görlinger-Zentrum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00110-001-079"
+  },
+  "8110-00111-001-028": {
+    "address": "Görlinger-Zentrum 3, 50829 Köln Bocklemünd/Mengenich",
+    "area": "85,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-06T13:02Z",
+    "gone_since": "2026-10-07T06:02Z",
+    "last_seen": "2026-10-06T15:02Z",
+    "rent": "1.038,00 €",
+    "rooms": "4",
+    "title": "4-Zimmer-Wohnung in Bocklemünd",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00111-001-028"
+  },
+  "8110-00111-001-076": {
+    "address": "Görlinger-Zentrum 3, 50829 Köln Bocklemünd/Mengenich",
+    "area": "64,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-08-05T06:11Z",
+    "gone_since": "2026-08-05T07:09Z",
+    "last_seen": "2026-08-05T06:11Z",
+    "rent": "798,80 €",
+    "rooms": "2",
+    "title": "2-Zimmer Wohnung in Bocklemünd - Görlinger-Zentrum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00111-001-076"
+  },
+  "8110-00119-001-046": {
+    "address": "Görlinger-Zentrum 26, 50829 Köln Bocklemünd/Mengenich",
+    "area": "90,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-07T10:02Z",
+    "gone_since": "2026-10-07T12:03Z",
+    "last_seen": "2026-10-07T10:02Z",
+    "rent": "1.104,00 €",
+    "rooms": "4",
+    "title": "4-Zimmer-Wohnung in Bocklemünd",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00119-001-046"
+  },
+  "8110-00131-001-012": {
+    "address": "Parsevalstr. 1A, 50827 Köln Ossendorf",
+    "area": "74,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-18T11:03Z",
+    "gone_since": "2026-09-18T12:03Z",
+    "last_seen": "2026-09-18T11:03Z",
+    "rent": "1.095,00 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmerwohung mit Loggia in Ossendorf, Parsevalstraße",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00131-001-012"
+  },
+  "8110-00141-002-015": {
+    "address": "Heidelberger Str. 12, 51065 Köln Buchforst",
+    "area": "69,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-01T06:06Z",
+    "gone_since": "2026-09-01T08:03Z",
+    "last_seen": "2026-09-01T06:06Z",
+    "rent": "945,20 €",
+    "rooms": "2",
+    "title": "Schöne 2 Zimmerwohnung in Köln-Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00141-002-015"
+  },
+  "8110-00149-002-018": {
+    "address": "Alzeyer Str. 33, 50739 Köln Bilderstöckchen",
+    "area": "104,00 m²",
+    "facilities": [
+      "Bad"
+    ],
+    "first_seen": "2026-09-15T13:03Z",
+    "gone_since": "2026-09-15T14:03Z",
+    "last_seen": "2026-09-15T13:03Z",
+    "rent": "1.437,13 €",
+    "rooms": "5",
+    "title": "Frisch saniert- großzügige 5 Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00149-002-018"
+  },
+  "8110-00152-001-001": {
+    "address": "Untere Dorfstr. 93, 50829 Köln Bocklemünd/Mengenich",
+    "area": "41,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-10-15T06:02Z",
+    "gone_since": "2026-10-15T09:02Z",
+    "last_seen": "2026-10-15T08:02Z",
+    "rent": "397,10 €",
+    "rooms": "1",
+    "title": "1-Zimmer Seniorenwohnung ab 60 Jahren - nur WBS A -",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00152-001-001"
+  },
+  "8110-00164-009-070": {
+    "address": "Unstrutweg 35, 50765 Köln Chorweiler",
+    "area": "80,59 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-09T07:03Z",
+    "gone_since": "2026-09-09T08:04Z",
+    "last_seen": "2026-09-09T07:03Z",
+    "rent": "1.104,60 €",
+    "rooms": "3",
+    "title": "3-Zimmerwohnung in Chorweiler- Nord ohne WBS!!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00164-009-070"
+  },
+  "8110-00165-006-043": {
+    "address": "Saalestr. 50, 50765 Köln Chorweiler",
+    "area": "47,28 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-09T06:03Z",
+    "gone_since": "2026-09-09T08:04Z",
+    "last_seen": "2026-09-09T07:03Z",
+    "rent": "706,50 €",
+    "rooms": "2",
+    "title": "2-Zimmerwohnung in Chorweiler Nord",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00165-006-043"
+  },
+  "8110-00167-002-011": {
+    "address": "Moldaustr. 27, 50765 Köln Chorweiler",
+    "area": "76,22 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-09T07:03Z",
+    "gone_since": "2026-09-09T08:04Z",
+    "last_seen": "2026-09-09T07:03Z",
+    "rent": "999,50 €",
+    "rooms": "3",
+    "title": "3-ZimmerWohnung in Chorweiler Nord, ohne WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00167-002-011"
+  },
+  "8110-00214-002-014": {
+    "address": "Solinger Str. 8, 51103 Köln Kalk",
+    "area": "53,66 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon"
+    ],
+    "first_seen": "2026-07-30T15:06Z",
+    "gone_since": "2026-07-30T16:06Z",
+    "last_seen": "2026-07-30T15:06Z",
+    "rent": "548,50 €",
+    "rooms": "2",
+    "title": "WBS A erforderlich: Wohnen in Kalk",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00214-002-014"
+  },
+  "8110-00220-011-123": {
+    "address": "Nachtigallenstr. 26, 51147 Köln Wahn",
+    "area": "51,03 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-14T09:12Z",
+    "gone_since": "2026-08-17T08:03Z",
+    "last_seen": "2026-08-17T06:05Z",
+    "rent": "522,90 €",
+    "rooms": "2",
+    "title": "WBS A - 50 m² erforderlich! Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00220-011-123"
+  },
+  "8110-00230-009-069": {
+    "address": "Willi-Suth-Allee 8, 50769 Köln Seeberg",
+    "area": "41,53 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Garten/ -mitbenutzung",
+      "Seniorengerecht",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-08T06:04Z",
+    "gone_since": "2026-09-08T11:03Z",
+    "last_seen": "2026-09-08T10:03Z",
+    "rent": "369,50 €",
+    "rooms": "2",
+    "title": "Seniorengerechte 2 Zimmerwohnung mit kleinem Garten in Köln-Seeberg -WBSS!!!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00230-009-069"
+  },
+  "8110-00235-006-038": {
+    "address": "Steinstr. 6, 51143 Köln Porz",
+    "area": "41,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-07T11:16Z",
+    "gone_since": "2026-09-10T08:03Z",
+    "last_seen": "2026-09-10T06:03Z",
+    "rent": "657,00 €",
+    "rooms": "1",
+    "title": "Schönes Apartment in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00235-006-038"
+  },
+  "8110-00270-002-015": {
+    "address": "Singhofener Str. 1, 51105 Köln Humboldt/Gremberg",
+    "area": "75,18 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-09-28T09:02Z",
+    "gone_since": "2026-09-28T10:03Z",
+    "last_seen": "2026-09-28T09:02Z",
+    "rent": "974,80 €",
+    "rooms": "3",
+    "title": "3-Zimmer Wohnung in Köln Humboldt/Gremberg",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00270-002-015"
+  },
+  "8110-00272-002-013": {
+    "address": "Zum Gremberger Wäldchen 32, 51105 Köln Poll",
+    "area": "79,23 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-23T00:00Z",
+    "gone_since": "2026-08-04T10:08Z",
+    "last_seen": "2026-08-04T08:08Z",
+    "rent": "1.273,90 €",
+    "rooms": "3",
+    "title": "Gemütliche 3-ZKB Wohnung mit Loggia in beliebter Lage von Köln-Poll",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00272-002-013"
+  },
+  "8110-00283-001-002": {
+    "address": "Leimbachweg 48, 51069 Köln Dünnwald",
+    "area": "69,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-24T13:04Z",
+    "gone_since": "2026-08-24T15:06Z",
+    "last_seen": "2026-08-24T13:04Z",
+    "rent": "914,20 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Erdgeschosswohnung mit schönem Balkon und viel Gestaltungsspielraum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00283-001-002"
+  },
+  "8110-00285-004-023": {
+    "address": "Neusser Str. 796, 50737 Köln Weidenpesch",
+    "area": "75,19 m²",
+    "facilities": [
+      "Haustiere erlaubt",
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon"
+    ],
+    "first_seen": "2026-10-15T12:02Z",
+    "gone_since": "2026-10-15T13:03Z",
+    "last_seen": "2026-10-15T12:35Z",
+    "rent": "758,10 €",
+    "rooms": "3",
+    "title": "3-Zimmerwohnung in Weidenpesch mit WBS!!!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00285-004-023"
+  },
+  "8110-00286-013-031": {
+    "address": "Wezelostr. 35, 50765 Köln Volkhoven/Weiler",
+    "area": "60,65 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-29T16:02Z",
+    "gone_since": "2026-09-30T10:02Z",
+    "last_seen": "2026-09-29T16:02Z",
+    "rent": "697,60 €",
+    "rooms": "2",
+    "title": "Zwei-Zimmer-Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00286-013-031"
+  },
+  "8110-00290-004-004": {
+    "address": "Christrosenweg 22, 51143 Köln Zündorf",
+    "area": "109,77 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Gäste-WC",
+      "Garten/ -mitbenutzung",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-06T13:02Z",
+    "gone_since": "2026-10-07T16:02Z",
+    "last_seen": "2026-10-07T13:03Z",
+    "rent": "1.295,10 €",
+    "rooms": "5",
+    "title": "WBS min 110m²: Reihenhaus in Zündorf",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00290-004-004"
+  },
+  "8110-00314-009-070": {
+    "address": "Böblinger Str. 18, 50739 Köln Bilderstöckchen",
+    "area": "47,01 m²",
+    "facilities": [
+      "Bad",
+      "Seniorengerecht",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-12T14:03Z",
+    "gone_since": "2026-08-12T15:05Z",
+    "last_seen": "2026-08-12T14:03Z",
+    "rent": "503,90 €",
+    "rooms": "2",
+    "title": "2-Zimmerwohnung mit WBS A 50 m² in der Böblinger Straße- Bilderstöckchen",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00314-009-070"
+  },
+  "8110-00314-010-076": {
+    "address": "Böblinger Str. 20, 50739 Köln Bilderstöckchen",
+    "area": "46,96 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Seniorengerecht",
+      "Balkon"
+    ],
+    "first_seen": "2026-09-25T06:03Z",
+    "gone_since": "2026-09-28T07:03Z",
+    "last_seen": "2026-09-25T06:03Z",
+    "rent": "475,50 €",
+    "rooms": "2",
+    "title": "2-Zmmerwohnung mit WBS A in Bilderstöckchen (Altengerecht)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00314-010-076"
+  },
+  "8110-00329-002-012": {
+    "address": "Grasnelkenweg 12, 50765 Köln Volkhoven/Weiler",
+    "area": "62,49 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-25T15:07Z",
+    "gone_since": "2026-08-26T06:03Z",
+    "last_seen": "2026-08-25T16:02Z",
+    "rent": "655,40 €",
+    "rooms": "2",
+    "title": "Zwei-Zimmer-Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00329-002-012"
+  },
+  "8110-00329-011-076": {
+    "address": "Grasnelkenweg 21, 50765 Köln Volkhoven/Weiler",
+    "area": "81,67 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-01T16:04Z",
+    "gone_since": "2026-09-02T06:03Z",
+    "last_seen": "2026-09-01T16:04Z",
+    "rent": "831,70 €",
+    "rooms": "3",
+    "title": "Drei-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00329-011-076"
+  },
+  "8110-00329-024-170": {
+    "address": "Sandglöckchenweg 27, 50765 Köln Volkhoven/Weiler",
+    "area": "44,83 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-07T11:16Z",
+    "gone_since": "2026-08-07T16:09Z",
+    "last_seen": "2026-08-07T13:21Z",
+    "rent": "457,10 €",
+    "rooms": "1",
+    "title": "Ein-Zimmer-Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00329-024-170"
+  },
+  "8110-00333-006-043": {
+    "address": "Sieversstr. 11, 51103 Köln Kalk",
+    "area": "57,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-10T10:02Z",
+    "gone_since": "2026-09-10T11:03Z",
+    "last_seen": "2026-09-10T10:02Z",
+    "rent": "757,50 €",
+    "rooms": "2",
+    "title": "Gut geschnittene 2-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00333-006-043"
+  },
+  "8110-00335-002-014": {
+    "address": "Burgstr. 191, 51103 Köln Höhenberg",
+    "area": "46,20 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-08T09:02Z",
+    "gone_since": "2026-09-08T10:03Z",
+    "last_seen": "2026-09-08T09:02Z",
+    "rent": "471,10 €",
+    "rooms": "1",
+    "title": "Gemütliche 1-Zimmer Wohnung mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00335-002-014"
+  },
+  "8110-00343-006-054": {
+    "address": "Kirchgasse 10, 51065 Köln Buchheim",
+    "area": "90,23 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon"
+    ],
+    "first_seen": "2026-09-01T14:05Z",
+    "gone_since": "2026-09-01T15:02Z",
+    "last_seen": "2026-09-01T14:05Z",
+    "rent": "918,40 €",
+    "rooms": "4",
+    "title": "Maisonette-Wohnung, 2 Etagen in zentraler Lage - WBS A für 4 Zimmer dringend erforderlich!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00343-006-054"
+  },
+  "8110-00370-006-041": {
+    "address": "Aeltgen-Dünwald-Str. 11, 51069 Köln Dünnwald",
+    "area": "62,92 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-31T08:02Z",
+    "gone_since": "2026-08-31T09:03Z",
+    "last_seen": "2026-08-31T08:02Z",
+    "rent": "690,10 €",
+    "rooms": "2",
+    "title": "Schöne 2-Zimmer Wohnung im Grünen *MIT WBS 65qm*",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00370-006-041"
+  },
+  "8110-00372-002-010": {
+    "address": "Aeltgen-Dünwald-Str. 53, 51069 Köln Dünnwald",
+    "area": "52,88 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Garten/ -mitbenutzung"
+    ],
+    "first_seen": "2026-07-31T08:05Z",
+    "gone_since": "2026-07-31T09:05Z",
+    "last_seen": "2026-07-31T08:05Z",
+    "rent": "776,90 €",
+    "rooms": "2",
+    "title": "BARRIEREFREIE 2 Zimmer Wohnung mit WBS 50qm",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00372-002-010"
+  },
+  "8110-00373-006-053": {
+    "address": "Auguste-Kowalski-Str. 11, 51069 Köln Dünnwald",
+    "area": "69,23 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-07-27T09:05Z",
+    "gone_since": "2026-07-27T09:15Z",
+    "last_seen": "2026-07-27T09:05Z",
+    "rent": "768,80 €",
+    "rooms": "3",
+    "title": "3-Zimmer Wohnung in Dünnwald -- MIT WBS --",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00373-006-053"
+  },
+  "8110-00377-003-030": {
+    "address": "Heinz-Kühn-Str. 5, 51067 Köln Holweide",
+    "area": "63,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-09T12:10Z",
+    "gone_since": "2026-09-09T13:05Z",
+    "last_seen": "2026-09-09T12:10Z",
+    "rent": "517,10 €",
+    "rooms": "2",
+    "title": "2 Zimmer WBS Wohnung in Holweide",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00377-003-030"
+  },
+  "8110-00379-008-099": {
+    "address": "Heinz-Kühn-Str. 31, 51067 Köln Holweide",
+    "area": "76,86 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-10-14T11:02Z",
+    "gone_since": "2026-10-14T12:02Z",
+    "last_seen": "2026-10-14T11:02Z",
+    "rent": "1.050,20 €",
+    "rooms": "3",
+    "title": "Großzügige 3-Zimmer-Wohnung in schöner Lage",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00379-008-099"
+  },
+  "8110-00386-003-029": {
+    "address": "Clevischer Ring 132, 51063 Köln Mülheim",
+    "area": "73,09 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-26T11:04Z",
+    "gone_since": "2026-08-26T12:21Z",
+    "last_seen": "2026-08-26T11:04Z",
+    "rent": "803,40 €",
+    "rooms": "3",
+    "title": "OHNE Aufzug! Dachgeschosswohnung in Mülheim NUR MIT 80m²-WBS!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00386-003-029"
+  },
+  "8110-00395-002-017": {
+    "address": "Ossendorfer Weg 46, 50827 Köln Bickendorf",
+    "area": "77,64 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-29T13:03Z",
+    "gone_since": "2026-09-29T15:09Z",
+    "last_seen": "2026-09-29T13:03Z",
+    "rent": "1.198,70 €",
+    "rooms": "3",
+    "title": "Gutgeschnittene 3 Zimmer Wohnung in Ossendorf",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00395-002-017"
+  },
+  "8110-00431-003-029": {
+    "address": "Ollenhauerring 80, 50829 Köln Bocklemünd/Mengenich",
+    "area": "56,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-08-21T09:02Z",
+    "gone_since": "2026-08-21T16:05Z",
+    "last_seen": "2026-08-21T15:24Z",
+    "rent": "726,20 €",
+    "rooms": "3",
+    "title": "3-Zimmer Wohnung in Bocklemünd",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00431-003-029"
   },
   "8110-00478-003-027": {
     "address": "Danziger Str. 18, 51145 Köln Urbach",
@@ -54,10 +3282,123 @@
       "Personenaufzug",
       "Zentralheizung"
     ],
+    "first_seen": "2026-10-15T11:03Z",
+    "gone_since": null,
+    "last_seen": "2026-10-15T13:03Z",
     "rent": "748,50 €",
     "rooms": "2",
     "title": "WBS A - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Köln-Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-003-027"
+  },
+  "8110-00478-003-033": {
+    "address": "Danziger Str. 18, 51145 Köln Urbach",
+    "area": "61,95 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-01T08:02Z",
+    "gone_since": "2026-10-08T13:02Z",
+    "last_seen": "2026-10-08T12:02Z",
+    "rent": "806,90 €",
+    "rooms": "2",
+    "title": "WBS A - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-003-033"
+  },
+  "8110-00478-005-048": {
+    "address": "Danziger Str. 22, 51145 Köln Urbach",
+    "area": "46,49 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-30T12:05Z",
+    "gone_since": "2026-07-31T09:05Z",
+    "last_seen": "2026-07-31T08:05Z",
+    "rent": "561,90 €",
+    "rooms": "1",
+    "title": "WBS A - 50 m² erforderlich! Schickes Apartment in Porz-Urbach!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00478-005-048"
+  },
+  "8110-00480-002-026": {
+    "address": "Danziger Straße 5, 51145 Köln Urbach",
+    "area": "61,72 m²",
+    "facilities": [
+      "Haustiere erlaubt",
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-07-27T09:05Z",
+    "gone_since": "2026-08-24T08:05Z",
+    "last_seen": "2026-08-24T07:06Z",
+    "rent": "647,60 €",
+    "rooms": "2",
+    "title": "WBS A - 65 m²! Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00480-002-026"
+  },
+  "8110-00500-001-005": {
+    "address": "Gummersbacher Str. 23, 50679 Köln",
+    "area": "53,54 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-09T11:03Z",
+    "gone_since": "2026-09-10T06:03Z",
+    "last_seen": "2026-09-09T15:03Z",
+    "rent": "780,26 €",
+    "rooms": "2",
+    "title": "Barrierefreie Neubauwohnung in zentraler Lage-mit Wohnberechtigungsschein!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00500-001-005"
+  },
+  "8110-00820-004-038": {
+    "address": "Kapellenstr. 46, 51103 Köln Kalk",
+    "area": "75,82 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-22T11:03Z",
+    "gone_since": "2026-09-23T10:02Z",
+    "last_seen": "2026-09-22T11:03Z",
+    "rent": "1.010,00 €",
+    "rooms": "3",
+    "title": "3-Zimmer Wohnung in Köln-Kalk -Wohnberechtigungsschein B-",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00820-004-038"
+  },
+  "8110-00841-004-039": {
+    "address": "Kalk-Mülheimer Str. 270, 51065 Köln Buchforst",
+    "area": "76,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-08-21T15:24Z",
+    "gone_since": "2026-08-27T13:08Z",
+    "last_seen": "2026-08-27T11:07Z",
+    "rent": "849,50 €",
+    "rooms": "3",
+    "title": "Schöne DG Wohnung in Buchforst *MIT WBS*",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00841-004-039"
   },
   "8110-00843-001-004": {
     "address": "Poststr. 30, 51143 Köln Porz",
@@ -67,9 +3408,389 @@
       "Gäste-WC",
       "Balkon"
     ],
+    "first_seen": "2026-10-14T10:02Z",
+    "gone_since": null,
+    "last_seen": "2026-10-15T13:03Z",
     "rent": "1.242,60 €",
     "rooms": "4",
     "title": "Geräumige 4-Zimmer-Wohnung mit Balkon in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00843-001-004"
+  },
+  "8110-00846-001-014": {
+    "address": "Heinrich-Hoerle-Str. 17a, 50737 Köln Longerich",
+    "area": "56,98 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-04T07:09Z",
+    "gone_since": "2026-08-06T09:11Z",
+    "last_seen": "2026-08-06T08:08Z",
+    "rent": "618,70 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung mit WOHNBERECHTIGUNGSSCHEIN A , 56,98 qm in Longerich",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00846-001-014"
+  },
+  "8110-00847-002-019": {
+    "address": "Remscheider Str. 84, 51103 Köln Kalk",
+    "area": "84,20 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Personenaufzug",
+      "Fußbodenheizung"
+    ],
+    "first_seen": "2026-08-10T12:14Z",
+    "gone_since": "2026-08-10T15:07Z",
+    "last_seen": "2026-08-10T14:05Z",
+    "rent": "1.107,07 €",
+    "rooms": "3",
+    "title": "WBS A min. 80m²: Ruhig gelegene Neubauwohnung in Kalk",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00847-002-019"
+  },
+  "8110-00847-003-021": {
+    "address": "Remscheider Str. 86, 51103 Köln Kalk",
+    "area": "58,91 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-09-23T10:02Z",
+    "gone_since": "2026-09-24T11:02Z",
+    "last_seen": "2026-09-24T08:02Z",
+    "rent": "1.060,40 €",
+    "rooms": "2",
+    "title": "Ruhig gelegene Neubauwohnung in Kalk",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00847-003-021"
+  },
+  "8280-06690-004-305": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "62,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-07T11:16Z",
+    "gone_since": "2026-08-07T13:21Z",
+    "last_seen": "2026-08-07T11:16Z",
+    "rent": "738,00 €",
+    "rooms": "2",
+    "title": "Modernisierte 2-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-305"
+  },
+  "8280-06690-004-308": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "62,48 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-07T11:16Z",
+    "gone_since": "2026-08-07T13:21Z",
+    "last_seen": "2026-08-07T11:16Z",
+    "rent": "743,00 €",
+    "rooms": "2",
+    "title": "Modernisierte 2-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-308"
+  },
+  "8280-06690-004-327": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "79,35 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-07T11:16Z",
+    "gone_since": "2026-08-07T13:21Z",
+    "last_seen": "2026-08-07T11:16Z",
+    "rent": "944,00 €",
+    "rooms": "3",
+    "title": "Modernisierte 3-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-327"
+  },
+  "8280-06690-004-334": {
+    "address": "Florenzer Str. 20, 50765 Köln Chorweiler",
+    "area": "41,39 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-07T11:16Z",
+    "gone_since": "2026-08-07T13:21Z",
+    "last_seen": "2026-08-07T11:16Z",
+    "rent": "493,00 €",
+    "rooms": "1",
+    "title": "Modernisierte 1-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-334"
+  },
+  "8280-06691-002-030": {
+    "address": "Stockholmer Allee 5, 50765 Köln Chorweiler",
+    "area": "45,95 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-28T10:03Z",
+    "gone_since": "2026-09-29T08:03Z",
+    "last_seen": "2026-09-29T06:02Z",
+    "rent": "524,50 €",
+    "rooms": "2",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-002-030"
+  },
+  "8280-06691-003-059": {
+    "address": "Stockholmer Allee 7, 50765 Köln Chorweiler",
+    "area": "73,55 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-28T08:02Z",
+    "gone_since": "2026-09-28T10:03Z",
+    "last_seen": "2026-09-28T09:02Z",
+    "rent": "827,10 €",
+    "rooms": "3",
+    "title": "Charmant kürzlich modernisierte öffentlich geförderte 3-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-003-059"
+  },
+  "8280-06691-004-084": {
+    "address": "Stockholmer Allee 9, 50765 Köln Chorweiler",
+    "area": "80,35 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-28T10:03Z",
+    "gone_since": "2026-09-29T08:03Z",
+    "last_seen": "2026-09-29T06:02Z",
+    "rent": "908,70 €",
+    "rooms": "3",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 3-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-004-084"
+  },
+  "8280-06691-005-102": {
+    "address": "Stockholmer Allee 11, 50765 Köln Chorweiler",
+    "area": "45,95 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-28T10:03Z",
+    "gone_since": "2026-09-29T08:03Z",
+    "last_seen": "2026-09-29T06:02Z",
+    "rent": "585,60 €",
+    "rooms": "1",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-005-102"
+  },
+  "8280-06691-005-124": {
+    "address": "Stockholmer Allee 11, 50765 Köln Chorweiler",
+    "area": "43,83 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-28T10:03Z",
+    "gone_since": "2026-09-28T11:03Z",
+    "last_seen": "2026-09-28T10:03Z",
+    "rent": "507,60 €",
+    "rooms": "1",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-005-124"
+  },
+  "8280-06691-009-303": {
+    "address": "Stockholmer Allee 19, 50765 Köln Chorweiler",
+    "area": "43,83 m²",
+    "facilities": [
+      "Bad",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-23T10:02Z",
+    "gone_since": "2026-09-23T13:02Z",
+    "last_seen": "2026-09-23T10:02Z",
+    "rent": "501,20 €",
+    "rooms": "1",
+    "title": "Charmante kürzlich modernisierte öffentlich geförderte 1 Zimmer-Wohnung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-009-303"
+  },
+  "8280-06692-001-078": {
+    "address": "Osloer Str. 3, 50765 Köln Chorweiler",
+    "area": "83,72 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-06T10:10Z",
+    "gone_since": "2026-08-06T11:16Z",
+    "last_seen": "2026-08-06T10:10Z",
+    "rent": "915,50 €",
+    "rooms": "3",
+    "title": "Modernisierte 3-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06692-001-078"
+  },
+  "8280-06692-002-170": {
+    "address": "Osloer Str. 5, 50765 Köln Chorweiler",
+    "area": "53,78 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-02T10:03Z",
+    "gone_since": "2026-09-03T06:04Z",
+    "last_seen": "2026-09-02T11:04Z",
+    "rent": "650,80 €",
+    "rooms": "2",
+    "title": "Modernisierte 2-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06692-002-170"
+  },
+  "8280-06692-005-252": {
+    "address": "Osloer Str. 9, 50765 Köln Chorweiler",
+    "area": "51,97 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-05T14:03Z",
+    "gone_since": "2026-10-05T15:03Z",
+    "last_seen": "2026-10-05T14:03Z",
+    "rent": "608,00 €",
+    "rooms": "2",
+    "title": "2-Zimmerwohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06692-005-252"
+  },
+  "8502-02094-011-108": {
+    "address": "Eulerstr. 14, 51065 Köln Buchforst",
+    "area": "58,44 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-09-29T08:03Z",
+    "gone_since": "2026-09-29T09:01Z",
+    "last_seen": "2026-09-29T08:03Z",
+    "rent": "754,20 €",
+    "rooms": "2",
+    "title": "Wohnen in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-011-108"
+  },
+  "8502-02094-018-173": {
+    "address": "Galileistr. 13, 51065 Köln Buchforst",
+    "area": "59,09 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-29T08:03Z",
+    "gone_since": "2026-09-29T09:01Z",
+    "last_seen": "2026-09-29T08:03Z",
+    "rent": "753,20 €",
+    "rooms": "2",
+    "title": "Wohnen in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-018-173"
+  },
+  "8502-02094-022-217": {
+    "address": "Galileistr. 6, 51065 Köln Buchforst",
+    "area": "56,31 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-03T15:03Z",
+    "gone_since": "2026-09-03T16:03Z",
+    "last_seen": "2026-09-03T15:03Z",
+    "rent": "745,70 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-022-217"
+  },
+  "8502-02094-023-226": {
+    "address": "Galileistr. 8, 51065 Köln Buchforst",
+    "area": "65,76 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-09-03T15:03Z",
+    "gone_since": "2026-09-03T16:03Z",
+    "last_seen": "2026-09-03T15:03Z",
+    "rent": "802,20 €",
+    "rooms": "4",
+    "title": "4 Zimmer Wohnung in Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-02094-023-226"
+  },
+  "8502-04256-002-015": {
+    "address": "Merheimer Str. 458, 50735 Köln Weidenpesch",
+    "area": "52,06 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-01T07:03Z",
+    "gone_since": "2026-10-01T08:02Z",
+    "last_seen": "2026-10-01T07:03Z",
+    "rent": "693,50 €",
+    "rooms": "2",
+    "title": "2-Zimmerwohnung in Weidenpesch",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8502-04256-002-015"
+  },
+  "V700-00714-001-005": {
+    "address": "Holweider Str. 108/112, 51065 Koeln Mülheim",
+    "area": "82,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-08-31T06:07Z",
+    "gone_since": "2026-08-31T07:04Z",
+    "last_seen": "2026-08-31T06:07Z",
+    "rent": "1.029,10 €",
+    "rooms": "3",
+    "title": "gemütliche 3-Raumwohung in Mülheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/V700-00714-001-005"
   }
 }

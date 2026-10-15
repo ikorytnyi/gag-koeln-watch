@@ -13,19 +13,35 @@
     "title": "gemütliche, zentrumsnahe, familiengerechte 3 Zimmerwohnung, freifinanziert ohne WBS",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03665-001-003"
   },
-  "1900-07605-022-158": {
-    "address": "Thorwaldsenstr. 18, 51103 Köln Vingst",
-    "area": "54,54 m²",
+  "1900-04251-005-058": {
+    "address": "Ehrenbergstr. 10, 50735 Köln Riehl",
+    "area": "73,56 m²",
     "facilities": [
       "Keller",
-      "Bad",
+      "Bad mit Fenster, Wanne",
       "Balkon",
+      "Fernwärme"
+    ],
+    "rent": "1.128,40 €",
+    "rooms": "2",
+    "title": "Helle Dachgeschoßwohnung 73,56 qm  in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-005-058"
+  },
+  "1900-08472-003-031": {
+    "address": "Friedensstr. 127, 51145 Köln Elsdorf",
+    "area": "75,55 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
       "Zentralheizung"
     ],
-    "rent": "879,40 €",
-    "rooms": "2",
-    "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
-    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07605-022-158"
+    "rent": "1.389,60 €",
+    "rooms": "3",
+    "title": "Schicke 3-Zimmer-Wohnung in Porz-Urbach!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08472-003-031"
   },
   "8110-00843-001-004": {
     "address": "Poststr. 30, 51143 Köln Porz",

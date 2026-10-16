@@ -1579,6 +1579,22 @@
     "title": "2-Zimmer Wohnung in Chorweiler Nord Optional mit Küchenzeile",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-06706-002-018"
   },
+  "1900-06707-003-033": {
+    "address": "Saalestr. 24, 50765 Köln Chorweiler",
+    "area": "75,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-16T09:02Z",
+    "gone_since": null,
+    "rent": "945,60 €",
+    "rooms": "3",
+    "title": "3-Zimmerwohnung in Chorweiler Nord",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06707-003-033"
+  },
   "1900-07009-001-023": {
     "address": "Kierkegaardstr. 25, 51107 Köln Vingst",
     "area": "42,00 m²",
@@ -2241,7 +2257,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-10-16T06:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-16T09:02Z",
     "rent": "875,30 €",
     "rooms": "3",
     "title": "Senioren aufgepasst! Mit WBS A über 60 Jahre",

@@ -875,7 +875,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-07-29T10:06Z",
-    "gone_since": null,
+    "gone_since": "2026-10-16T06:02Z",
     "rent": "1.167,80 €",
     "rooms": "3",
     "title": "gemütliche, zentrumsnahe, familiengerechte 3 Zimmerwohnung, freifinanziert ohne WBS",
@@ -2230,6 +2230,23 @@
     "title": "Senioren aufgepasst! Mit WBS A über 60 Jahre",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-003-162"
   },
+  "8110-00020-003-214": {
+    "address": "Tollerstr. 1, 50829 Köln Bocklemünd/Mengenich",
+    "area": "67,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-10-16T06:02Z",
+    "gone_since": null,
+    "rent": "875,30 €",
+    "rooms": "3",
+    "title": "Senioren aufgepasst! Mit WBS A über 60 Jahre",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-003-214"
+  },
   "8110-00021-001-113": {
     "address": "Schiefersburger Weg 54, 50739 Köln Bilderstöckchen",
     "area": "53,00 m²",
@@ -2533,6 +2550,24 @@
     "rooms": "4",
     "title": "4-Zimmer-Wohnung in Bocklemünd",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00111-001-028"
+  },
+  "8110-00111-001-042": {
+    "address": "Görlinger-Zentrum 3, 50829 Köln Bocklemünd/Mengenich",
+    "area": "85,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-16T06:02Z",
+    "gone_since": null,
+    "rent": "1.038,00 €",
+    "rooms": "4",
+    "title": "4-Zimmer Wohnung in Bocklemünd - Görlinger-Zentrum",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00111-001-042"
   },
   "8110-00111-001-076": {
     "address": "Görlinger-Zentrum 3, 50829 Köln Bocklemünd/Mengenich",

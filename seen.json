@@ -2681,6 +2681,24 @@
     "title": "1-Zimmer Seniorenwohnung ab 60 Jahren - nur WBS A -",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00152-001-001"
   },
+  "8110-00155-012-200": {
+    "address": "Pyrmonter Str. 16, 51065 Köln Buchforst",
+    "area": "52,16 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-19T07:04Z",
+    "gone_since": null,
+    "rent": "533,30 €",
+    "rooms": "2",
+    "title": "2 Zimmerwohnung &quot;NUR für SENIOREN ab 60 Jahre mit WBS A &quot;",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00155-012-200"
+  },
   "8110-00164-009-070": {
     "address": "Unstrutweg 35, 50765 Köln Chorweiler",
     "area": "80,59 m²",

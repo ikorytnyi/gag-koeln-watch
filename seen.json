@@ -251,6 +251,22 @@
     "title": "Helle 2-Zimmer-Wohnung in Köln-Kalk!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02013-001-020"
   },
+  "1900-02028-001-007": {
+    "address": "Bertha-Benz-Karree 6, 51107 Köln Ostheim",
+    "area": "62,69 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-19T11:02Z",
+    "gone_since": null,
+    "rent": "1.056,50 €",
+    "rooms": "2",
+    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02028-001-007"
+  },
   "1900-02034-001-013": {
     "address": "Bertha-Benz-Karree 14, 51107 Köln Ostheim",
     "area": "63,70 m²",
@@ -266,6 +282,22 @@
     "rooms": "2",
     "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02034-001-013"
+  },
+  "1900-02036-001-002": {
+    "address": "Hedwig-Wachenheim-Karree 1, 51107 Köln Ostheim",
+    "area": "59,06 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Garten/ -mitbenutzung",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-19T11:02Z",
+    "gone_since": null,
+    "rent": "904,00 €",
+    "rooms": "2",
+    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Terrasse und Garten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02036-001-002"
   },
   "1900-02039-001-002": {
     "address": "Bertha-Benz-Karree 24, 51107 Köln Ostheim",
@@ -300,6 +332,24 @@
     "rooms": "2",
     "title": "Waldbadviertel: !WBS (A) 65,00 m²! notwendig! - Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02040-001-004"
+  },
+  "1900-02048-002-027": {
+    "address": "Bertha-Benz-Karree 159, 51107 Köln Ostheim",
+    "area": "62,48 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-19T11:02Z",
+    "gone_since": null,
+    "rent": "1.115,40 €",
+    "rooms": "2",
+    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Terrasse und Garten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02048-002-027"
   },
   "1900-02063-001-001": {
     "address": "Hertzstr. 12, 51065 Köln Buchforst",
@@ -958,6 +1008,22 @@
     "rooms": "3",
     "title": "3-Zimmerwohnung in der Frankenthaler Straße",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04018-003-020"
+  },
+  "1900-04248-006-053": {
+    "address": "Barbarastr. 72, 50735 Köln Riehl",
+    "area": "49,15 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-19T11:02Z",
+    "gone_since": null,
+    "rent": "779,50 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung, 49,15 qm in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04248-006-053"
   },
   "1900-04248-008-071": {
     "address": "Barbarastr. 76, 50735 Köln Riehl",
@@ -2593,7 +2659,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-16T06:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-19T11:02Z",
     "rent": "1.038,00 €",
     "rooms": "4",
     "title": "4-Zimmer Wohnung in Bocklemünd - Görlinger-Zentrum",

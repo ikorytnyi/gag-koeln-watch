@@ -2700,6 +2700,23 @@
     "title": "3- Zimmer Wohnung in Köln Mülheim",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00103-001-008"
   },
+  "8110-00105-002-031": {
+    "address": "Boltensternstr. 102, 50735 Köln Niehl",
+    "area": "64,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-21T14:04Z",
+    "gone_since": null,
+    "rent": "959,20 €",
+    "rooms": "3",
+    "title": "Gemütliche Dreizimmerwohnung in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00105-002-031"
+  },
   "8110-00110-001-079": {
     "address": "Görlinger-Zentrum 9, 50829 Köln Bocklemünd/Mengenich",
     "area": "85,00 m²",
@@ -2800,6 +2817,22 @@
     "rooms": "3",
     "title": "Helle 3-Zimmerwohung mit Loggia in Ossendorf, Parsevalstraße",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00131-001-012"
+  },
+  "8110-00134-001-006": {
+    "address": "Boltensternstr. 96/98, 50735 Köln Niehl",
+    "area": "54,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-10-21T14:04Z",
+    "gone_since": null,
+    "rent": "761,40 €",
+    "rooms": "2",
+    "title": "Zweizimmerwohnung in Kölner  Norden",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00134-001-006"
   },
   "8110-00141-002-015": {
     "address": "Heidelberger Str. 12, 51065 Köln Buchforst",

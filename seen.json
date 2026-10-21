@@ -2040,6 +2040,22 @@
     "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07931-001-010"
   },
+  "1900-07931-002-027": {
+    "address": "Kierkegaardstr. 4, 51107 Köln Vingst",
+    "area": "60,33 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-21T11:02Z",
+    "gone_since": null,
+    "rent": "799,30 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07931-002-027"
+  },
   "1900-08003-003-028": {
     "address": "Odenwaldstr. 53, 51105 Köln Humboldt/Gremberg",
     "area": "63,75 m²",
@@ -2637,6 +2653,22 @@
     "rooms": "2",
     "title": "Gemütliche Zweizimmerwohnung in Köln Niehl",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00078-002-011"
+  },
+  "8110-00078-003-018": {
+    "address": "Duisburger Str. 15, 50735 Köln Niehl",
+    "area": "63,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-21T11:02Z",
+    "gone_since": null,
+    "rent": "903,20 €",
+    "rooms": "3",
+    "title": "Gut geschnittene Dreizimmerwohnung in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00078-003-018"
   },
   "8110-00084-003-029": {
     "address": "Hacketäuerstr. 35, 51063 Köln Mülheim",

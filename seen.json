@@ -1642,7 +1642,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-22T12:03Z",
-    "gone_since": null,
+    "gone_since": "2026-10-22T14:03Z",
     "rent": "1.254,20 €",
     "rooms": "4",
     "title": "4-Zimmerwohnung in Köln Chorweiler-Nord",
@@ -1996,6 +1996,22 @@
     "rooms": "1",
     "title": "Attraktive Dachgeschosswohnung in Köln Höhenhaus- nur mit Wohnberechtigungsschein!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07870-013-061"
+  },
+  "1900-07906-005-049": {
+    "address": "Nobelstr. 52, 51107 Köln Vingst",
+    "area": "61,93 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-22T14:03Z",
+    "gone_since": null,
+    "rent": "597,50 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Vingst Veedel (WBS A)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07906-005-049"
   },
   "1900-07909-001-005": {
     "address": "Ibsenstr. 2, 51107 Köln Vingst",

@@ -1630,6 +1630,24 @@
     "title": "Modernes Wohnen in Köln-Ehrenfeld – Neubau, nur mit WBS A",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-06540-004-043"
   },
+  "1900-06688-006-056": {
+    "address": "Havelstr. 19, 50765 Köln Chorweiler",
+    "area": "89,04 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-22T12:03Z",
+    "gone_since": null,
+    "rent": "1.254,20 €",
+    "rooms": "4",
+    "title": "4-Zimmerwohnung in Köln Chorweiler-Nord",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06688-006-056"
+  },
   "1900-06699-001-008": {
     "address": "Saalestr. 1, 50765 Köln Chorweiler",
     "area": "81,28 m²",

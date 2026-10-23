@@ -2937,6 +2937,21 @@
     "title": "Schöne 2 Zimmerwohnung in Köln-Buchforst",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00141-002-015"
   },
+  "8110-00147-002-015": {
+    "address": "Dohmengasse 5, 50829 Köln Bocklemünd/Mengenich",
+    "area": "76,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-23T09:03Z",
+    "gone_since": null,
+    "rent": "933,00 €",
+    "rooms": "3",
+    "title": "3-Zimmer Wohnung in Bocklemünd",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00147-002-015"
+  },
   "8110-00149-002-018": {
     "address": "Alzeyer Str. 33, 50739 Köln Bilderstöckchen",
     "area": "104,00 m²",

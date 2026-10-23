@@ -345,7 +345,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-19T11:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-23T08:02Z",
     "rent": "1.115,40 €",
     "rooms": "2",
     "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Terrasse",
@@ -759,6 +759,24 @@
     "rooms": "3",
     "title": "Drei-Zimmer-Wohnung mit WBS",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02792-002-025"
+  },
+  "1900-02794-003-023": {
+    "address": "Am Georgshof 9, 50765 Köln Volkhoven/Weiler",
+    "area": "64,27 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-23T08:02Z",
+    "gone_since": null,
+    "rent": "1.249,40 €",
+    "rooms": "2",
+    "title": "Zwei-Zimmer-Wohnung mit Loggia",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02794-003-023"
   },
   "1900-02794-004-041": {
     "address": "Damiansweg 72, 50765 Köln Volkhoven/Weiler",

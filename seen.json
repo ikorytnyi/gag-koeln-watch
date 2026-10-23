@@ -2981,6 +2981,24 @@
     "title": "1-Zimmer Seniorenwohnung ab 60 Jahren - nur WBS A -",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00152-001-001"
   },
+  "8110-00152-001-018": {
+    "address": "Untere Dorfstr. 93, 50829 Köln Bocklemünd/Mengenich",
+    "area": "41,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-23T12:02Z",
+    "gone_since": null,
+    "rent": "409,10 €",
+    "rooms": "1",
+    "title": "1-Zimmer-Seniorenwohnung für Personen ab 60 Jahren – Vermietung nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00152-001-018"
+  },
   "8110-00155-012-200": {
     "address": "Pyrmonter Str. 16, 51065 Köln Buchforst",
     "area": "52,16 m²",

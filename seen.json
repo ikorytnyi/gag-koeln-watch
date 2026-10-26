@@ -901,6 +901,24 @@
     "title": "Charmante 3- Zimmerwohnung",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03226-001-003"
   },
+  "1900-03300-004-038": {
+    "address": "Bergisch Gladbacher Str. 191, 51063 Köln Buchheim",
+    "area": "81,34 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-26T11:03Z",
+    "gone_since": null,
+    "rent": "962,00 €",
+    "rooms": "3",
+    "title": "Moderne 3-Zimmer-Wohnung in Köln Buchheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03300-004-038"
+  },
   "1900-03302-001-004": {
     "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
     "area": "66,07 m²",
@@ -918,6 +936,24 @@
     "rooms": "2",
     "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-004"
+  },
+  "1900-03302-001-009": {
+    "address": "Bergisch Gladbacher Str. 181, 51063 Köln Buchheim",
+    "area": "66,62 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-26T11:03Z",
+    "gone_since": null,
+    "rent": "1.173,10 €",
+    "rooms": "2",
+    "title": "Moderne 2-Zimmer-Wohnung mit Balkon in Köln Buchheim",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03302-001-009"
   },
   "1900-03573-001-006": {
     "address": "Im Mittelfeld 23, 51105 Köln Poll",
@@ -2549,7 +2585,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-22T16:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-26T11:03Z",
     "rent": "576,70 €",
     "rooms": "2",
     "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",

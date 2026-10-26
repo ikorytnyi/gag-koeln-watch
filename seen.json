@@ -772,7 +772,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-23T08:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-26T12:02Z",
     "rent": "1.249,40 €",
     "rooms": "2",
     "title": "Zwei-Zimmer-Wohnung mit Loggia",
@@ -913,7 +913,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-26T11:03Z",
-    "gone_since": null,
+    "gone_since": "2026-10-26T12:02Z",
     "rent": "962,00 €",
     "rooms": "3",
     "title": "Moderne 3-Zimmer-Wohnung in Köln Buchheim",
@@ -1885,6 +1885,21 @@
     "rooms": "2",
     "title": "Charmante 2-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07599-038-261"
+  },
+  "1900-07599-065-431": {
+    "address": "Sibeliusstr. 10, 51107 Köln Vingst",
+    "area": "60,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-26T12:02Z",
+    "gone_since": null,
+    "rent": "875,00 €",
+    "rooms": "2",
+    "title": "Charmante 2-Zimmer-Wohnung im Herzen von Vingst, bietet vieles für ein komfortables Wohnen!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07599-065-431"
   },
   "1900-07599-072-477": {
     "address": "Sibeliusstr. 24, 51107 Köln Vingst",

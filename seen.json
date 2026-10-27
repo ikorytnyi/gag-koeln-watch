@@ -807,7 +807,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-21T07:04Z",
-    "gone_since": "2026-10-21T13:02Z",
+    "gone_since": null,
     "rent": "957,20 €",
     "rooms": "2",
     "title": "Gemütliche 2-Zimmer Wohnung in Köln Höhenberg",
@@ -949,7 +949,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-26T11:03Z",
-    "gone_since": null,
+    "gone_since": "2026-10-27T07:02Z",
     "rent": "1.173,10 €",
     "rooms": "2",
     "title": "Moderne 2-Zimmer-Wohnung mit Balkon in Köln Buchheim",
@@ -2987,6 +2987,21 @@
     "rooms": "2",
     "title": "Schöne 2 Zimmerwohnung in Köln-Buchforst",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00141-002-015"
+  },
+  "8110-00141-003-024": {
+    "address": "Heidelberger Str. 14, 51065 Köln Buchforst",
+    "area": "84,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-27T07:02Z",
+    "gone_since": null,
+    "rent": "1.245,40 €",
+    "rooms": "3",
+    "title": "Schöne 3 Zimmerwohnung in Köln Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00141-003-024"
   },
   "8110-00147-002-015": {
     "address": "Dohmengasse 5, 50829 Köln Bocklemünd/Mengenich",

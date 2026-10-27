@@ -1241,6 +1241,22 @@
     "title": "2 Zimmer Wohnung, 64,45 qm, Hochparterre in der Naumannsiedlung in 50735 Köln",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-001-004"
   },
+  "1900-04251-004-046": {
+    "address": "Ehrenbergstr. 8, 50735 Köln Riehl",
+    "area": "73,55 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-27T12:05Z",
+    "gone_since": null,
+    "rent": "1.126,20 €",
+    "rooms": "2",
+    "title": "2 Zimmer Dachgeschoß Wohnung, 73,55 qm in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-004-046"
+  },
   "1900-04251-005-058": {
     "address": "Ehrenbergstr. 10, 50735 Köln Riehl",
     "area": "73,56 m²",

@@ -2094,7 +2094,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-28T10:03Z",
-    "gone_since": null,
+    "gone_since": "2026-10-28T11:02Z",
     "rent": "489,10 €",
     "rooms": "2",
     "title": "Geräumige 2 Zimmer Wohnung in Köln Höhenhaus- nur mit Wohnberechtigungsschein",
@@ -2792,6 +2792,23 @@
     "rooms": "3",
     "title": "Helle 3-Zimmer Wohnung mit Balkon und Aufzug in naturnaher Lage von Köln-Dünnwald",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00063-006-094"
+  },
+  "8110-00068-001-009": {
+    "address": "Bonner Str. 508, 50968 Köln Marienburg",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-28T11:02Z",
+    "gone_since": null,
+    "rent": "867,00 €",
+    "rooms": "2",
+    "title": "Gemütliche 2-ZKB-Wohnung mit Balkon in beliebter Lage von Köln-Marienburg",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00068-001-009"
   },
   "8110-00073-001-003": {
     "address": "Boltensternstr. 118, 50735 Köln Niehl",

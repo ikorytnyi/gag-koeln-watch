@@ -53,6 +53,25 @@
     "title": "Schöne 3 Zimmer Wohnung am Stammheimer Ufer",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-004-034"
   },
+  "1900-01030-004-038": {
+    "address": "Nathan-Kahn-Straße 13d, 51061 Köln Stammheim",
+    "area": "93,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-28T10:03Z",
+    "gone_since": null,
+    "rent": "1.701,90 €",
+    "rooms": "4",
+    "title": "4 Zimmer Wohnung in Köln Stammheim  mit Blick auf den Rhein!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01030-004-038"
+  },
   "1900-01199-001-012": {
     "address": "Eulenbergstr. 41, 51065 Köln Mülheim",
     "area": "81,68 m²",
@@ -2064,6 +2083,22 @@
     "rooms": "3",
     "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-012-090"
+  },
+  "1900-07868-011-085": {
+    "address": "Lautenthaler Weg 1, 51061 Köln Höhenhaus",
+    "area": "60,95 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-28T10:03Z",
+    "gone_since": null,
+    "rent": "489,10 €",
+    "rooms": "2",
+    "title": "Geräumige 2 Zimmer Wohnung in Köln Höhenhaus- nur mit Wohnberechtigungsschein",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07868-011-085"
   },
   "1900-07870-013-061": {
     "address": "Andreasberger Weg 4, 51061 Köln Höhenhaus",

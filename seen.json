@@ -66,7 +66,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-28T10:03Z",
-    "gone_since": null,
+    "gone_since": "2026-10-28T12:14Z",
     "rent": "1.701,90 €",
     "rooms": "4",
     "title": "4 Zimmer Wohnung in Köln Stammheim  mit Blick auf den Rhein!",
@@ -1270,7 +1270,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-27T12:05Z",
-    "gone_since": null,
+    "gone_since": "2026-10-28T12:14Z",
     "rent": "1.126,20 €",
     "rooms": "2",
     "title": "2 Zimmer Dachgeschoß Wohnung, 73,55 qm in der Naumannsiedlung in 50735 Köln",
@@ -3478,7 +3478,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-09-08T09:02Z",
-    "gone_since": "2026-09-08T10:03Z",
+    "gone_since": null,
     "rent": "471,10 €",
     "rooms": "1",
     "title": "Gemütliche 1-Zimmer Wohnung mit WBS",

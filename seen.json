@@ -1737,6 +1737,22 @@
     "title": "4-Zimmerwohnung in Köln Chorweiler-Nord",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-06688-006-056"
   },
+  "1900-06688-012-119": {
+    "address": "Havelstr. 31, 50765 Köln Chorweiler",
+    "area": "75,01 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Garten/ -mitbenutzung",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-10-28T13:18Z",
+    "gone_since": null,
+    "rent": "994,60 €",
+    "rooms": "3",
+    "title": "3 Zimmerwohnung mit Terrase in Köln Chorweiler-Nord, ohne WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06688-012-119"
+  },
   "1900-06699-001-008": {
     "address": "Saalestr. 1, 50765 Köln Chorweiler",
     "area": "81,28 m²",

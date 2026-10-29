@@ -2412,6 +2412,24 @@
     "title": "WBS A - 80 m² erforderlich! Schöne 3-Zimmer-Wohnung in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08441-001-011"
   },
+  "1900-08470-003-035": {
+    "address": "Friedensstr. 139, 51145 Köln Elsdorf",
+    "area": "61,09 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Fußbodenheizung"
+    ],
+    "first_seen": "2026-10-29T11:05Z",
+    "gone_since": null,
+    "rent": "823,20 €",
+    "rooms": "2",
+    "title": "Min. WBS B - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Köln Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08470-003-035"
+  },
   "1900-08472-003-031": {
     "address": "Friedensstr. 127, 51145 Köln Elsdorf",
     "area": "75,55 m²",

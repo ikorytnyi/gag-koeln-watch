@@ -247,7 +247,7 @@
       "Personenaufzug"
     ],
     "first_seen": "2026-10-30T07:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-30T08:05Z",
     "rent": "840,50 €",
     "rooms": "2",
     "title": "gemütliche 2Raumwohnung in Dellbrück",
@@ -264,7 +264,7 @@
       "Fußbodenheizung"
     ],
     "first_seen": "2026-10-30T07:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-30T08:05Z",
     "rent": "1.241,40 €",
     "rooms": "3",
     "title": "gemütliche 3-Raumwohnung in Dellbrück",
@@ -860,7 +860,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-21T07:04Z",
-    "gone_since": null,
+    "gone_since": "2026-10-30T08:05Z",
     "rent": "957,20 €",
     "rooms": "2",
     "title": "Gemütliche 2-Zimmer Wohnung in Köln Höhenberg",
@@ -3578,7 +3578,7 @@
       "Personenaufzug"
     ],
     "first_seen": "2026-10-30T07:02Z",
-    "gone_since": null,
+    "gone_since": "2026-10-30T08:05Z",
     "rent": "786,80 €",
     "rooms": "2",
     "title": "Schöne 2 Zimmer Küche Wohnung in Köln Brück",

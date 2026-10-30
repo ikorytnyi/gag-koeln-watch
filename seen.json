@@ -761,6 +761,22 @@
     "title": "Zwei-Zimmer-Wohnung im Dachgeschoss mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-011-085"
   },
+  "1900-02780-013-107": {
+    "address": "Wezelostr. 40, 50765 Köln Volkhoven/Weiler",
+    "area": "64,19 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-30T11:02Z",
+    "gone_since": null,
+    "rent": "938,10 €",
+    "rooms": "2",
+    "title": "Zwei-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-013-107"
+  },
   "1900-02780-015-120": {
     "address": "Wezelostr. 32, 50765 Köln Volkhoven/Weiler",
     "area": "44,55 m²",
@@ -776,6 +792,22 @@
     "rooms": "1",
     "title": "Zwei-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-015-120"
+  },
+  "1900-02780-021-166": {
+    "address": "Kreuzblumenweg 32, 50765 Köln Volkhoven/Weiler",
+    "area": "65,46 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-10-30T11:02Z",
+    "gone_since": null,
+    "rent": "1.001,10 €",
+    "rooms": "2",
+    "title": "Zwei-Zimmer-Dachgeschosswohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02780-021-166"
   },
   "1900-02791-003-027": {
     "address": "Am Georgshof 6, 50765 Köln Volkhoven/Weiler",

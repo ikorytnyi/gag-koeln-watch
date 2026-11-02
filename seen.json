@@ -803,7 +803,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-30T11:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-02T08:12Z",
     "rent": "1.001,10 €",
     "rooms": "2",
     "title": "Zwei-Zimmer-Dachgeschosswohnung mit Balkon",
@@ -2774,6 +2774,24 @@
     "rooms": "2",
     "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-163"
+  },
+  "8110-00022-003-193": {
+    "address": "Pohlmanstr. 13, 50735 Köln Niehl",
+    "area": "55,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Fußbodenheizung"
+    ],
+    "first_seen": "2026-11-02T08:12Z",
+    "gone_since": null,
+    "rent": "576,70 €",
+    "rooms": "2",
+    "title": "Seniorenfreundliche Wohnung  in Köln Niehl mit WBS ab 60 Jahren",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-193"
   },
   "8110-00022-003-229": {
     "address": "Pohlmanstr. 13, 50735 Köln Niehl",

@@ -3840,6 +3840,23 @@
     "title": "WBS A - 65 m²! Schöne 2-Zimmer-Wohnung in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00480-002-026"
   },
+  "8110-00480-008-093": {
+    "address": "Memeler Straße 8, 51145 Köln Urbach",
+    "area": "60,16 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-02T13:04Z",
+    "gone_since": null,
+    "rent": "1.006,80 €",
+    "rooms": "2",
+    "title": "Schicke 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00480-008-093"
+  },
   "8110-00500-001-005": {
     "address": "Gummersbacher Str. 23, 50679 Köln",
     "area": "53,54 m²",
@@ -3894,10 +3911,11 @@
     "facilities": [
       "Bad mit Wanne",
       "Gäste-WC",
-      "Balkon"
+      "Balkon",
+      "Fußbodenheizung"
     ],
     "first_seen": "2026-10-14T10:02Z",
-    "gone_since": "2026-10-16T08:02Z",
+    "gone_since": null,
     "rent": "1.242,60 €",
     "rooms": "4",
     "title": "Geräumige 4-Zimmer-Wohnung mit Balkon in Porz!",

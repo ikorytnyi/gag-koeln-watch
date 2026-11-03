@@ -131,6 +131,21 @@
     "title": "Schöne 3-Zimmer-Wohnung in Rheinnähe",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-01639-003-018"
   },
+  "1900-01639-034-257": {
+    "address": "Moses-Heß-Str. 42, 51061 Köln Stammheim",
+    "area": "28,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-03T15:01Z",
+    "gone_since": null,
+    "rent": "387,00 €",
+    "rooms": "1",
+    "title": "Schöne 1-Zimmer-Wohnung in Rheinnähe",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01639-034-257"
+  },
   "1900-01639-042-331": {
     "address": "Ricarda-Huch-Str. 7, 51061 Köln Stammheim",
     "area": "55,00 m²",

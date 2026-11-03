@@ -2842,6 +2842,24 @@
     "title": "Wohnen ab 60 Jahren mit WBS in Köln Niehl",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00022-003-237"
   },
+  "8110-00027-001-023": {
+    "address": "Karl-Berbuer-Platz 1, 50678 Köln Altstadt/Süd",
+    "area": "44,63 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Seniorengerecht",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-03T13:02Z",
+    "gone_since": null,
+    "rent": "537,10 €",
+    "rooms": "1",
+    "title": "1-Zimmer-Appartement - NUR AB 60 Jahren MIT WBS - Südstadt",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00027-001-023"
+  },
   "8110-00049-002-013": {
     "address": "Hochwinkel 3, 51069 Köln Dellbrück",
     "area": "59,00 m²",
@@ -4194,7 +4212,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-09-29T08:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-03T13:02Z",
     "rent": "754,20 €",
     "rooms": "2",
     "title": "Wohnen in Buchforst",

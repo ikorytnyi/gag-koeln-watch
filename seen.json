@@ -1401,6 +1401,22 @@
     "title": "2 Zimmer Wohnung, 56,30 qm ohne Balkon in der Naumansiedlung in 50735 Köln",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04252-001-014"
   },
+  "1900-04252-002-029": {
+    "address": "Naumannstr. 4, 50735 Köln Riehl",
+    "area": "76,83 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-04T09:02Z",
+    "gone_since": null,
+    "rent": "1.156,80 €",
+    "rooms": "2",
+    "title": "2 Zimmer Dachgeschoßwohnung , 76,83 qm in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04252-002-029"
+  },
   "1900-04252-008-096": {
     "address": "Naumannstr. 16, 50735 Köln Riehl",
     "area": "48,53 m²",
@@ -2815,7 +2831,7 @@
       "Fußbodenheizung"
     ],
     "first_seen": "2026-11-02T08:12Z",
-    "gone_since": null,
+    "gone_since": "2026-11-04T09:02Z",
     "rent": "576,70 €",
     "rooms": "2",
     "title": "Seniorenfreundliche Wohnung  in Köln Niehl mit WBS ab 60 Jahren",
@@ -3679,6 +3695,21 @@
     "rooms": "2",
     "title": "Schöne 2 Zimmer Küche Wohnung in Köln Brück",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00355-002-041"
+  },
+  "8110-00370-004-025": {
+    "address": "Aeltgen-Dünwald-Str. 7, 51069 Köln Dünnwald",
+    "area": "74,65 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Garten/ -mitbenutzung"
+    ],
+    "first_seen": "2026-11-04T09:02Z",
+    "gone_since": null,
+    "rent": "825,20 €",
+    "rooms": "3",
+    "title": "3-Zimmer-Wohnung im Erdgeschoss *mit WBS 80qm*",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00370-004-025"
   },
   "8110-00370-006-041": {
     "address": "Aeltgen-Dünwald-Str. 11, 51069 Köln Dünnwald",

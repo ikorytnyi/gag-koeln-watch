@@ -360,7 +360,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-04T12:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-04T13:02Z",
     "rent": "1.395,70 €",
     "rooms": "3",
     "title": "Waldbadviertel: Attraktive, Moderne 3-Zimmer-Wohnung mit Terrasse und Garten",
@@ -461,7 +461,7 @@
       "Personenaufzug"
     ],
     "first_seen": "2026-11-04T12:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-04T13:02Z",
     "rent": "575,82 €",
     "rooms": "2",
     "title": "!WBS (A) 50m²! erforderlich - Waldbadviertel: Moderne 2-Zimmer-Wohnung mit Terrasse und Garten",
@@ -2587,7 +2587,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-10-01T08:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-04T13:02Z",
     "rent": "1.389,60 €",
     "rooms": "3",
     "title": "Schicke 3-Zimmer-Wohnung in Porz-Urbach!",
@@ -3956,6 +3956,23 @@
     "title": "Schicke 2-Zimmer-Wohnung in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00480-008-093"
   },
+  "8110-00492-003-013": {
+    "address": "Auguste-Kowalski-Str. 43, 51069 Köln Dünnwald",
+    "area": "83,85 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-04T13:02Z",
+    "gone_since": null,
+    "rent": "1.115,00 €",
+    "rooms": "3",
+    "title": "Schöne 3-Zimmer Wohnung über zwei Etagen",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00492-003-013"
+  },
   "8110-00500-001-005": {
     "address": "Gummersbacher Str. 23, 50679 Köln",
     "area": "53,54 m²",
@@ -4014,7 +4031,7 @@
       "Fußbodenheizung"
     ],
     "first_seen": "2026-10-14T10:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-04T13:02Z",
     "rent": "1.242,60 €",
     "rooms": "4",
     "title": "Geräumige 4-Zimmer-Wohnung mit Balkon in Porz!",

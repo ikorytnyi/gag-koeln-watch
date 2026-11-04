@@ -348,6 +348,24 @@
     "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02028-001-007"
   },
+  "1900-02030-001-001": {
+    "address": "Hedwig-Wachenheim-Karree 15, 51107 Köln Ostheim",
+    "area": "81,80 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-04T12:03Z",
+    "gone_since": null,
+    "rent": "1.395,70 €",
+    "rooms": "3",
+    "title": "Waldbadviertel: Attraktive, Moderne 3-Zimmer-Wohnung mit Terrasse und Garten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02030-001-001"
+  },
   "1900-02034-001-013": {
     "address": "Bertha-Benz-Karree 14, 51107 Köln Ostheim",
     "area": "63,70 m²",
@@ -431,6 +449,23 @@
     "rooms": "2",
     "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Terrasse",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02048-002-027"
+  },
+  "1900-02048-004-069": {
+    "address": "Bertha-Benz-Karree 163, 51107 Köln Ostheim",
+    "area": "46,51 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-11-04T12:03Z",
+    "gone_since": null,
+    "rent": "575,82 €",
+    "rooms": "2",
+    "title": "!WBS (A) 50m²! erforderlich - Waldbadviertel: Moderne 2-Zimmer-Wohnung mit Terrasse und Garten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02048-004-069"
   },
   "1900-02063-001-001": {
     "address": "Hertzstr. 12, 51065 Köln Buchforst",

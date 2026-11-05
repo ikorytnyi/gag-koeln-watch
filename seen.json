@@ -1452,6 +1452,22 @@
     "title": "2 Zimmer Dachgeschoßwohnung , 76,83 qm in der Naumannsiedlung in 50735 Köln",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04252-002-029"
   },
+  "1900-04252-007-084": {
+    "address": "Naumannstr. 14, 50735 Köln Riehl",
+    "area": "41,41 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-05T17:02Z",
+    "gone_since": null,
+    "rent": "597,90 €",
+    "rooms": "1",
+    "title": "1 Zimmer Wohnung , Erdgeschoß , 41,41 qm in der Naumannsiedlung",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04252-007-084"
+  },
   "1900-04252-008-096": {
     "address": "Naumannstr. 16, 50735 Köln Riehl",
     "area": "48,53 m²",
@@ -2588,7 +2604,7 @@
       "Fußbodenheizung"
     ],
     "first_seen": "2026-10-29T11:05Z",
-    "gone_since": null,
+    "gone_since": "2026-11-05T17:02Z",
     "rent": "823,20 €",
     "rooms": "2",
     "title": "Min. WBS B - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Köln Porz!",
@@ -3457,7 +3473,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-05T11:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-05T17:02Z",
     "rent": "1.031,50 €",
     "rooms": "2",
     "title": "2 Zimmer-Wohnung in Köln Vingst",

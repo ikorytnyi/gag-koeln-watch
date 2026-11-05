@@ -3255,6 +3255,21 @@
     "title": "Zweizimmerwohnung in Kölner  Norden",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00134-001-006"
   },
+  "8110-00141-001-001": {
+    "address": "Heidelberger Str. 10, 51065 Köln Buchforst",
+    "area": "69,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-05T09:02Z",
+    "gone_since": null,
+    "rent": "972,50 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Erdgeschosswohnung in Köln-Buchforst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00141-001-001"
+  },
   "8110-00141-002-015": {
     "address": "Heidelberger Str. 12, 51065 Köln Buchforst",
     "area": "69,00 m²",

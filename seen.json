@@ -2245,6 +2245,25 @@
     "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-012-090"
   },
+  "1900-07681-011-090": {
+    "address": "Homarstr. 78, 51107 Köln Vingst",
+    "area": "45,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-05T11:02Z",
+    "gone_since": null,
+    "rent": "503,10 €",
+    "rooms": "2",
+    "title": "2-Zimmer Seniorenwohnung / NUR MIT WBS ab 60 Jahren",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07681-011-090"
+  },
   "1900-07868-011-085": {
     "address": "Lautenthaler Weg 1, 51061 Köln Höhenhaus",
     "area": "60,95 m²",
@@ -3429,6 +3448,21 @@
     "title": "3-ZimmerWohnung in Chorweiler Nord, ohne WBS",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00167-002-011"
   },
+  "8110-00181-001-004": {
+    "address": "Kuthstr. 1, 51107 Köln Vingst",
+    "area": "67,30 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-05T11:02Z",
+    "gone_since": null,
+    "rent": "1.031,50 €",
+    "rooms": "2",
+    "title": "2 Zimmer-Wohnung in Köln Vingst",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00181-001-004"
+  },
   "8110-00214-002-014": {
     "address": "Solinger Str. 8, 51103 Köln Kalk",
     "area": "53,66 m²",
@@ -3729,6 +3763,20 @@
     "rooms": "4",
     "title": "Maisonette-Wohnung, 2 Etagen in zentraler Lage - WBS A für 4 Zimmer dringend erforderlich!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00343-006-054"
+  },
+  "8110-00344-001-007": {
+    "address": "Athener Ring 16, 50765 Köln Chorweiler",
+    "area": "76,10 m²",
+    "facilities": [
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-11-05T11:02Z",
+    "gone_since": null,
+    "rent": "1.081,00 €",
+    "rooms": "3",
+    "title": "3-Zimmerwohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00344-001-007"
   },
   "8110-00355-002-041": {
     "address": "Hans-Schulten-Str. 4, 51109 Köln Brück",

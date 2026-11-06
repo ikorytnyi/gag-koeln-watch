@@ -124,7 +124,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-11-06T10:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-06T12:01Z",
     "rent": "376,40 €",
     "rooms": "1",
     "title": "Schöne 1-Zimmer-Wohnung in Rheinnähe",
@@ -3322,6 +3322,21 @@
     "rooms": "2",
     "title": "Zweizimmerwohnung in Kölner  Norden",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00134-001-006"
+  },
+  "8110-00134-001-106": {
+    "address": "Boltensternstr. 96/98, 50735 Köln Niehl",
+    "area": "41,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-11-06T12:01Z",
+    "gone_since": null,
+    "rent": "668,80 €",
+    "rooms": "2",
+    "title": "Gut geschnittene 2 Zimmerwohnung in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00134-001-106"
   },
   "8110-00141-001-001": {
     "address": "Heidelberger Str. 10, 51065 Köln Buchforst",

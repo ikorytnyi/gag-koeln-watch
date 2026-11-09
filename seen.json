@@ -1989,7 +1989,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-09T13:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-09T14:03Z",
     "rent": "863,30 €",
     "rooms": "2",
     "title": "2- Zimmerwohnung in Chorweiler-Nord, ohne WBS",
@@ -4407,6 +4407,23 @@
     "rooms": "1",
     "title": "Charmante und kürzlich modernisierte öffentlich geförderte 1-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-005-124"
+  },
+  "8280-06691-007-213": {
+    "address": "Stockholmer Allee 15, 50765 Köln Chorweiler",
+    "area": "80,35 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Balkon",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-11-09T14:03Z",
+    "gone_since": null,
+    "rent": "999,90 €",
+    "rooms": "3",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 3-Zimmerwohnung mit Balkon WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-007-213"
   },
   "8280-06691-009-303": {
     "address": "Stockholmer Allee 19, 50765 Köln Chorweiler",

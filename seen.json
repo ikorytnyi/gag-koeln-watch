@@ -1979,6 +1979,22 @@
     "title": "2-Zimmer Wohnung in Chorweiler Nord Optional mit Küchenzeile",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-06706-002-018"
   },
+  "1900-06706-004-035": {
+    "address": "Saalestr. 16, 50765 Köln Chorweiler",
+    "area": "63,43 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-09T13:03Z",
+    "gone_since": null,
+    "rent": "863,30 €",
+    "rooms": "2",
+    "title": "2- Zimmerwohnung in Chorweiler-Nord, ohne WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06706-004-035"
+  },
   "1900-06707-003-033": {
     "address": "Saalestr. 24, 50765 Köln Chorweiler",
     "area": "75,01 m²",
@@ -3126,6 +3142,21 @@
     "rooms": "2",
     "title": "Gut geschnittene Zweizimmerwohnung in Köln Niehl",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00073-004-109"
+  },
+  "8110-00078-001-001": {
+    "address": "Duisburger Str. 11, 50735 Köln Niehl",
+    "area": "65,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon"
+    ],
+    "first_seen": "2026-11-09T13:03Z",
+    "gone_since": null,
+    "rent": "930,50 €",
+    "rooms": "3",
+    "title": "Gemütliche Dreizimmerwohnung in Köln Niehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00078-001-001"
   },
   "8110-00078-002-011": {
     "address": "Duisburger Str. 13, 50735 Köln Niehl",

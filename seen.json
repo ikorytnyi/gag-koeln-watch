@@ -2516,6 +2516,24 @@
     "title": "Ausschließlich für Studenten: Modernes Appartement",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-057"
   },
+  "1900-08060-004-062": {
+    "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
+    "area": "29,91 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-10T07:02Z",
+    "gone_since": null,
+    "rent": "571,60 €",
+    "rooms": "1",
+    "title": "Appartement ausschließlich für Studenten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-062"
+  },
   "1900-08060-004-067": {
     "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
     "area": "28,35 m²",
@@ -4419,7 +4437,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-11-09T14:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-10T07:02Z",
     "rent": "999,90 €",
     "rooms": "3",
     "title": "Charmante und kürzlich modernisierte öffentlich geförderte 3-Zimmerwohnung mit Balkon WBS A",

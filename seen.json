@@ -1473,6 +1473,22 @@
     "title": "Helle Dachgeschoßwohnung 73,56 qm  in der Naumannsiedlung in 50735 Köln",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-005-058"
   },
+  "1900-04251-006-066": {
+    "address": "Ehrenbergstr. 12, 50735 Köln Riehl",
+    "area": "64,45 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-11T08:02Z",
+    "gone_since": null,
+    "rent": "1.003,10 €",
+    "rooms": "2",
+    "title": "2 Zimmer Wohnung 64,45 qm in der Naumannsiedlung in 50735 Köln-Riehl",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04251-006-066"
+  },
   "1900-04252-001-014": {
     "address": "Naumannstr. 2, 50735 Köln Riehl",
     "area": "56,30 m²",
@@ -2605,6 +2621,23 @@
     "rooms": "3",
     "title": "Tolle Maisonette-Wohnung mit Dachterrasse",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-004-006"
+  },
+  "1900-08061-005-022": {
+    "address": "Sieversstraße 22, 51103 Köln Kalk",
+    "area": "63,09 m²",
+    "facilities": [
+      "Bad mit Dusche",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-11T08:02Z",
+    "gone_since": null,
+    "rent": "1.010,20 €",
+    "rooms": "2",
+    "title": "Geräumige 2-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-005-022"
   },
   "1900-08061-005-058": {
     "address": "Sieversstraße 22, 51103 Köln Kalk",

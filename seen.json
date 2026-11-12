@@ -115,6 +115,21 @@
     "title": "3-Zimmer-Wohnung in Rheinnähe",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-01638-005-049"
   },
+  "1900-01638-021-143": {
+    "address": "Ricarda-Huch-Str. 38, 51061 Köln Stammheim",
+    "area": "66,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-11-12T10:02Z",
+    "gone_since": null,
+    "rent": "851,60 €",
+    "rooms": "3",
+    "title": "Schöne 3-Zimmer-Wohnung in Rheinnähe",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01638-021-143"
+  },
   "1900-01638-026-181": {
     "address": "Ricarda-Huch-Str. 48, 51061 Köln Stammheim",
     "area": "28,00 m²",
@@ -1131,7 +1146,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-08-28T12:05Z",
-    "gone_since": "2026-11-03T07:03Z",
+    "gone_since": null,
     "rent": "1.206,30 €",
     "rooms": "2",
     "title": "Moderne 2-Zimmer Wohnung in Köln Buchheim",

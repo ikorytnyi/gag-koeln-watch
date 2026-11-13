@@ -560,6 +560,21 @@
     "title": "2 Zimmer Wohnung in Buchforst",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02067-001-007"
   },
+  "1900-02079-003-021": {
+    "address": "Heidelberger Str. 51, 51065 Köln Buchforst",
+    "area": "66,32 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-11-13T09:02Z",
+    "gone_since": null,
+    "rent": "862,50 €",
+    "rooms": "2",
+    "title": "Helle 2 Zimmer Wohnung mit Balkon in zentraler Lage!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02079-003-021"
+  },
   "1900-02093-001-006": {
     "address": "Heidelberger Str. 39, 51065 Köln Buchforst",
     "area": "65,01 m²",
@@ -2089,7 +2104,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-11-13T07:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-13T09:02Z",
     "rent": "642,70 €",
     "rooms": "3",
     "title": "3 Zimmer Maisonette Wohnung in Köln Höhenhaus - nur mit Wohnberechtigungsschein",

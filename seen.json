@@ -1927,6 +1927,35 @@
     "title": "Schöne 2-Zimmer-Wohnung in Rodenkirchen Ruhiglage",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-06023-007-040"
   },
+  "1900-06534-006-041": {
+    "address": "Herbigstr. 32, 50825 Köln Ehrenfeld",
+    "area": "74,22 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon"
+    ],
+    "first_seen": "2026-11-16T10:02Z",
+    "gone_since": null,
+    "rent": "1.618,50 €",
+    "rooms": "3",
+    "title": "Modernisierte 3-Zimmer Wohnung im Herzen von Köln-Ehrenfeld",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06534-006-041"
+  },
+  "1900-06534-006-042": {
+    "address": "Herbigstr. 32, 50825 Köln Ehrenfeld",
+    "area": "86,34 m²",
+    "facilities": [
+      "Keller",
+      "Bad"
+    ],
+    "first_seen": "2026-11-16T10:02Z",
+    "gone_since": null,
+    "rent": "1.881,40 €",
+    "rooms": "4",
+    "title": "Modernisierte 4-Zimmer Wohnung im Herzen von Köln-Ehrenfeld",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06534-006-042"
+  },
   "1900-06540-003-022": {
     "address": "Borsigstraße 8, 50825 Köln",
     "area": "77,01 m²",

@@ -569,7 +569,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-11-13T09:02Z",
-    "gone_since": "2026-11-13T10:05Z",
+    "gone_since": null,
     "rent": "862,50 €",
     "rooms": "2",
     "title": "Helle 2 Zimmer Wohnung mit Balkon in zentraler Lage!",
@@ -4259,7 +4259,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-02T13:04Z",
-    "gone_since": null,
+    "gone_since": "2026-11-16T08:03Z",
     "rent": "1.006,80 €",
     "rooms": "2",
     "title": "Schicke 2-Zimmer-Wohnung in Porz!",

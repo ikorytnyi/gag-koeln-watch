@@ -545,6 +545,22 @@
     "title": "Wohnen in Köln-Buchforst",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02063-001-009"
   },
+  "1900-02064-001-001": {
+    "address": "Kasseler Str. 25, 51065 Köln Buchforst",
+    "area": "47,84 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-16T13:04Z",
+    "gone_since": null,
+    "rent": "748,20 €",
+    "rooms": "2",
+    "title": "Wohnung in 51065 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02064-001-001"
+  },
   "1900-02067-001-007": {
     "address": "Waldecker Str. 45, 51065 Köln Buchforst",
     "area": "67,64 m²",

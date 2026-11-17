@@ -1293,6 +1293,22 @@
     "title": "Gemütliche Wohnung in Köln Höhenberg.",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03900-008-028"
   },
+  "1900-03922-003-020": {
+    "address": "Erfurter Str. 30, 51103 Köln Höhenberg",
+    "area": "50,11 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-17T07:02Z",
+    "gone_since": null,
+    "rent": "769,20 €",
+    "rooms": "2",
+    "title": "Gemütliche 2-Zimmer Wohnung in Köln Höhenberg",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03922-003-020"
+  },
   "1900-03998-005-053": {
     "address": "Im Leimfeld 4, 51065 Köln Buchheim",
     "area": "41,75 m²",

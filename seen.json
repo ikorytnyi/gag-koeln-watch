@@ -1487,6 +1487,22 @@
     "title": "2 Zimmer Wohnung  49,17 qm in der Naumannsiedlung",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-011-107"
   },
+  "1900-04250-012-118": {
+    "address": "Goldfußstr. 10, 50735 Köln Riehl",
+    "area": "43,35 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Fenster",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-17T12:02Z",
+    "gone_since": null,
+    "rent": "673,90 €",
+    "rooms": "1",
+    "title": "Gut geschnittene 1- Zimmer Wohnung , 43,35 qm in der Naumannsiedlung in 50735 Köln",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04250-012-118"
+  },
   "1900-04251-001-004": {
     "address": "Ehrenbergstr. 2, 50735 Köln Riehl",
     "area": "64,45 m²",

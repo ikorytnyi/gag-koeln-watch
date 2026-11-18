@@ -2764,6 +2764,25 @@
     "title": "Ausschließlich für Studenten",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-094"
   },
+  "1900-08060-004-118": {
+    "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
+    "area": "29,91 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-18T12:03Z",
+    "gone_since": null,
+    "rent": "571,60 €",
+    "rooms": "1",
+    "title": "Ausschließlich für Studenten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08060-004-118"
+  },
   "1900-08061-004-006": {
     "address": "Kalker Hauptstraße 116, 51103 Köln Kalk",
     "area": "110,13 m²",

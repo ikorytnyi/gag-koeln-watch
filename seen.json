@@ -716,6 +716,24 @@
     "title": "Moderne 2 Zi. Whg. mit offenem Wohnbereich und Balkon!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02118-001-015"
   },
+  "1900-02118-002-040": {
+    "address": "Rudolf-Clausius-Str. 1, 51065 Köln Buchforst",
+    "area": "67,10 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-11-18T08:02Z",
+    "gone_since": null,
+    "rent": "886,70 €",
+    "rooms": "3",
+    "title": "Helle 3-Zimmer-Wohnung in zentraler Lage!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02118-002-040"
+  },
   "1900-02260-001-002": {
     "address": "Dillenburger Str. 13, 51105 Köln Kalk",
     "area": "90,39 m²",

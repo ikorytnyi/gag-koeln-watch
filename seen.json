@@ -806,6 +806,23 @@
     "title": "Moderne 4-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-003-051"
   },
+  "1900-02260-005-072": {
+    "address": "Robertstr. 19, 51105 Köln Kalk",
+    "area": "41,41 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Barrierefrei",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-18T11:01Z",
+    "gone_since": null,
+    "rent": "738,81 €",
+    "rooms": "1",
+    "title": "NUR für STUDENTEN: großzügiges Appartement",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02260-005-072"
+  },
   "1900-02260-005-073": {
     "address": "Robertstr. 19, 51105 Köln Kalk",
     "area": "38,63 m²",
@@ -4562,6 +4579,20 @@
     "rooms": "1",
     "title": "Modernisierte 1-Zimmerwohnung mit WBS A",
     "url": "https://www.gag-koeln.de/immobiliensuche/8280-06690-004-334"
+  },
+  "8280-06691-001-011": {
+    "address": "Göteborgstr. 2, 50765 Köln Chorweiler",
+    "area": "60,82 m²",
+    "facilities": [
+      "Bad",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-11-18T11:01Z",
+    "gone_since": null,
+    "rent": "651,20 €",
+    "rooms": "2",
+    "title": "Charmante und kürzlich modernisierte öffentlich geförderte 2-Zimmer-Wohnung mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8280-06691-001-011"
   },
   "8280-06691-002-030": {
     "address": "Stockholmer Allee 5, 50765 Köln Chorweiler",

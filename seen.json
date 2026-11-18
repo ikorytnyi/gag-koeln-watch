@@ -313,6 +313,21 @@
     "title": "Nur bis WBS-A bis 65qm! Schöne  Zweizimmerwohnung am Butzweilerhof",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-01782-002-031"
   },
+  "1900-01829-003-051": {
+    "address": "Graseggerstr. 19b, 50737 Köln Longerich",
+    "area": "38,78 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-18T14:02Z",
+    "gone_since": null,
+    "rent": "508,30 €",
+    "rooms": "1",
+    "title": "Wohnberechtigungsschein erforderlich! Ein Zimmer Wohnung, 38,78 qm in Longerich, mit WBS",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-01829-003-051"
+  },
   "1900-01901-004-022": {
     "address": "Bergisch Gladbacher Str. 797, 51069 Köln Dellbrück",
     "area": "58,84 m²",
@@ -1682,6 +1697,23 @@
     "title": "Gut geschnittene helle Drei Zimmer Wohnung, 77,04 qm  in Longerich",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-04307-001-017"
   },
+  "1900-04307-001-021": {
+    "address": "Altonaer Str. 1, 50737 Köln Longerich",
+    "area": "77,46 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Fenster, Wanne",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-18T14:02Z",
+    "gone_since": null,
+    "rent": "1.119,60 €",
+    "rooms": "3",
+    "title": "Gut geschnittene Drei Zimmer Wohnung ,77,46 qm in Köln Longerich",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-04307-001-021"
+  },
   "1900-04307-003-074": {
     "address": "Rambouxstr. 2, 50737 Köln Longerich",
     "area": "77,46 m²",
@@ -2777,7 +2809,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-18T12:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-18T14:02Z",
     "rent": "571,60 €",
     "rooms": "1",
     "title": "Ausschließlich für Studenten",

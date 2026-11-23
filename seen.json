@@ -1170,7 +1170,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-23T12:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-23T15:02Z",
     "rent": "624,80 €",
     "rooms": "1",
     "title": "1-Zimmer-Wohnung in Höhenberg",
@@ -2420,7 +2420,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-10-21T10:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-23T15:02Z",
     "rent": "746,92 €",
     "rooms": "2",
     "title": "Moderne 2-Zimmer-Wohnung im Neubau SechtM mit Loggia - Nur mit WBS A!",
@@ -4709,7 +4709,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-23T11:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-23T15:02Z",
     "rent": "743,00 €",
     "rooms": "2",
     "title": "Modernisierte 2-Zimmerwohnung mit WBS A",
@@ -4726,7 +4726,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-08-07T11:16Z",
-    "gone_since": null,
+    "gone_since": "2026-11-23T15:02Z",
     "rent": "944,00 €",
     "rooms": "3",
     "title": "Modernisierte 3-Zimmerwohnung mit WBS A",
@@ -4741,7 +4741,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-11-23T11:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-23T15:02Z",
     "rent": "493,00 €",
     "rooms": "1",
     "title": "Modernisierte 1-Zimmerwohnung mit WBS A",

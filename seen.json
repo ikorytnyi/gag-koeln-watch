@@ -396,6 +396,24 @@
     "title": "Helle 2-Zimmer-Wohnung in Köln-Kalk!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02013-001-020"
   },
+  "1900-02022-001-001": {
+    "address": "Gertrud-Luckner-Karree 8, 51107 Köln Ostheim",
+    "area": "59,58 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-23T12:02Z",
+    "gone_since": null,
+    "rent": "1.018,10 €",
+    "rooms": "2",
+    "title": "Waldbadviertel: Attraktive, Moderne 2-Zimmer-Wohnung mit Terrasse und Garten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02022-001-001"
+  },
   "1900-02028-001-007": {
     "address": "Bertha-Benz-Karree 6, 51107 Köln Ostheim",
     "area": "62,69 m²",
@@ -495,6 +513,23 @@
     "rooms": "2",
     "title": "Waldbadviertel: !WBS (A) 65,00 m²! notwendig! - Attraktive, Moderne 2-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02040-001-004"
+  },
+  "1900-02048-001-016": {
+    "address": "Bertha-Benz-Karree 157, 51107 Köln Ostheim",
+    "area": "60,88 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-11-23T12:02Z",
+    "gone_since": null,
+    "rent": "723,17 €",
+    "rooms": "2",
+    "title": "!WBS (A) 65m²! erforderlich - Waldbadviertel: Moderne 2-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02048-001-016"
   },
   "1900-02048-002-027": {
     "address": "Bertha-Benz-Karree 159, 51107 Köln Ostheim",
@@ -1124,6 +1159,22 @@
     "rooms": "2",
     "title": "Höhenberg: 2-Zimmer-Wohnung im 2. OG!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-03152-001-005"
+  },
+  "1900-03162-001-005": {
+    "address": "Fuldaer Str. 61, 51103 Köln Höhenberg",
+    "area": "39,60 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-23T12:02Z",
+    "gone_since": null,
+    "rent": "624,80 €",
+    "rooms": "1",
+    "title": "1-Zimmer-Wohnung in Höhenberg",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-03162-001-005"
   },
   "1900-03162-005-033": {
     "address": "Fuldaer Str. 69, 51103 Köln Höhenberg",
@@ -2369,7 +2420,7 @@
       "Fernwärme"
     ],
     "first_seen": "2026-10-21T10:03Z",
-    "gone_since": null,
+    "gone_since": "2026-11-23T12:02Z",
     "rent": "746,92 €",
     "rooms": "2",
     "title": "Moderne 2-Zimmer-Wohnung im Neubau SechtM mit Loggia - Nur mit WBS A!",
@@ -2461,6 +2512,23 @@
     "rooms": "3",
     "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07604-004-024"
+  },
+  "1900-07604-010-077": {
+    "address": "Sigrid-Undset-Str. 14, 51103 Köln Vingst",
+    "area": "81,49 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-23T12:02Z",
+    "gone_since": null,
+    "rent": "1.123,60 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07604-010-077"
   },
   "1900-07605-015-103": {
     "address": "Sigrid-Undset-Str. 5, 51103 Köln Vingst",
@@ -4156,6 +4224,23 @@
     "rooms": "1",
     "title": "Gemütliche 1-Zimmer Wohnung mit WBS",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00335-002-014"
+  },
+  "8110-00339-002-002": {
+    "address": "Brettener Str. 3, 51107 Köln Ostheim",
+    "area": "108,28 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Gäste-WC",
+      "Garten/ -mitbenutzung",
+      "Etagenheizung"
+    ],
+    "first_seen": "2026-11-23T12:02Z",
+    "gone_since": null,
+    "rent": "976,60 €",
+    "rooms": "5",
+    "title": "WBS A - 110 m² erforderlich! Schönes Einfamilienhaus in Ostheim!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00339-002-002"
   },
   "8110-00343-006-054": {
     "address": "Kirchgasse 10, 51065 Köln Buchheim",

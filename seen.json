@@ -2287,6 +2287,20 @@
     "title": "3-Zimmerwohnung in Chorweiler Nord",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-06707-003-033"
   },
+  "1900-06740-014-117": {
+    "address": "Schneebergstr. 76, 50765 Köln Blumenberg",
+    "area": "80,51 m²",
+    "facilities": [
+      "Bad",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-24T09:01Z",
+    "gone_since": null,
+    "rent": "834,90 €",
+    "rooms": "3",
+    "title": "3-Zimmer-Wohnung in Chorweiler/Blumenberg - mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-06740-014-117"
+  },
   "1900-07009-001-023": {
     "address": "Kierkegaardstr. 25, 51107 Köln Vingst",
     "area": "42,00 m²",
@@ -4562,6 +4576,21 @@
     "rooms": "2",
     "title": "Barrierefreie Neubauwohnung in zentraler Lage-mit Wohnberechtigungsschein!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00500-001-005"
+  },
+  "8110-00818-010-074": {
+    "address": "Ernstbergstr. 115, 50765 Köln Blumenberg",
+    "area": "57,76 m²",
+    "facilities": [
+      "Bad",
+      "Barrierefrei",
+      "Personenaufzug"
+    ],
+    "first_seen": "2026-11-24T09:01Z",
+    "gone_since": null,
+    "rent": "854,20 €",
+    "rooms": "2",
+    "title": "Barrierefreie 2-Zimmer-Wohnung in Blumenberg - mit WBS B",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00818-010-074"
   },
   "8110-00820-004-038": {
     "address": "Kapellenstr. 46, 51103 Köln Kalk",

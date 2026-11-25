@@ -1091,6 +1091,26 @@
     "title": "Zwei-Zimmer-Wohnung mit Loggia",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-02794-003-023"
   },
+  "1900-02794-004-030": {
+    "address": "Damiansweg 72, 50765 Köln Volkhoven/Weiler",
+    "area": "112,74 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche, Wanne",
+      "Barrierefrei",
+      "Gäste-WC",
+      "Garten/ -mitbenutzung",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-25T14:02Z",
+    "gone_since": null,
+    "rent": "2.029,40 €",
+    "rooms": "5",
+    "title": "Fünf-Zimmer-Wohnung mit Loggia und Mietergarten",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-02794-004-030"
+  },
   "1900-02794-004-036": {
     "address": "Damiansweg 72, 50765 Köln Volkhoven/Weiler",
     "area": "87,43 m²",
@@ -1103,7 +1123,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-06T07:02Z",
-    "gone_since": "2026-11-06T17:02Z",
+    "gone_since": null,
     "rent": "1.608,80 €",
     "rooms": "3",
     "title": "Drei-Zimmer-Wohnung mit Loggia",
@@ -2850,7 +2870,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-25T13:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-25T14:02Z",
     "rent": "519,30 €",
     "rooms": "1",
     "title": "Helle 1-Zimmer-Wohnung mit Loggia in Köln-Kalk mit WBS!",
@@ -3082,7 +3102,7 @@
       "Fußbodenheizung"
     ],
     "first_seen": "2026-10-29T11:05Z",
-    "gone_since": "2026-11-05T17:02Z",
+    "gone_since": null,
     "rent": "823,20 €",
     "rooms": "2",
     "title": "Min. WBS B - 65 m² erforderlich! Schöne 2-Zimmer-Wohnung in Köln Porz!",

@@ -2604,6 +2604,22 @@
     "title": "2 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-001-001"
   },
+  "1900-07606-005-035": {
+    "address": "Nobelstr. 9, 51107 Köln Vingst",
+    "area": "69,19 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-25T09:01Z",
+    "gone_since": null,
+    "rent": "1.079,40 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-005-035"
+  },
   "1900-07606-010-076": {
     "address": "Thorwaldsenstr. 3, 51103 Köln Vingst",
     "area": "68,80 m²",

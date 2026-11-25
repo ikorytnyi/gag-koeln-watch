@@ -2614,7 +2614,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-25T09:01Z",
-    "gone_since": null,
+    "gone_since": "2026-11-25T13:02Z",
     "rent": "1.079,40 €",
     "rooms": "3",
     "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
@@ -2838,6 +2838,24 @@
     "title": "1-Zimmer-Wohnung in Köln-Kalk!",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08040-008-069"
   },
+  "1900-08052-011-139": {
+    "address": "Remscheider Str. 32, 51103 Köln Kalk",
+    "area": "46,73 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Barrierefrei",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-25T13:02Z",
+    "gone_since": null,
+    "rent": "519,30 €",
+    "rooms": "1",
+    "title": "Helle 1-Zimmer-Wohnung mit Loggia in Köln-Kalk mit WBS!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08052-011-139"
+  },
   "1900-08060-004-057": {
     "address": "Kalker Hauptstraße 38, 51103 Köln Kalk",
     "area": "28,08 m²",
@@ -2979,6 +2997,23 @@
     "rooms": "4",
     "title": "Großzügige 4-Zimmer-Wohnung mit Balkon",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-005-058"
+  },
+  "1900-08061-006-105": {
+    "address": "Sieversstraße 24, 51103 Köln Kalk",
+    "area": "112,55 m²",
+    "facilities": [
+      "Bad mit Dusche, Wanne",
+      "Gäste-WC",
+      "Balkon",
+      "Personenaufzug",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-25T13:02Z",
+    "gone_since": null,
+    "rent": "1.762,30 €",
+    "rooms": "4",
+    "title": "Großzügige 4-Zimmer-Wohnung mit Balkon",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-08061-006-105"
   },
   "1900-08065-007-077": {
     "address": "Loestr. 8, 51103 Köln Kalk",
@@ -3255,7 +3290,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-25T10:01Z",
-    "gone_since": null,
+    "gone_since": "2026-11-25T13:02Z",
     "rent": "520,30 €",
     "rooms": "1",
     "title": "Seniorenapartment mit WBS A in Bilderstöckchen!!! Keine Vermietung unter 60 Jahre!!!",

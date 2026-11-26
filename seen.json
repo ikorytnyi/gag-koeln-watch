@@ -2634,7 +2634,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-25T09:01Z",
-    "gone_since": "2026-11-25T13:02Z",
+    "gone_since": null,
     "rent": "1.079,40 €",
     "rooms": "3",
     "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
@@ -3029,7 +3029,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-25T13:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-26T07:02Z",
     "rent": "1.762,30 €",
     "rooms": "4",
     "title": "Großzügige 4-Zimmer-Wohnung mit Balkon",

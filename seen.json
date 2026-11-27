@@ -2650,7 +2650,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-27T09:01Z",
-    "gone_since": null,
+    "gone_since": "2026-11-27T13:02Z",
     "rent": "1.040,00 €",
     "rooms": "3",
     "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
@@ -4775,6 +4775,21 @@
     "rooms": "4",
     "title": "Geräumige 4-Zimmer-Wohnung mit Balkon in Porz!",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00843-001-004"
+  },
+  "8110-00843-007-061": {
+    "address": "Poststr. 18, 51143 Köln Porz",
+    "area": "63,74 m²",
+    "facilities": [
+      "Bad mit Wanne",
+      "Balkon",
+      "Fußbodenheizung"
+    ],
+    "first_seen": "2026-11-27T13:02Z",
+    "gone_since": null,
+    "rent": "849,00 €",
+    "rooms": "2",
+    "title": "Schöne 2-Zimmer-Wohnung in Porz!",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00843-007-061"
   },
   "8110-00846-001-014": {
     "address": "Heinrich-Hoerle-Str. 17a, 50737 Köln Longerich",

@@ -4543,6 +4543,21 @@
     "title": "Gutgeschnittene 3 Zimmer Wohnung in Ossendorf",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00395-002-017"
   },
+  "8110-00399-003-031": {
+    "address": "Ottilienstr. 5, 51069 Köln Dellbrück",
+    "area": "46,11 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Dusche",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-27T08:02Z",
+    "gone_since": null,
+    "rent": "407,50 €",
+    "rooms": "2",
+    "title": "Attraktive 2-Zimmer Dachgeschosswohnung mit Wohnberechtigungsschein in Köln Dellbrück",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00399-003-031"
+  },
   "8110-00431-003-029": {
     "address": "Ollenhauerring 80, 50829 Köln Bocklemünd/Mengenich",
     "area": "56,00 m²",

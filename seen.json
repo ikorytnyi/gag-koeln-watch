@@ -3260,6 +3260,23 @@
     "title": "1-Zimmer-Seniorenwohnung für Personen ab 60 Jahren – Vermietung nur mit WBS A",
     "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-001-058"
   },
+  "8110-00020-002-114": {
+    "address": "Görlinger-Zentrum 30B, 50829 Köln Bocklemünd/Mengenich",
+    "area": "52,00 m²",
+    "facilities": [
+      "Keller",
+      "Bad",
+      "Seniorengerecht",
+      "Personenaufzug",
+      "Fernwärme"
+    ],
+    "first_seen": "2026-11-27T14:02Z",
+    "gone_since": null,
+    "rent": "567,60 €",
+    "rooms": "2",
+    "title": "2-Zimmer-Seniorenwohnung für Personen ab 60 Jahren – Vermietung nur mit WBS A",
+    "url": "https://www.gag-koeln.de/immobiliensuche/8110-00020-002-114"
+  },
   "8110-00020-003-162": {
     "address": "Tollerstr. 1, 50829 Köln Bocklemünd/Mengenich",
     "area": "37,00 m²",

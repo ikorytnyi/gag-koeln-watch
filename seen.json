@@ -2640,6 +2640,22 @@
     "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
     "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-005-035"
   },
+  "1900-07606-009-071": {
+    "address": "Thorwaldsenstr. 1, 51103 Köln Vingst",
+    "area": "69,16 m²",
+    "facilities": [
+      "Keller",
+      "Bad mit Wanne",
+      "Balkon",
+      "Zentralheizung"
+    ],
+    "first_seen": "2026-11-27T09:01Z",
+    "gone_since": null,
+    "rent": "1.040,00 €",
+    "rooms": "3",
+    "title": "3 Zimmer-Wohnung in Vingst Veedel (Frei finanziert)",
+    "url": "https://www.gag-koeln.de/immobiliensuche/1900-07606-009-071"
+  },
   "1900-07606-010-076": {
     "address": "Thorwaldsenstr. 3, 51103 Köln Vingst",
     "area": "68,80 m²",
@@ -4552,7 +4568,7 @@
       "Zentralheizung"
     ],
     "first_seen": "2026-11-27T08:02Z",
-    "gone_since": null,
+    "gone_since": "2026-11-27T09:01Z",
     "rent": "407,50 €",
     "rooms": "2",
     "title": "Attraktive 2-Zimmer Dachgeschosswohnung mit Wohnberechtigungsschein in Köln Dellbrück",
